@@ -35,7 +35,7 @@ marmite.so,available,110,80%,7,"Food and Beverage,Hospitality,Retail",,,
 rare.online,available,110,84%,4,"Food and Beverage,Media,Retail",,,
 bulk.me,available,110,88%,4,"Construction,Manufacturing,Retail",,,
 bulk.tech,expiring,110,88%,4,"Construction,Manufacturing,Retail",29/07/2022 06:36,29/07/2025 23:59,INWX GmbH
-only.ai,resell,110,88%,4,"Business,Media,Retail",16/12/2017 05:04,18/10/2026 05:04,1API GmbH
+only.ai,resell,110,44%,4,"Business,Media,Retail",16/12/2017 05:04,18/10/2026 05:04,1API GmbH
 easter.co,expiring,110,80%,6,"Hospitality,Religion,Retail",20/07/2010 17:59,19/07/2025 23:59,"GoDaddy.com, LLC"
 potato.site,available,110,80%,6,"Agriculture,Food and Beverage,Retail",,,
 marmite.expert,available,110,80%,7,"Food and Beverage,Hospitality,Retail",,,
@@ -75,7 +75,6 @@ favourite.space,available,104,84%,9,"Entertainment,Media,Retail",,,
 infant.zone,available,104,72%,6,"Healthcare,Media,Retail",,,
 flannel.it,resell,104,84%,7,"Fashion,Hospitality,Retail",10/05/2010 12:32,01/06/2026 00:00,
 favourite.net,sold,104,84%,9,"Entertainment,Media,Retail",16/10/2002 02:06,16/10/2025 02:06,"TurnCommerce, Inc. DBA NameBright.com"
-waterproof.co,expiring,104,80%,10,"Construction,Fashion,Retail",20/07/2010 18:07,19/07/2025 23:59,"GoDaddy.com, LLC"
 birthday.org,resell,102,84%,8,"Entertainment,Hospitality,Retail",14/02/2001 11:32,14/02/2026 11:32,PDR Ltd. d/b/a PublicDomainRegistry.com
 return.tech,available,102,92%,6,"Business,Finance,General,Retail",,,
 surplus.expert,available,102,92%,7,"Business,Retail",,,
@@ -295,7 +294,7 @@ domestic.app,available,90,80%,8,"Hospitality,Real Estate,Retail",,,
 clear.site,available,90,72%,5,"Manufacturing,Retail,Technology",,,
 vendor.so,resell,90,80%,6,"Business,Hospitality,Retail",02/07/2022 02:26,02/07/2026 02:26,NameCheap
 shirt.store,available,90,88%,5,"Fashion,Manufacturing,Retail",,,
-substitute.at,available,90,72%,10,Retail,,,
+substitute.at,available,90,20%,10,Retail,,,
 brownie.tech,available,90,96%,7,"Food and Beverage,Hospitality,Retail",,,
 Xbox.zone,available,90,92%,4,"Entertainment,Retail,Technology",,,
 shower.zone,available,90,84%,6,"Health and Fitness,Hospitality,Retail",,,
@@ -332,7 +331,7 @@ refill.io,resell,90,88%,6,"Food and Beverage,Healthcare,Retail",25/03/2015 00:30
 durable.at,sold,90,84%,7,"Construction,Manufacturing,Retail",,,InterNetX GmbH ( https://nic.at/registrar/80 )
 souffle.ninja,available,90,88%,7,"Food and Beverage,Hospitality,Retail",,,
 vendor.co,resell,90,80%,6,"Business,Hospitality,Retail",11/09/2011 08:12,10/09/2025 23:59,Dynadot Inc
-substitute.co,expiring,90,72%,10,Retail,21/07/2010 16:14,20/07/2025 23:59,"GoDaddy.com, LLC"
+substitute.co,sold,90,20%,10,Retail,21/07/2010 16:14,20/07/2026 23:59,"GoDaddy.com, LLC"
 tailormade.so,available,90,80%,11,"Business,Fashion,Retail",,,
 pie.tech,expired,90,88%,3,"Food and Beverage,Retail",04/05/2022 06:40,04/05/2025 23:59,Squarespace Domains II LLC
 pouch.at,sold,90,84%,5,"Fashion,Retail,Travel",,,Hosting concepts B.V. / Registrar.eu ( https://nic.at/registrar/648 )
@@ -385,12 +384,12 @@ wreath.so,available,88,76%,6,"Arts,Retail",,,
 chevron.so,available,88,80%,7,"Fashion,Manufacturing,Retail",,,
 takeout.co,expiring,88,72%,7,"Food and Beverage,Hospitality,Retail",20/07/2010 18:00,19/07/2025 23:59,"GoDaddy.com, LLC"
 portion.site,available,88,76%,7,"Business,Food and Beverage,Retail",,,
-tempting.at,available,88,84%,8,"Food and Beverage,Retail",,,
-alluring.co,expiring,88,76%,8,"Fashion,Retail",28/07/2020 07:37,28/07/2025 07:37,"GoDaddy.com, LLC"
+tempting.at,available,88,28%,8,"Food and Beverage,Retail",,,
+alluring.co,expired,88,20%,8,"Fashion,Retail",28/07/2020 07:37,28/07/2025 07:37,"GoDaddy.com, LLC"
 bridal.org,resell,88,80%,6,"Fashion,Hospitality,Retail",14/03/1997 05:00,15/03/2026 05:00,Dynadot Inc
 chowder.pro,available,88,80%,7,"Food and Beverage,Hospitality,Retail",,,
-enticing.site,available,88,76%,8,"Fashion,Retail",,,
-enticing.org,expiring,88,76%,8,"Fashion,Retail",05/08/2005 18:55,05/08/2025 18:55,"GoDaddy.com, LLC"
+enticing.site,available,88,8%,8,"Fashion,Retail",,,
+enticing.org,resell,88,8%,8,"Fashion,Retail",05/08/2005 18:55,05/08/2026 18:55,"GoDaddy.com, LLC"
 butterscotch.ninja,available,88,84%,12,"Food and Beverage,General,Retail",,,
 ribroast.co,available,88,72%,9,"Food and Beverage,Hospitality,Retail",,,
 apricot.zone,available,88,80%,7,"Agriculture,Food and Beverage,Retail",,,
@@ -401,18 +400,18 @@ orchid.site,available,88,84%,6,"Environment,Fashion,Retail",,,
 fashionable.online,available,88,76%,11,"Fashion,Media,Retail",,,
 portion.tech,available,88,76%,7,"Business,Food and Beverage,Retail",,,
 cashier.online,available,88,80%,7,"Finance,Retail",,,
-tempting.store,available,88,84%,8,"Food and Beverage,Retail",,,
-beguiling.ninja,available,88,76%,9,"Fashion,Retail",,,
+tempting.store,available,88,28%,8,"Food and Beverage,Retail",,,
+beguiling.ninja,available,88,16%,9,"Fashion,Retail",,,
 goodie.ninja,available,88,76%,6,"Entertainment,Media,Retail",,,
 housekeep.ninja,available,88,80%,9,"Hospitality,Real Estate,Retail",,,
 bracelet.me,resell,88,84%,8,"Fashion,Retail",03/10/2013 02:35,03/10/2025 02:35,Dynadot Inc
 dropship.at,sold,88,88%,8,"Business,Retail,Technology",,,"GoDaddy.com, LLC ( https://nic.at/registrar/693 )"
 upmarket.at,available,88,84%,8,"Fashion,Real Estate,Retail",,,
 oneyearold.net,available,88,72%,12,"Education,Healthcare,Retail",,,
-alluring.expert,available,88,76%,8,"Fashion,Retail",,,
-beguiling.io,available,88,76%,9,"Fashion,Retail",,,
-alluring.io,resell,88,76%,8,"Fashion,Retail",21/12/2019 00:17,21/12/2025 00:17,"Sav.com, LLC"
-enticing.ai,resell,88,76%,8,"Fashion,Retail",23/12/2023 09:43,23/12/2025 09:43,"NameCheap, Inc."
+alluring.expert,available,88,20%,8,"Fashion,Retail",,,
+beguiling.io,available,88,16%,9,"Fashion,Retail",,,
+alluring.io,resell,88,20%,8,"Fashion,Retail",21/12/2019 00:17,21/12/2025 00:17,"Sav.com, LLC"
+enticing.ai,resell,88,8%,8,"Fashion,Retail",23/12/2023 09:43,23/12/2025 09:43,"NameCheap, Inc."
 tub.pro,available,88,92%,3,"Hospitality,Real Estate,Retail",,,
 affluent.zone,available,88,32%,8,"Finance,Retail",,,
 hugger.space,available,88,76%,6,"Health and Fitness,Media,Retail",,,
@@ -422,6 +421,7 @@ hamster.space,available,88,84%,7,"Entertainment,Retail",,,
 garb.expert,available,88,84%,4,"Fashion,Manufacturing,Retail",,,
 creamy.at,available,88,84%,6,"Food and Beverage,Hospitality,Retail",,,
 upscale.store,available,88,84%,7,"Fashion,Real Estate,Retail",,,
+tempting.me,resell,88,28%,8,"Food and Beverage,Retail",20/12/2018 01:09,20/12/2025 01:09,Dynadot Inc
 tub.zone,available,88,92%,3,"Hospitality,Real Estate,Retail",,,
 chowder.online,available,88,80%,7,"Food and Beverage,Hospitality,Retail",,,
 hugger.xyz,expiring,88,76%,6,"Health and Fitness,Media,Retail",07/07/2017 05:52,07/07/2025 23:59,OVH
@@ -440,7 +440,7 @@ soap.cloud,available,88,96%,4,"Healthcare,Media,Retail",,,
 upmarket.com,resell,88,84%,8,"Fashion,Real Estate,Retail",05/08/2003 18:10,05/08/2027 18:10,"NameSilo, LLC"
 garb.xyz,sold,88,84%,4,"Fashion,Manufacturing,Retail",03/05/2020 20:57,03/05/2026 23:59,Dynadot LLC
 hugger.online,available,88,76%,6,"Health and Fitness,Media,Retail",,,
-alluring.so,available,88,76%,8,"Fashion,Retail",,,
+alluring.so,available,88,20%,8,"Fashion,Retail",,,
 ketchup.zone,available,88,84%,7,"Agriculture,Food and Beverage,Retail",,,
 allgood.online,available,88,96%,7,"Food and Beverage,Health and Fitness,Retail",,,
 armchair.store,available,88,72%,8,"Construction,Hospitality,Retail",,,
@@ -1063,7 +1063,7 @@ upholster.io,available,78,80%,9,"Construction,Hospitality,Retail",,,
 dicker.pro,available,78,84%,6,"Business,Finance,Retail",,,
 semiformal.zone,available,78,72%,10,"Fashion,Hospitality,Retail",,,
 wish.online,available,78,84%,4,"Entertainment,General,Media,Retail",,,
-appealing.cloud,available,78,68%,9,Retail,,,
+appealing.cloud,available,78,20%,9,Retail,,,
 flask.space,available,78,84%,5,"Education,Retail,Science",,,
 semiformal.cloud,available,78,72%,10,"Fashion,Hospitality,Retail",,,
 pistachiogreen.io,available,78,72%,15,"Arts,Fashion,Retail",,,
@@ -1119,7 +1119,7 @@ accessible.us,resell,78,44%,10,"Healthcare,Retail,Technology",16/12/2014 17:37,1
 lemonchiffon.net,available,78,72%,13,"Arts,Fashion,Retail",,,
 suitcase.at,available,78,84%,8,"Fashion,Retail,Travel",,,
 backorder.so,available,78,84%,9,"Business,Retail,Technology",,,
-appealing.gg,available,78,68%,9,Retail,,,
+appealing.gg,available,78,20%,9,Retail,,,
 whopping.dev,available,78,68%,8,Retail,,,
 semiformal.co,available,78,72%,10,"Fashion,Hospitality,Retail",,,
 handstamp.gg,available,78,72%,9,"Entertainment,Media,Retail",,,
@@ -1194,6 +1194,7 @@ maroon.store,available,76,80%,6,"Arts,Fashion,Retail",,,
 drapes.zone,available,76,32%,6,"Construction,General,Retail",,,
 baconexplosion.store,available,76,72%,15,"Entertainment,Food and Beverage,Retail",,,
 floppy.expert,available,76,88%,6,"Fashion,Retail,Technology",,,
+counter.cloud,resell,76,52%,7,"Business,General,Retail",08/05/2018 20:27,08/05/2026 20:27,Porkbun LLC
 little.space,available,76,92%,6,"Education,General,Media,Retail",,,
 jellybaby.co,available,76,72%,10,"Food and Beverage,Retail",,,
 grannie.site,available,76,72%,7,"Entertainment,Media,Retail",,,
@@ -2275,7 +2276,6 @@ kirkland.pro,available,70,84%,8,"Business,Food and Beverage,Retail",,,
 pepperoni.us,resell,70,80%,9,"Food and Beverage,Retail",10/07/2019 00:01,10/07/2026 00:01,"GoDaddy.com, LLC"
 bedtime.gg,available,70,92%,7,"Healthcare,Media,Retail",,,
 duckling.tech,available,70,92%,8,"Entertainment,Food and Beverage,Retail",,,
-IKEA.io,available,70,92%,4,"General,Retail",,,
 hairoil.ninja,available,69,76%,8,"Fashion,Health and Fitness,Retail",,,
 hairtonic.so,available,69,76%,10,"Fashion,Health and Fitness,Retail",,,
 hairtonic.me,available,69,76%,10,"Fashion,Health and Fitness,Retail",,,
@@ -2884,7 +2884,7 @@ coffeemachine.it,resell,66,76%,14,"Food and Beverage,Hospitality,Retail",17/01/2
 shavinglotion.site,available,66,72%,14,"Fashion,Health and Fitness,Retail",,,
 multigrainbread.org,available,66,72%,16,"Food and Beverage,Retail",,,
 acousticguitar.app,available,66,76%,15,"Entertainment,Retail",,,
-woodsy.store,expiring,66,84%,6,"Agriculture,Hospitality,Retail",16/07/2024 21:19,16/07/2025 23:59,Tucows.com Co.
+woodsy.store,sold,66,44%,6,"Agriculture,Hospitality,Retail",16/07/2024 21:19,16/07/2026 23:59,Tucows.com Co.
 hockeystickcurve.gg,available,66,72%,18,"General,Retail,Sports",,,
 Michiganroll.zone,available,66,72%,13,"Food and Beverage,Hospitality,Retail",,,
 grahamcracker.tech,available,66,80%,14,"Agriculture,Food and Beverage,Retail",,,
@@ -2991,6 +2991,7 @@ cameraflash.gg,available,66,68%,12,"Media,Retail,Technology",,,
 chainstore.tech,available,66,72%,11,"Business,Real Estate,Retail",,,
 hatter.expert,available,66,88%,6,"Arts,Fashion,Retail",,,
 postage.app,expired,66,84%,7,"Business,Retail,Telecommunications",08/05/2018 16:00,08/05/2025 16:00,Squarespace Domains II LLC.
+timely.at,available,66,48%,6,"Business,Retail",,,
 paint.online,available,66,88%,5,"Arts,Construction,Retail",,,
 homedelivery.online,available,66,76%,13,Retail,,,
 birthdaygirl.at,available,66,76%,13,"Entertainment,Retail",,,
@@ -3235,7 +3236,7 @@ birthtopottynappy.ai,available,66,72%,20,"Healthcare,Retail",,,
 vneck.space,available,66,76%,6,"Fashion,Media,Retail",,,
 gallon.cloud,available,66,88%,6,"Food and Beverage,Retail,Science",,,
 suntancream.pro,available,66,72%,12,"Fashion,Health and Fitness,Retail",,,
-timely.so,available,66,80%,6,"Business,Retail",,,
+timely.so,available,66,48%,6,"Business,Retail",,,
 artisanbread.online,available,66,72%,13,"Food and Beverage,Retail",,,
 Brazilianblowout.expert,available,66,76%,17,"Fashion,Health and Fitness,Retail",,,
 quesadilla.ai,resell,66,76%,10,"Food and Beverage,Hospitality,Retail",22/11/2023 03:09,22/11/2025 03:09,"NameCheap, Inc."
@@ -3269,7 +3270,7 @@ caterer.site,available,66,84%,7,"Food and Beverage,Hospitality,Retail",,,
 Seattleroll.online,available,66,72%,12,"Food and Beverage,Hospitality,Retail",,,
 Dettol.space,available,66,76%,6,"Healthcare,Retail",,,
 TVtray.ninja,available,66,72%,7,"Hospitality,Retail",,,
-woodsy.online,available,66,84%,6,"Agriculture,Hospitality,Retail",,,
+woodsy.online,available,66,44%,6,"Agriculture,Hospitality,Retail",,,
 shopper.net,resell,66,92%,7,"Business,Media,Retail",01/12/2002 19:08,01/12/2026 19:08,"GoDaddy.com, LLC"
 highstyle.at,available,66,76%,10,"Fashion,Media,Retail",,,
 necktie.pro,available,66,80%,7,"Business,Fashion,Retail",,,
@@ -5431,7 +5432,7 @@ kitchentimer.org,available,60,76%,13,"Food and Beverage,Retail,Technology",,,
 popupstore.me,available,60,84%,12,"Business,Retail,Technology",,,
 atomiser.app,available,60,72%,8,"Healthcare,Pharmaceuticals,Retail",,,
 powercord.me,available,60,88%,10,"Retail,Technology",,,
-ample.ai,resell,60,88%,5,"Fashion,Hospitality,Retail",03/11/2019 00:14,03/11/2025 00:14,"NameCheap, Inc."
+ample.ai,resell,60,32%,5,"Fashion,Hospitality,Retail",03/11/2019 00:14,03/11/2025 00:14,"NameCheap, Inc."
 Linzi.expert,available,60,80%,5,"Fashion,Retail",,,
 boxedset.store,available,60,72%,9,"Entertainment,Media,Retail",,,
 powertool.store,available,60,80%,10,"Construction,Retail",,,
@@ -5490,7 +5491,7 @@ figurine.cloud,available,60,80%,8,"Arts,Entertainment,Retail",,,
 hearthrug.pro,available,60,72%,9,"Real Estate,Retail",,,
 salmoncoloured.cloud,available,60,72%,15,"Arts,Fashion,Retail",,,
 waitee.io,available,60,72%,6,"Hospitality,Retail,Transportation",,,
-ample.zone,available,60,88%,5,"Fashion,Hospitality,Retail",,,
+ample.zone,available,60,32%,5,"Fashion,Hospitality,Retail",,,
 blockbusterish.net,available,60,72%,14,"Entertainment,Media,Retail",,,
 fridgemagnet.com,resell,60,76%,13,"Hospitality,Retail",22/04/1998 04:00,21/04/2026 04:00,"NameCheap, Inc."
 percale.io,available,60,72%,7,"Fashion,Retail",,,
@@ -6095,7 +6096,7 @@ bassethound.ninja,available,60,80%,12,"Entertainment,Media,Retail",,,
 thumbstone.app,available,60,72%,11,"Health and Fitness,Retail",,,
 bottling.expert,available,60,76%,8,"Food and Beverage,Manufacturing,Retail",,,
 birdfood.cloud,available,60,84%,9,"Agriculture,Environment,Retail",,,
-ample.space,available,60,88%,5,"Fashion,Hospitality,Retail",,,
+ample.space,available,60,32%,5,"Fashion,Hospitality,Retail",,,
 partytray.net,available,60,72%,10,"Food and Beverage,Hospitality,Retail",,,
 loin.online,available,60,76%,4,"Agriculture,Food and Beverage,Retail",,,
 awarenessbracelet.me,available,60,72%,18,"Fashion,Healthcare,Retail",,,
@@ -9098,7 +9099,6 @@ meccano.so,available,54,76%,7,"Education,Entertainment,Retail",,,
 craftscentre.at,available,54,4%,13,Retail,,,
 sanddaphne.tech,available,54,72%,11,"Environment,Retail",,,
 tulle.expert,available,54,88%,5,"Fashion,Retail",,,
-milkglass.so,available,54,84%,10,"Manufacturing,Retail",,,
 spraycan.space,available,53,76%,9,"Environment,Manufacturing,Retail",,,
 doubleboiler.us,available,53,72%,13,"Food and Beverage,Retail",,,
 jadegreen.tech,available,53,76%,10,"Arts,Fashion,Retail",,,
@@ -9614,7 +9614,7 @@ Chinesemoccasin.expert,available,44,68%,16,"Fashion,General,Retail",,,
 bookends.us,resell,44,40%,8,Retail,10/02/2025 11:53,10/02/2026 11:53,Dominet (HK) Limited
 clotheshorses.expert,available,44,8%,13,Retail,,,
 clotheslines.site,available,44,28%,12,Retail,,,
-seasonably.site,available,44,72%,10,"Hospitality,Retail",,,
+seasonably.site,available,44,8%,10,"Hospitality,Retail",,,
 Chinesemolasses.org,available,44,72%,16,"Agriculture,Food and Beverage,Retail",,,
 Australianboot.pro,available,44,72%,15,"Fashion,General,Retail",,,
 Grahamcrackers.ai,available,44,20%,15,"Food and Beverage,Retail",,,
