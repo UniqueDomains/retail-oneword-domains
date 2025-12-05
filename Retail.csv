@@ -1,24 +1,24 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
 dcf85677-2b78-41d2-911f-0c8b30e247fb,goods.ai,resell,64,88,5,DNS11 GROUP,16/12/2017 05:07,19/01/2027 05:07
-d33c4839-52c6-453e-82f1-aea1d1f885f7,goods.at,available,64,88,5,,,
-f0fd6fc7-05fa-43dc-b79c-f67e46b8b85b,goods.dev,available,64,88,5,,,
+d33c4839-52c6-453e-82f1-aea1d1f885f7,goods.at,premium,64,88,5,,,
+f0fd6fc7-05fa-43dc-b79c-f67e46b8b85b,goods.dev,premium,64,88,5,,,
 662a3515-583a-489c-aaa2-5c80063e7710,goods.io,resell,64,88,5,"GoDaddy.com, LLC",11/02/2013 10:34,13/05/2026 00:30
 70d5660c-dca6-4be0-9d2b-47eb3ba714c9,goods.me,resell,64,88,5,Dynadot Inc,04/12/2017 06:16,04/12/2025 06:16
 52735109-f34b-4aea-81f4-38119a3fe230,goods.online,resell,64,88,5,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.",26/08/2015 16:01,26/08/2025 23:59
 f11b8808-e2f0-4d4a-b565-d16e4cb9b6be,goods.pro,resell,64,88,5,Registrar of Domain Names REG.RU LLC,05/03/2017 10:33,05/03/2026 10:33
 d7c5f97a-34c9-4050-972f-13cf418d88f9,goods.site,expiring,64,88,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),15/07/2015 23:04,15/07/2025 23:59
-1876f9ae-7f6c-45cc-a129-d29890366428,goods.space,available,64,88,5,,,
-98f73d33-84af-4d36-a97e-8c20c54b492d,goods.store,available,64,88,5,,,
-4c27d137-9f54-48fc-9fb1-b95c93a172d0,goods.tech,available,64,88,5,,,
-6d7bb134-9e27-4326-af52-16f72be9559a,products.at,available,,64,8,,,
-d9996fe8-c14f-4e75-aec2-ab1028ac5f3b,products.cloud,available,,64,8,,,
+1876f9ae-7f6c-45cc-a129-d29890366428,goods.space,premium,64,88,5,,,
+98f73d33-84af-4d36-a97e-8c20c54b492d,goods.store,premium,64,88,5,,,
+4c27d137-9f54-48fc-9fb1-b95c93a172d0,goods.tech,premium,64,88,5,,,
+6d7bb134-9e27-4326-af52-16f72be9559a,products.at,premium,,64,8,,,
+d9996fe8-c14f-4e75-aec2-ab1028ac5f3b,products.cloud,premium,,64,8,,,
 d78913d8-80e3-4cb4-a88e-081d7789d6f9,products.com,resell,,64,8,Dynadot Inc,13/12/1994 05:00,12/12/2032 05:00
 b751db9f-e667-48fd-9b23-1d1c480259f8,products.it,expired,,64,8,,05/07/2004 00:00,05/07/2025 00:00
-a4c3eae6-c968-4936-ab58-3a3328b36be7,products.online,available,,64,8,,,
+a4c3eae6-c968-4936-ab58-3a3328b36be7,products.online,premium,,64,8,,,
 9e0666bd-0856-41ec-a87e-2bcdea5b4cd9,products.pro,resell,,64,8,"Spaceship, Inc.",21/09/2007 00:00,21/09/2025 00:00
-472acfd1-7413-4a2b-819d-46a63fd52ff5,products.so,available,,64,8,,,
-d441dae1-e732-4bf6-beb6-cf7a0c8ca635,products.store,available,,64,8,,,
-d58bb2cd-06a3-431b-a611-6e4af533a9d3,products.tech,available,,64,8,,,
+472acfd1-7413-4a2b-819d-46a63fd52ff5,products.so,premium,,64,8,,,
+d441dae1-e732-4bf6-beb6-cf7a0c8ca635,products.store,premium,,64,8,,,
+d58bb2cd-06a3-431b-a611-6e4af533a9d3,products.tech,premium,,64,8,,,
 7da50f73-7c50-4cd3-8da8-6a254a526e08,accessories.app,premium,42,80,11,,,
 b3ed81dc-1a76-45b4-aa70-7bd837bf373f,accessories.at,premium,42,80,11,,,
 9707d97c-260e-4890-ba6a-12a9c63a90db,accessories.cloud,premium,42,80,11,,,
@@ -39,18 +39,18 @@ d40c3e03-3a79-4e22-8541-ad3679ee27aa,accessories.us,resell,42,80,11,"GoDaddy.com
 1c53f802-0c29-4fc1-b0b7-9cf4ff20a3d8,supplies.ai,resell,,88,8,"NameCheap, Inc.",01/11/2018 13:57,01/11/2026 13:57
 e8ffb582-4dfb-41f9-9dad-3ffaadb053b3,supplies.at,available,,88,8,,,
 f926c96d-26f4-4ee7-b98e-c16739ca3a6b,supplies.cloud,resell,,88,8,"Spaceship, Inc.",28/01/2021 00:01,28/01/2026 00:01
-e1233f28-fbda-49d8-babb-d9c911267a5d,supplies.dev,available,,88,8,,,
-58fcf9f4-b8f9-4910-9790-8e76059dba36,supplies.expert,available,,88,8,,,
+e1233f28-fbda-49d8-babb-d9c911267a5d,supplies.dev,premium,,88,8,,,
+58fcf9f4-b8f9-4910-9790-8e76059dba36,supplies.expert,premium,,88,8,,,
 6aaa53af-0d08-4700-ba4c-84fea2963fb8,supplies.ninja,available,,88,8,,,
-285fab0b-5357-4db0-aeab-1d46cc80bbec,supplies.online,available,,88,8,,,
+285fab0b-5357-4db0-aeab-1d46cc80bbec,supplies.online,premium,,88,8,,,
 cd6adc21-fa2a-4292-b42d-ae9ca47691e0,supplies.pro,resell,,88,8,Porkbun LLC,23/12/2020 14:31,23/12/2025 14:31
-edbe02d7-f31a-442d-880c-9e6f922807ef,supplies.site,available,,88,8,,,
+edbe02d7-f31a-442d-880c-9e6f922807ef,supplies.site,premium,,88,8,,,
 9a4c930b-af2d-4871-b273-9fc5d87f1248,supplies.so,available,,88,8,,,
-f9fbc5ca-ed6e-400b-a7d2-99e20458d44a,supplies.space,available,,88,8,,,
-0493f6c1-34f8-47be-b7df-6a8c6a2b1c3a,supplies.store,available,,88,8,,,
-bb3de318-8eaf-446f-9c1a-26894432f855,supplies.tech,available,,88,8,,,
+f9fbc5ca-ed6e-400b-a7d2-99e20458d44a,supplies.space,premium,,88,8,,,
+0493f6c1-34f8-47be-b7df-6a8c6a2b1c3a,supplies.store,premium,,88,8,,,
+bb3de318-8eaf-446f-9c1a-26894432f855,supplies.tech,premium,,88,8,,,
 8ce3d334-97a5-403b-986e-fa2ec804544e,supplies.us,resell,,88,8,"Wild West Domains, Inc.",24/04/2002 14:03,23/04/2026 23:59
-a95583f9-4098-4a6e-9de7-b1c2c5a37f6b,supplies.zone,available,,88,8,,,
+a95583f9-4098-4a6e-9de7-b1c2c5a37f6b,supplies.zone,premium,,88,8,,,
 b26665b9-c272-44d1-8e01-0917aa2aa813,items.at,available,48,84,5,,,
 17cec85a-8005-4d38-b909-adba1f5b262c,items.co,expiring,48,84,5,"Spaceship, Inc.",21/07/2010 21:51,20/07/2025 23:59
 c619a6ca-dd06-4d82-b4fa-2395e310daa8,items.dev,available,48,84,5,,,
@@ -154,105 +154,6 @@ b4efca3c-537b-4578-98fc-285f0324cf14,inventory.space,available,82,84,9,,,
 2d4c2e95-1968-4329-bfc5-57bbf24c9d5e,inventory.tech,available,82,84,9,,,
 04426f1d-8e89-45c7-8072-823bd6d42bc7,inventory.us,resell,82,84,9,"GoDaddy.com, LLC",24/04/2002 14:18,23/04/2026 23:59
 e5c40964-74ca-4769-a930-805ccacee746,inventory.zone,expired,82,84,9,"GoDaddy.com, LLC",23/05/2021 10:20,23/05/2025 10:20
-c3adaaed-3a4b-4b6f-98ad-d25b3f1ef4fd,stock.page,available,68,35,5,,,
-860ae7d6-6901-4e65-a525-8a108a74a937,stock.partners,resell,68,35,5,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,12/02/2025 15:15,12/02/2026 15:15
-2c9be6b5-ce08-43bd-aacd-81622fb94f4a,stock.party,available,68,35,5,,,
-39fd1e3a-79e6-44a3-bad1-75be34d5f408,stock.phd,available,68,35,5,,,
-6a9c9f49-7938-494a-aae1-94e25976bb2c,stock.photography,available,68,35,5,,,
-614ea521-2451-4428-8d27-fe9b1ddf49fc,stock.pink,expiring,68,35,5,"NameCheap, Inc.",01/10/2023 07:07,01/10/2025 07:07
-98af9e77-c1b2-48b0-b2ed-15e897bf69ce,stock.pizza,available,68,35,5,,,
-923cf826-32ab-4ec8-90fa-dbcf1d9b1e36,stock.place,resell,68,35,5,Porkbun LLC,22/02/2024 15:15,22/02/2026 15:15
-91af8511-6f7e-40b1-bd90-97bb8fc57860,stock.plumbing,available,68,35,5,,,
-7845115b-b06d-4be3-94ff-acf62e6243f2,stock.porn,available,68,35,5,,,
-00f5ec5f-64ef-4d99-aecc-c5cb855b9f12,stock.press,available,68,35,5,,,
-d0537727-fd4b-4532-b064-388e384ebe4e,stock.pro,resell,68,35,5,Dynadot Inc,29/03/2006 00:00,29/03/2026 00:00
-aa510556-172c-47ee-b128-f01f63d221ca,stock.productions,available,68,35,5,,,
-bf9cec64-4021-4930-99cf-47312bb959a3,stock.prof,available,68,35,5,,,
-09f2a3d8-e549-4fb7-89af-f23a006f6dc5,stock.promo,available,68,35,5,,,
-8e6b6f7c-bf83-43cb-95df-d57f022b7ee2,stock.properties,resell,68,35,5,"Sav.com, LLC",13/08/2024 04:56,13/08/2026 04:56
-81da049e-9a0c-472a-a3a5-6af470b2fee6,stock.property,available,68,35,5,,,
-4ef99746-31bf-499e-80c9-b7c05d42bd72,stock.protection,available,68,35,5,,,
-41d929c5-f754-446c-b8fd-5761d9fba219,stock.pub,resell,68,35,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),03/10/2016 07:37,03/10/2025 07:37
-9a7b4bbe-68fb-4a8e-a2c8-4c3d34562383,stock.pw,available,68,35,5,,,
-f0af5338-d766-45e6-bc9e-8190104427f1,stock.qpon,available,68,35,5,,,
-c5fe5d0e-7fc4-459e-ba42-d5ca3424200a,stock.quest,available,68,35,5,,,
-b826f3e1-d401-418d-9c3c-8ac8b9f9c3f4,stock.racing,available,68,35,5,,,
-b9c4b388-35cf-41cd-832a-3ee6a68f3d81,stock.realty,available,68,35,5,,,
-879eb30b-e8b6-4538-8d98-8027be42233e,stock.recipes,available,68,35,5,,,
-c39a2bac-f4a7-4109-86d7-55c67f2d6e7b,stock.rehab,available,68,35,5,,,
-f73221e7-67ce-4685-92da-7bd78fda717d,stock.reise,available,68,35,5,,,
-56137b06-88b6-4cb1-97e9-092e81b0d4fc,stock.rent,available,68,35,5,,,
-14d103c1-2792-49d6-9a1b-2a34e162c705,stock.rentals,available,68,35,5,,,
-7f097fc3-a465-4fd7-b310-31476f66ae6f,stock.republican,available,68,35,5,,,
-807971e0-33f6-4768-80ea-38206cfcd5ba,stock.rest,resell,68,35,5,"Dynadot, LLC",01/08/2025 10:56,01/08/2026 10:56
-0a2e3295-5e16-42cb-a892-656aea566fc0,stock.restaurant,available,68,35,5,,,
-b970903d-6264-4b9f-aaa2-3c098157aa78,stock.review,available,68,35,5,,,
-d208525c-3e8a-4f0a-a3c7-e47df70d9c60,stock.rich,available,68,35,5,,,
-1203afc6-7e3b-472d-b032-175e3126b940,stock.rocks,available,68,35,5,,,
-4f4a692e-6729-417c-9a42-c1028da33cb6,stock.rodeo,available,68,35,5,,,
-e2345c6a-60a9-413e-8a55-d4416f2df659,stock.rsvp,available,68,35,5,,,
-6941b522-535f-49e3-9e05-3be98ec27f94,stock.run,resell,68,35,5,"Chengdu West Dimension Digital Technology Co., Ltd.",12/12/2019 11:08,12/12/2025 11:08
-d3bda3aa-8912-45fa-a630-0f6cbaab14eb,stock.sale,available,68,35,5,,,
-53d66e9d-8fac-4fc3-8d2c-961cd5a98ccf,stock.sarl,available,68,35,5,,,
-9e5de345-1407-49f3-a96f-85f45d95f8ec,stock.schule,available,68,35,5,,,
-e4389c87-81e8-4cc3-a61e-007534910ae6,stock.security,available,68,35,5,,,
-3e79f0a4-7bd3-4607-9efb-456816cae909,stock.sexy,available,68,35,5,,,
-69eb532a-aa31-40dd-9fc9-d09f0b3f816e,stock.shiksha,available,68,35,5,,,
-ada85c48-650e-423e-be51-35084b215d90,stock.shoes,available,68,35,5,,,
-841082ee-dd67-428a-a5fe-8f24ab829903,stock.shopping,expiring,68,35,5,"Chengdu West Dimension Digital Technology Co., Ltd.",06/09/2022 13:15,06/09/2025 13:15
-ce4b0b17-8c39-4cc6-a1d9-d27c838b6dff,stock.show,resell,68,35,5,Dynadot Inc,31/12/2017 18:00,31/12/2025 18:00
-1078369f-8564-49df-a9df-7c4e36b666c1,stock.singles,available,68,35,5,,,
-269a8804-d66e-4635-94bc-07f6cbd6fd8b,stock.site,available,68,35,5,,,
-c5a5f55c-b172-49b1-a59c-335e94bbe26d,stock.ski,available,68,35,5,,,
-05990125-a380-4291-acf3-d1f85b76f059,stock.skin,available,68,35,5,,,
-b8e59065-3710-4c4c-b9aa-2cacc9ae58b3,stock.software,available,68,35,5,,,
-edb29374-5af6-4bee-8fcd-e760c440f4b3,stock.solutions,resell,68,35,5,"Spaceship, Inc.",04/06/2024 17:00,04/06/2026 17:00
-39b57631-4da4-4622-894e-48ae8cfac271,stock.soy,available,68,35,5,,,
-49942825-245d-41df-a441-1c5c4985f4f7,stock.space,available,68,35,5,,,
-a583b8fe-35cc-4a90-91b4-f697271544db,stock.spot,available,68,35,5,,,
-86073f45-d249-4b36-8651-a6288810c85b,stock.srl,available,68,35,5,,,
-c325191a-4eb7-47b1-ac6b-f560f35529a9,stock.store,available,68,35,5,,,
-e4dec6a6-eab5-47cb-bcce-aa3a49e47a18,stock.stream,available,68,35,5,,,
-566e07fc-3338-4dbb-9a21-4cafd2989faf,stock.study,available,68,35,5,,,
-54bb2fbc-3a15-4773-9c9a-7ca35af72eed,stock.style,expired,68,35,5,"GMO Internet Group, Inc. d/b/a Onamae.com",02/07/2019 07:10,02/07/2025 07:10
-0cc75dae-7615-44d1-b4ae-b5231acb9214,stock.sucks,available,68,35,5,,,
-bee67a29-8724-40df-ad93-7649a5499abc,stock.surgery,available,68,35,5,,,
-ef9962f6-f30c-4ee2-a3ef-9966cfd3f7ec,stock.sydney,available,68,35,5,,,
-bb339707-a204-46a7-8443-2336bf1e2138,stock.tattoo,expired,68,35,5,Atak Domain Bilgi Teknolojileri A._.,27/08/2024 17:25,27/08/2025 17:25
-21ddf60b-01e4-49c8-8ccf-8f228dfa2ec1,stock.taxi,available,68,35,5,,,
-ad275b4d-124c-4eef-b83d-762a1c72104d,stock.team,resell,68,35,5,"Xiamen ChinaSource Internet Service Co., Ltd",23/12/2018 11:23,23/12/2025 11:23
-cf56435a-cf4a-4202-908d-7a2ed4eaf1f8,stock.tech,available,68,35,5,,,
-752678c5-9786-409c-bee1-d3cd3fb925cd,stock.tennis,available,68,35,5,,,
-aa340a0d-341e-4d49-a25a-4ad0a751e32c,stock.theater,available,68,35,5,,,
-9ab93edf-c92a-447e-a72f-bce62790fa8a,stock.theatre,available,68,35,5,,,
-5448d1ff-10fb-4b80-b9e3-6d8217f17a82,stock.tickets,available,68,35,5,,,
-5934679e-562b-4cf2-bcb7-8e9739a14bac,stock.tienda,available,68,35,5,,,
-e0e4f758-b3e5-4737-b840-e81a1395a44e,stock.tires,available,68,35,5,,,
-9459cf82-f1fa-4f04-a630-50b65586e27f,stock.today,resell,68,35,5,"DNSPod, Inc.",30/04/2023 15:15,30/04/2026 15:15
-1ba47fb7-f633-4a57-818d-c8bfed43ed67,stock.town,available,68,35,5,,,
-afbd3260-c072-4872-953e-a8e3bdabfd01,stock.toys,available,68,35,5,,,
-7a9f7800-7c06-494f-97e1-df8939843568,stock.tube,resell,68,35,5,"GoDaddy.com, LLC",19/06/2020 18:52,19/06/2026 18:52
-644a54ae-5614-4eb1-b4ff-7b74a990b5f8,stock.tv,resell,68,35,5,Dynadot Inc,19/03/2010 04:07,19/03/2026 04:07
-f6a49c4c-81f8-422f-a8b6-5f4ef20b4580,stock.uno,available,68,35,5,,,
-3187b75e-fbce-4d8d-aabd-d05b3d9390f9,stock.vacations,available,68,35,5,,,
-1c2338c7-f730-44ab-b261-4f55fba55101,stock.vana,available,68,35,5,,,
-771b7fae-b86b-4eb3-954a-3f992c5a58f1,stock.viajes,available,68,35,5,,,
-c6df2278-796a-4d15-97cd-5a01cddba0eb,stock.video,available,68,35,5,,,
-7951b972-9e5a-41a4-8b6c-8b4348e7782d,stock.villas,available,68,35,5,,,
-b12a4a43-b02e-4b80-b3f1-b6ae8ee510d8,stock.vodka,available,68,35,5,,,
-2206396e-17b9-40b4-99ba-6fecc7a984ea,stock.vote,available,68,35,5,,,
-e604b9ac-1c85-416b-b2fd-cea31bff1b7f,stock.voting,available,68,35,5,,,
-01423742-57ab-4235-8ebe-82e035fb0f1b,stock.voto,available,68,35,5,,,
-69b58ee2-f8fe-4e80-9bef-1f2f655a65b8,stock.voyage,available,68,35,5,,,
-a35b1ce8-1b53-4ef0-9756-54ff36fa0f8f,stock.watch,available,68,35,5,,,
-e68a6d29-bbfa-4aa4-a779-6956735bd780,stock.webcam,available,68,35,5,,,
-e081cc76-d2c2-4470-bb78-5508947f5a49,stock.website,available,68,35,5,,,
-d0ae3398-33aa-4657-bb0d-75b6d061a25e,stock.wedding,available,68,35,5,,,
-1dc7b726-09ef-4b84-b4c7-151ab7f5ad6b,stock.wiki,available,68,35,5,,,
-d7b69a61-6270-47cb-9c4e-bdb29107c4b5,stock.world,resell,68,35,5,"Xiamen ChinaSource Internet Service Co., Ltd",30/03/2019 22:09,30/03/2026 22:09
-99695969-8aad-4e88-9c58-230e671db412,stock.xyz,available,68,35,5,,,
-a1db91aa-c8d8-4d33-ac9d-19818fa1afc6,stock.yachts,available,68,35,5,,,
-d936d11b-8b33-4cba-908b-12e4cbcac4da,stock.zip,available,68,35,5,,,
 a0acbffa-961c-4be1-88e4-f2b669f77e6e,stock.accountant,available,68,35,5,,,
 3a5202a1-0f0c-47da-9283-c92030de3da6,stock.accountants,available,68,35,5,,,
 f904b0b5-e3f5-47a4-942b-b56846b34805,stock.actor,available,68,35,5,,,
@@ -466,62 +367,552 @@ bf3d5e55-8931-4a78-afff-cfdbf20bc21c,stock.online,available,68,35,5,,,
 5b32af67-4961-4ded-94fb-bdf7a917770d,stock.ooo,resell,68,35,5,"Porkbun, LLC",20/11/2021 14:31,20/11/2025 23:59
 8347e93e-eba7-4f87-81d5-4d7fec8418a8,stock.organic,available,68,35,5,,,
 5e6b236d-7b2f-4f42-82e1-612b462ea2b3,stock.osaka,available,68,35,5,,,
-605801b9-2aa9-4a97-ba49-d4f12aaa285a,apparel.at,resell,98,84,7,eu-iris.at web invest gmbh & co KG ( https://nic.at/registrar/679 ),,
-bb99566c-7a98-417f-a6e5-e06c969c1311,apparel.dev,available,98,84,7,,,
-a7f89270-be73-410e-899f-6ceb5729ab62,apparel.io,resell,98,84,7,"GoDaddy.com, LLC",25/01/2015 00:30,25/01/2026 00:30
-1a553d14-8d86-48f3-b7c3-d0a5fffdf887,apparel.me,expiring,98,84,7,Dynadot Inc,17/07/2008 15:02,17/07/2025 15:02
-65e4c315-f704-4f85-8769-449525db9c20,apparel.net,resell,98,84,7,Tirupati Domains and Hosting Pvt Ltd.,04/05/1995 04:00,05/05/2026 04:00
-af991f65-b225-46c5-ac7b-1ec7dfc34d33,apparel.ninja,available,98,84,7,,,
-055f129d-89bb-454a-8502-00846864bcd5,apparel.online,available,98,84,7,,,
-bdf2104b-19f1-431f-b993-140c3422f2e0,apparel.site,available,98,84,7,,,
-c785dd69-65f9-477d-b39a-14c5304f1331,apparel.so,available,98,84,7,,,
-2cd1cd79-faad-4c62-ba63-6c1aac3edf19,apparel.space,available,98,84,7,,,
-74891025-b6aa-4655-a824-4812d7dfb9e3,apparel.store,available,98,84,7,,,
-318765cd-634f-4e8f-a6e7-8c40435ff72b,apparel.tech,available,98,84,7,,,
-5d6bd641-db57-4147-940e-23785d3a05d2,apparel.xyz,sold,98,84,7,Dynadot LLC,30/05/2019 19:13,30/05/2029 23:59
-9ae0d635-f3a4-41c7-9d10-2cf972c69d43,apparel.zone,resell,98,84,7,"GoDaddy.com, LLC",10/05/2014 07:08,10/05/2026 07:08
-7a7e7ebf-3c4c-45e9-9220-83bd3879854f,clothing.app,available,68,76,8,,,
+c3adaaed-3a4b-4b6f-98ad-d25b3f1ef4fd,stock.page,available,68,35,5,,,
+860ae7d6-6901-4e65-a525-8a108a74a937,stock.partners,resell,68,35,5,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,12/02/2025 15:15,12/02/2026 15:15
+2c9be6b5-ce08-43bd-aacd-81622fb94f4a,stock.party,available,68,35,5,,,
+39fd1e3a-79e6-44a3-bad1-75be34d5f408,stock.phd,available,68,35,5,,,
+6a9c9f49-7938-494a-aae1-94e25976bb2c,stock.photography,available,68,35,5,,,
+614ea521-2451-4428-8d27-fe9b1ddf49fc,stock.pink,expiring,68,35,5,"NameCheap, Inc.",01/10/2023 07:07,01/10/2025 07:07
+98af9e77-c1b2-48b0-b2ed-15e897bf69ce,stock.pizza,available,68,35,5,,,
+923cf826-32ab-4ec8-90fa-dbcf1d9b1e36,stock.place,resell,68,35,5,Porkbun LLC,22/02/2024 15:15,22/02/2026 15:15
+91af8511-6f7e-40b1-bd90-97bb8fc57860,stock.plumbing,available,68,35,5,,,
+7845115b-b06d-4be3-94ff-acf62e6243f2,stock.porn,available,68,35,5,,,
+00f5ec5f-64ef-4d99-aecc-c5cb855b9f12,stock.press,available,68,35,5,,,
+d0537727-fd4b-4532-b064-388e384ebe4e,stock.pro,resell,68,35,5,Dynadot Inc,29/03/2006 00:00,29/03/2026 00:00
+aa510556-172c-47ee-b128-f01f63d221ca,stock.productions,available,68,35,5,,,
+bf9cec64-4021-4930-99cf-47312bb959a3,stock.prof,available,68,35,5,,,
+09f2a3d8-e549-4fb7-89af-f23a006f6dc5,stock.promo,available,68,35,5,,,
+8e6b6f7c-bf83-43cb-95df-d57f022b7ee2,stock.properties,resell,68,35,5,"Sav.com, LLC",13/08/2024 04:56,13/08/2026 04:56
+81da049e-9a0c-472a-a3a5-6af470b2fee6,stock.property,available,68,35,5,,,
+4ef99746-31bf-499e-80c9-b7c05d42bd72,stock.protection,available,68,35,5,,,
+41d929c5-f754-446c-b8fd-5761d9fba219,stock.pub,resell,68,35,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),03/10/2016 07:37,03/10/2025 07:37
+9a7b4bbe-68fb-4a8e-a2c8-4c3d34562383,stock.pw,available,68,35,5,,,
+f0af5338-d766-45e6-bc9e-8190104427f1,stock.qpon,available,68,35,5,,,
+c5fe5d0e-7fc4-459e-ba42-d5ca3424200a,stock.quest,available,68,35,5,,,
+b826f3e1-d401-418d-9c3c-8ac8b9f9c3f4,stock.racing,available,68,35,5,,,
+b9c4b388-35cf-41cd-832a-3ee6a68f3d81,stock.realty,available,68,35,5,,,
+879eb30b-e8b6-4538-8d98-8027be42233e,stock.recipes,available,68,35,5,,,
+c39a2bac-f4a7-4109-86d7-55c67f2d6e7b,stock.rehab,available,68,35,5,,,
+f73221e7-67ce-4685-92da-7bd78fda717d,stock.reise,available,68,35,5,,,
+56137b06-88b6-4cb1-97e9-092e81b0d4fc,stock.rent,available,68,35,5,,,
+14d103c1-2792-49d6-9a1b-2a34e162c705,stock.rentals,available,68,35,5,,,
+7f097fc3-a465-4fd7-b310-31476f66ae6f,stock.republican,available,68,35,5,,,
+807971e0-33f6-4768-80ea-38206cfcd5ba,stock.rest,resell,68,35,5,"Dynadot, LLC",01/08/2025 10:56,01/08/2026 10:56
+0a2e3295-5e16-42cb-a892-656aea566fc0,stock.restaurant,available,68,35,5,,,
+b970903d-6264-4b9f-aaa2-3c098157aa78,stock.review,available,68,35,5,,,
+d208525c-3e8a-4f0a-a3c7-e47df70d9c60,stock.rich,available,68,35,5,,,
+1203afc6-7e3b-472d-b032-175e3126b940,stock.rocks,available,68,35,5,,,
+4f4a692e-6729-417c-9a42-c1028da33cb6,stock.rodeo,available,68,35,5,,,
+e2345c6a-60a9-413e-8a55-d4416f2df659,stock.rsvp,available,68,35,5,,,
+6941b522-535f-49e3-9e05-3be98ec27f94,stock.run,resell,68,35,5,"Chengdu West Dimension Digital Technology Co., Ltd.",12/12/2019 11:08,12/12/2025 11:08
+d3bda3aa-8912-45fa-a630-0f6cbaab14eb,stock.sale,available,68,35,5,,,
+53d66e9d-8fac-4fc3-8d2c-961cd5a98ccf,stock.sarl,available,68,35,5,,,
+9e5de345-1407-49f3-a96f-85f45d95f8ec,stock.schule,available,68,35,5,,,
+e4389c87-81e8-4cc3-a61e-007534910ae6,stock.security,available,68,35,5,,,
+3e79f0a4-7bd3-4607-9efb-456816cae909,stock.sexy,available,68,35,5,,,
+69eb532a-aa31-40dd-9fc9-d09f0b3f816e,stock.shiksha,available,68,35,5,,,
+ada85c48-650e-423e-be51-35084b215d90,stock.shoes,available,68,35,5,,,
+841082ee-dd67-428a-a5fe-8f24ab829903,stock.shopping,expiring,68,35,5,"Chengdu West Dimension Digital Technology Co., Ltd.",06/09/2022 13:15,06/09/2025 13:15
+ce4b0b17-8c39-4cc6-a1d9-d27c838b6dff,stock.show,resell,68,35,5,Dynadot Inc,31/12/2017 18:00,31/12/2025 18:00
+1078369f-8564-49df-a9df-7c4e36b666c1,stock.singles,available,68,35,5,,,
+269a8804-d66e-4635-94bc-07f6cbd6fd8b,stock.site,available,68,35,5,,,
+c5a5f55c-b172-49b1-a59c-335e94bbe26d,stock.ski,available,68,35,5,,,
+05990125-a380-4291-acf3-d1f85b76f059,stock.skin,available,68,35,5,,,
+b8e59065-3710-4c4c-b9aa-2cacc9ae58b3,stock.software,available,68,35,5,,,
+edb29374-5af6-4bee-8fcd-e760c440f4b3,stock.solutions,resell,68,35,5,"Spaceship, Inc.",04/06/2024 17:00,04/06/2026 17:00
+39b57631-4da4-4622-894e-48ae8cfac271,stock.soy,available,68,35,5,,,
+49942825-245d-41df-a441-1c5c4985f4f7,stock.space,available,68,35,5,,,
+a583b8fe-35cc-4a90-91b4-f697271544db,stock.spot,available,68,35,5,,,
+86073f45-d249-4b36-8651-a6288810c85b,stock.srl,available,68,35,5,,,
+c325191a-4eb7-47b1-ac6b-f560f35529a9,stock.store,available,68,35,5,,,
+e4dec6a6-eab5-47cb-bcce-aa3a49e47a18,stock.stream,available,68,35,5,,,
+566e07fc-3338-4dbb-9a21-4cafd2989faf,stock.study,available,68,35,5,,,
+54bb2fbc-3a15-4773-9c9a-7ca35af72eed,stock.style,expired,68,35,5,"GMO Internet Group, Inc. d/b/a Onamae.com",02/07/2019 07:10,02/07/2025 07:10
+0cc75dae-7615-44d1-b4ae-b5231acb9214,stock.sucks,available,68,35,5,,,
+bee67a29-8724-40df-ad93-7649a5499abc,stock.surgery,available,68,35,5,,,
+ef9962f6-f30c-4ee2-a3ef-9966cfd3f7ec,stock.sydney,available,68,35,5,,,
+bb339707-a204-46a7-8443-2336bf1e2138,stock.tattoo,expired,68,35,5,Atak Domain Bilgi Teknolojileri A._.,27/08/2024 17:25,27/08/2025 17:25
+21ddf60b-01e4-49c8-8ccf-8f228dfa2ec1,stock.taxi,available,68,35,5,,,
+ad275b4d-124c-4eef-b83d-762a1c72104d,stock.team,resell,68,35,5,"Xiamen ChinaSource Internet Service Co., Ltd",23/12/2018 11:23,23/12/2025 11:23
+cf56435a-cf4a-4202-908d-7a2ed4eaf1f8,stock.tech,available,68,35,5,,,
+752678c5-9786-409c-bee1-d3cd3fb925cd,stock.tennis,available,68,35,5,,,
+aa340a0d-341e-4d49-a25a-4ad0a751e32c,stock.theater,available,68,35,5,,,
+9ab93edf-c92a-447e-a72f-bce62790fa8a,stock.theatre,available,68,35,5,,,
+5448d1ff-10fb-4b80-b9e3-6d8217f17a82,stock.tickets,available,68,35,5,,,
+5934679e-562b-4cf2-bcb7-8e9739a14bac,stock.tienda,available,68,35,5,,,
+e0e4f758-b3e5-4737-b840-e81a1395a44e,stock.tires,available,68,35,5,,,
+9459cf82-f1fa-4f04-a630-50b65586e27f,stock.today,resell,68,35,5,"DNSPod, Inc.",30/04/2023 15:15,30/04/2026 15:15
+1ba47fb7-f633-4a57-818d-c8bfed43ed67,stock.town,available,68,35,5,,,
+afbd3260-c072-4872-953e-a8e3bdabfd01,stock.toys,available,68,35,5,,,
+7a9f7800-7c06-494f-97e1-df8939843568,stock.tube,resell,68,35,5,"GoDaddy.com, LLC",19/06/2020 18:52,19/06/2026 18:52
+644a54ae-5614-4eb1-b4ff-7b74a990b5f8,stock.tv,resell,68,35,5,Dynadot Inc,19/03/2010 04:07,19/03/2026 04:07
+f6a49c4c-81f8-422f-a8b6-5f4ef20b4580,stock.uno,available,68,35,5,,,
+3187b75e-fbce-4d8d-aabd-d05b3d9390f9,stock.vacations,available,68,35,5,,,
+1c2338c7-f730-44ab-b261-4f55fba55101,stock.vana,available,68,35,5,,,
+771b7fae-b86b-4eb3-954a-3f992c5a58f1,stock.viajes,available,68,35,5,,,
+c6df2278-796a-4d15-97cd-5a01cddba0eb,stock.video,available,68,35,5,,,
+7951b972-9e5a-41a4-8b6c-8b4348e7782d,stock.villas,available,68,35,5,,,
+b12a4a43-b02e-4b80-b3f1-b6ae8ee510d8,stock.vodka,available,68,35,5,,,
+2206396e-17b9-40b4-99ba-6fecc7a984ea,stock.vote,available,68,35,5,,,
+e604b9ac-1c85-416b-b2fd-cea31bff1b7f,stock.voting,available,68,35,5,,,
+01423742-57ab-4235-8ebe-82e035fb0f1b,stock.voto,available,68,35,5,,,
+69b58ee2-f8fe-4e80-9bef-1f2f655a65b8,stock.voyage,available,68,35,5,,,
+a35b1ce8-1b53-4ef0-9756-54ff36fa0f8f,stock.watch,available,68,35,5,,,
+e68a6d29-bbfa-4aa4-a779-6956735bd780,stock.webcam,available,68,35,5,,,
+e081cc76-d2c2-4470-bb78-5508947f5a49,stock.website,available,68,35,5,,,
+d0ae3398-33aa-4657-bb0d-75b6d061a25e,stock.wedding,available,68,35,5,,,
+1dc7b726-09ef-4b84-b4c7-151ab7f5ad6b,stock.wiki,available,68,35,5,,,
+d7b69a61-6270-47cb-9c4e-bdb29107c4b5,stock.world,resell,68,35,5,"Xiamen ChinaSource Internet Service Co., Ltd",30/03/2019 22:09,30/03/2026 22:09
+99695969-8aad-4e88-9c58-230e671db412,stock.xyz,available,68,35,5,,,
+a1db91aa-c8d8-4d33-ac9d-19818fa1afc6,stock.yachts,available,68,35,5,,,
+d936d11b-8b33-4cba-908b-12e4cbcac4da,stock.zip,available,68,35,5,,,
+aa2134fb-04be-484e-ad61-d635b69901aa,apparel.taxi,available,98,16,7,,,
+e4eb06a5-3c2c-4fee-a763-31db29585c85,apparel.team,resell,98,16,7,"DNSPod, Inc.",29/05/2020 09:02,29/05/2026 09:02
+318765cd-634f-4e8f-a6e7-8c40435ff72b,apparel.tech,premium,98,16,7,,,
+7f0c8a90-7b7c-42d6-b686-ab9a532f9d29,apparel.technology,available,98,16,7,,,
+ab0b109f-9ccd-4b40-8b14-0e1cceea1d06,apparel.tel,available,98,16,7,,,
+0cd8427e-5820-424d-aa4b-46851c1a48a0,apparel.tennis,available,98,16,7,,,
+877f73c9-bc62-4f46-8838-beb762f38717,apparel.theater,available,98,16,7,,,
+a662d3e6-39f1-4e76-9edb-2e17f875872e,apparel.theatre,available,98,16,7,,,
+eda115b0-b0e9-4eeb-9a93-f2b68b59dc27,apparel.tickets,available,98,16,7,,,
+c337116d-9ebd-48cb-921a-0e88e9027e7c,apparel.tienda,available,98,16,7,,,
+f5702e74-f4e5-47b6-9198-bbe0733c174f,apparel.tips,available,98,16,7,,,
+7f1184dc-68eb-4333-93e3-9b6898e03602,apparel.tires,available,98,16,7,,,
+2933afb7-dbd2-40f6-9597-f55e99f9ac27,apparel.today,resell,98,16,7,"Sav.com, LLC - 25",11/04/2025 15:15,11/04/2026 15:15
+460d0e2f-dc56-4a04-adf9-6c938a982979,apparel.tools,available,98,16,7,,,
+f25ebcf8-4e06-4ca6-b7de-e19b6e5fefc8,apparel.top,resell,98,16,7,成都西维数码科技有限公司,01/02/2016 18:01,01/02/2026 18:01
+ecd2a986-cd8d-4819-834d-74e0ddb90f49,apparel.tours,available,98,16,7,,,
+0a514503-1da1-4a24-9ee2-7793f6b027ee,apparel.town,available,98,16,7,,,
+6a2d4d53-76d7-4810-a82f-7affde7f8318,apparel.toys,available,98,16,7,,,
+0f04eeb0-db5e-470e-bd12-44867c8f7628,apparel.trade,resell,98,16,7,West263 International Limited,21/11/2020 10:30,21/11/2025 10:30
+83fdbe94-ee3f-41a4-8379-927e1aef75d4,apparel.training,available,98,16,7,,,
+16cbb6b7-5083-4ae2-9ba8-989875a1766d,apparel.tube,premium,98,16,7,,,
+0d46d5a8-6bf5-4ffb-a656-8f4b6abe1f6c,apparel.uk,resell,98,16,7,R Karpis,29/03/2019 15:41,29/03/2026 14:41
+dc4bc490-5ba7-47e2-9238-32c8a14eba98,apparel.university,available,98,16,7,,,
+c2ce5a0b-cc5c-44de-8fd2-a10526631965,apparel.uno,available,98,16,7,,,
+0953f5c8-e709-4962-8ecd-ddc3f1de0af4,apparel.vacations,available,98,16,7,,,
+b679a1d7-b3df-4488-acbe-8ff18e3adb07,apparel.vana,available,98,16,7,,,
+53b69069-ce2f-460e-aadf-be6e00ad183b,apparel.vc,available,98,16,7,,,
+118c0021-f44a-487b-ae1d-a7a0047b87a0,apparel.vegas,available,98,16,7,,,
+369c25e1-35fb-46ed-adb7-2c0b711f0a98,apparel.ventures,available,98,16,7,,,
+b712dabf-eed8-476e-9d4f-93703c8813c5,apparel.vet,available,98,16,7,,,
+2b2df08c-7439-4bc1-bb1d-910be8760815,apparel.viajes,available,98,16,7,,,
+b7a41e68-ae1b-4652-a0f8-a0b7f77fe107,apparel.video,available,98,16,7,,,
+d730eeed-bb30-449a-b6bd-41369debfe86,apparel.villas,available,98,16,7,,,
+93614ed5-ba45-41af-b02b-f1c326c3bc09,apparel.vin,available,98,16,7,,,
+00457adc-43ed-42cb-b33d-356f9b446a59,apparel.vip,available,98,16,7,,,
+c497e638-1f84-423c-b8e1-5c0c2f7d5f4b,apparel.vision,available,98,16,7,,,
+250b22f9-9a48-4238-b1c0-3d07fb6d9186,apparel.vodka,available,98,16,7,,,
+24bdbc67-7311-4825-a882-b26cea20ac10,apparel.vote,available,98,16,7,,,
+e9ea6fcc-75ab-4509-8334-07855312c47c,apparel.voting,available,98,16,7,,,
+41a5e399-c11d-472f-809b-3f0c93214bd3,apparel.voto,available,98,16,7,,,
+f001db1d-7894-4541-b231-d0c292142363,apparel.voyage,available,98,16,7,,,
+03d75916-b766-4726-9db7-15af7474207f,apparel.watch,available,98,16,7,,,
+fead86bc-f3f5-4a25-903b-878c837b9988,apparel.webcam,available,98,16,7,,,
+fdd3a8ec-6db7-4d19-90d7-3d8fb61e1876,apparel.website,available,98,16,7,,,
+637cab6e-1fe0-4128-a019-a689c71a8a95,apparel.wedding,premium,98,16,7,,,
+e447e40c-b7d5-483d-bef1-cfeabb935cb3,apparel.win,available,98,16,7,,,
+4a651828-74ff-4e35-bf26-359d7f50ae0d,apparel.wine,available,98,16,7,,,
+6adc1c4d-10b0-437f-8af6-a363d4368ec7,apparel.work,available,98,16,7,,,
+053bbd96-1a29-4a06-8c8e-23d20648b373,apparel.wtf,expired,98,16,7,"NameCheap, Inc.",12/07/2022 11:50,12/07/2025 11:50
+5d6bd641-db57-4147-940e-23785d3a05d2,apparel.xyz,resell,98,16,7,Dynadot LLC,30/05/2019 19:13,30/05/2029 23:59
+d5e8e6e2-10e0-4582-b009-cf493273d614,apparel.yachts,available,98,16,7,,,
+13b592fb-9785-4614-8f90-2642c6822052,apparel.yoga,resell,98,16,7,"GoDaddy.com, LLC",26/08/2020 18:51,26/08/2026 18:51
+b15dcbe5-1e26-4e7f-96eb-0b6d15cfae91,apparel.zip,available,98,16,7,,,
+9ae0d635-f3a4-41c7-9d10-2cf972c69d43,apparel.zone,resell,98,16,7,"GoDaddy.com, LLC",10/05/2014 07:08,10/05/2026 07:08
+191d2d39-87ae-432f-84a3-13f7c04c7226,apparel.ac,available,98,16,7,,,
+59ce0c36-c47a-4ffd-9811-dc98a117ba5b,apparel.academy,expired,98,16,7,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,25/06/2024 13:04,25/06/2025 13:04
+291cf9e6-8e42-45b4-b08d-84ccb7804b30,apparel.accountant,available,98,16,7,,,
+679f0da9-f3d3-4b3c-84f1-857d37483ab1,apparel.accountants,available,98,16,7,,,
+868de4bb-8cdb-469c-bc3e-12761a1ddaa1,apparel.actor,resell,98,16,7,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,19/08/2025 15:15,19/08/2026 15:15
+6621ad29-2385-455b-b720-ae927b671070,apparel.adult,available,98,16,7,,,
+0c311c82-f301-4cc2-af88-6a5ff75b4818,apparel.ag,available,98,16,7,,,
+a9ee41a2-c3b3-41f9-9890-ab53fb4de11a,apparel.agency,resell,98,16,7,"Sav.com, LLC - 14",26/08/2025 15:15,26/08/2026 15:15
+09ab21b6-37df-4d18-a88e-ecf1076e7837,apparel.airforce,available,98,16,7,,,
+bb9d3000-86d2-476b-812d-a097dbf495bf,apparel.apartments,available,98,16,7,,,
+3a871801-f5f5-4a91-a350-25c0259fb5fe,apparel.archi,available,98,16,7,,,
+3ca841e1-d954-4819-b337-dee9f2a7c66e,apparel.army,available,98,16,7,,,
+4a3ee4a2-82dd-4d39-91d8-dc97b4f58bb8,apparel.asia,resell,98,16,7,"GoDaddy.com, LLC",04/07/2008 07:02,04/07/2026 07:02
+454ac3e2-007b-4085-8761-08054c05b36e,apparel.associates,available,98,16,7,,,
+605801b9-2aa9-4a97-ba49-d4f12aaa285a,apparel.at,resell,98,16,7,eu-iris.at web invest gmbh & co KG ( https://nic.at/registrar/679 ),,
+3a28494e-daac-496d-bb21-b6f5be09e1b6,apparel.attorney,available,98,16,7,,,
+048b20a9-e48b-4357-96bc-0f5d7b635c2a,apparel.audio,available,98,16,7,,,
+290e1c23-0f6e-4ca0-ab8b-7e9ffbfe01b7,apparel.auto,available,98,16,7,,,
+1d57ac07-0c5b-466a-a4b6-a334672ab7eb,apparel.autos,available,98,16,7,,,
+0867a839-2b25-42f5-8731-7608cbc5b5d8,apparel.band,available,98,16,7,,,
+3dfbc584-4754-4f10-8bd9-7e1b343e113a,apparel.bar,available,98,16,7,,,
+7c838252-7144-4c92-8bdf-5335ae403f20,apparel.bargains,available,98,16,7,,,
+fd66274d-3079-436f-b670-caf7e32e6a87,apparel.bayern,available,98,16,7,,,
+6e7d2283-c285-4f60-bb5e-cd346f0109fe,apparel.beauty,resell,98,16,7,"Spaceship, Inc.",30/01/2025 09:11,30/01/2026 23:59
+cd104d6f-ab4e-4451-b0e6-d0ad193e9502,apparel.berlin,available,98,16,7,,,
+01047134-fa2e-4c67-8337-eb2fb278bcad,apparel.bet,available,98,16,7,,,
+7e669e76-b716-4767-968d-5542b7175338,apparel.bid,available,98,16,7,,,
+a78a7907-f7b7-499b-a632-1c29cbee08cd,apparel.bike,available,98,16,7,,,
+f6abc557-203a-4720-bce5-c66d3984ce67,apparel.bingo,available,98,16,7,,,
+6800ac62-e6ea-4e14-83ce-541eafd55a17,apparel.bio,available,98,16,7,,,
+890af147-67e7-4dbb-97a4-c34a49ff3ebd,apparel.biz,resell,98,16,7,"GoDaddy.com, LLC",27/03/2002 08:42,26/03/2026 23:59
+718d822e-0f19-47e8-b9f3-ec11eacbee35,apparel.black,available,98,16,7,,,
+18c185e9-7e8b-43cb-9c6f-99c09039b846,apparel.blackfriday,available,98,16,7,,,
+c16a95df-1a5d-4314-970c-5de824a3a791,apparel.blog,premium,98,16,7,,,
+9e8cb9d4-b33f-4c32-bc71-63a260f7c782,apparel.blue,available,98,16,7,,,
+fd838d37-8fc2-40a4-891e-220ba3d8c4fd,apparel.boats,available,98,16,7,,,
+8076cd07-b3d4-4254-9aa8-135175c05ab2,apparel.bond,available,98,16,7,,,
+3bf7d932-f46d-411d-b34a-ccfe1d23a859,apparel.boo,available,98,16,7,,,
+ee1a4081-8773-4e74-8196-07967b7ea9ae,apparel.boston,available,98,16,7,,,
+6847ba48-a88a-49db-8e88-455740b72c98,apparel.boutique,available,98,16,7,,,
+6e3995be-da2f-458e-8c51-d317ac97ea1b,apparel.build,available,98,16,7,,,
+51021ba2-d828-4049-9f85-51619ee0db78,apparel.builders,available,98,16,7,,,
+e4cac62a-bf1a-4b37-9d69-f12c41bb279c,apparel.buzz,available,98,16,7,,,
+b7dbea6b-c768-49a5-9f01-5f22cd2c9b4b,apparel.bz,available,98,16,7,,,
+ac6e0b5e-6df6-444c-9991-43620a5734f9,apparel.ca,expiring,98,16,7,Tucows.com Co.,16/10/2000 21:18,28/09/2025 04:00
+5c37a4a0-5158-4eaf-8500-3101258702b3,apparel.cab,available,98,16,7,,,
+fad5670e-6155-473f-b32c-2e21dcd8a038,apparel.cafe,available,98,16,7,,,
+11560e62-2e09-44f3-be1c-ffcf0b3faeff,apparel.cam,available,98,16,7,,,
+0b8ac8b0-90eb-4148-af7d-77d3e069044e,apparel.camera,available,98,16,7,,,
+d40c81d9-7c03-4cb7-8ad4-086857a69fd9,apparel.camp,available,98,16,7,,,
+b7497b58-f07f-4a41-b133-f4b502904976,apparel.capital,expired,98,16,7,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,20/07/2024 17:00,20/07/2025 17:00
+5967adde-66b7-472f-a1be-fd8859afe14e,apparel.car,available,98,16,7,,,
+2dbfdced-118a-4191-9570-491bef49b05a,apparel.cards,available,98,16,7,,,
+1d3fc4ad-0c2c-4683-9464-0ffed2bf2a8f,apparel.care,available,98,16,7,,,
+cd81bc99-0332-4fc0-9dcf-7a36e559f2be,apparel.careers,available,98,16,7,,,
+ed8c123a-3bb2-4bae-970f-e59eefcc6bf0,apparel.cars,available,98,16,7,,,
+a5c6731e-72d1-43d8-88bc-09e60dcd146d,apparel.casa,available,98,16,7,,,
+ed68f663-1ca1-42ab-807b-cafd5652901e,apparel.cash,available,98,16,7,,,
+2110fa70-0d19-46ec-9f70-a282e88c9b42,apparel.casino,available,98,16,7,,,
+36d7437a-db75-474c-86fe-dad8fce2033e,apparel.catering,available,98,16,7,,,
+7a7e42ec-4301-4b2c-b555-cad9f33d4c93,apparel.cc,resell,98,16,7,Dynadot Inc,20/12/2007 09:47,20/12/2025 09:47
+9b4d7114-85c5-47bf-ba13-a89b815edcab,apparel.ceo,available,98,16,7,,,
+a18261ee-a45d-45fe-9c42-640838f23ef9,apparel.cfd,resell,98,16,7,Dynadot LLC,27/04/2021 14:10,27/04/2026 23:59
+94933d2b-0ccb-471c-bdc2-c2497309156f,apparel.charity,available,98,16,7,,,
+c8d143e0-ca00-4889-8622-e1d2aa17ca99,apparel.chat,available,98,16,7,,,
+acf50a36-e773-46b2-88b8-3bacd26bc3db,apparel.cheap,available,98,16,7,,,
+8d4bbdd1-c6ab-429f-bd40-e51e5bd97739,apparel.christmas,available,98,16,7,,,
+9df000ce-3456-4fd3-b647-24f5a880392f,apparel.church,available,98,16,7,,,
+67774c22-871f-4a25-9ab7-572ffdc7eca4,apparel.city,available,98,16,7,,,
+ffe52a37-028b-42fc-a725-0d336440f451,apparel.claims,available,98,16,7,,,
+4b237330-5fa7-48c9-b0a5-2d8e1792ef91,apparel.cleaning,available,98,16,7,,,
+f6e40527-1aa4-4251-9943-00991660d0ba,apparel.clinic,available,98,16,7,,,
+f38675bb-1c18-47e5-a7aa-f13f78214bdc,apparel.clothing,resell,98,16,7,"Global Domains International, Inc. DBA DomainCostClub.com",02/06/2025 15:16,02/06/2026 15:16
+cfd85ee8-283e-4e66-b2a5-5ae71e3c43ab,apparel.club,available,98,16,7,,,
+c339a34c-8572-4e4f-ad54-c562f6468730,apparel.codes,available,98,16,7,,,
+59e3c7aa-c744-4f54-a100-62179c1e9b21,apparel.coffee,available,98,16,7,,,
+794d03c7-e9c8-47dc-88fa-1c9f70d9f7c3,apparel.college,available,98,16,7,,,
+ed78bf25-5e37-45f3-8673-1b0d74c24d58,apparel.community,available,98,16,7,,,
+a6fce7ff-c744-4e2c-9810-43cb33e2d783,apparel.company,expiring,98,16,7,Dynadot Inc,12/09/2018 17:43,12/09/2025 17:43
+be694f76-d318-4163-bea8-9f79d238b369,apparel.computer,available,98,16,7,,,
+fea51b23-76f5-49d8-87af-f55d2778a2d4,apparel.condos,available,98,16,7,,,
+c5281034-a8a8-4ee1-9e1a-98730ad0b9f4,apparel.consulting,available,98,16,7,,,
+26e6e3f7-0f35-4ebb-a9cf-235c15f6785b,apparel.contact,available,98,16,7,,,
+7e0f5f36-c395-4f4f-b071-bd801084a007,apparel.contractors,available,98,16,7,,,
+40dac5c8-fef2-4c5f-8a85-252fdaa06410,apparel.cooking,available,98,16,7,,,
+0433efbd-dd4d-4734-a79f-6011c08cde3b,apparel.cool,resell,98,16,7,"Sav.com, LLC - 8",31/03/2025 15:15,31/03/2026 15:15
+9f69aada-bdb3-42cc-a2e6-ee25ba24134a,apparel.country,available,98,16,7,,,
+2d1f9638-d0e3-4d04-878c-e649dacdbfa0,apparel.courses,available,98,16,7,,,
+65e732ff-3559-4241-bcfb-0bc043a8c267,apparel.credit,available,98,16,7,,,
+287df027-5f49-43d7-a1fd-717169ae004c,apparel.creditcard,available,98,16,7,,,
+63b82fe3-755a-4c34-9659-9561a6ba0ba0,apparel.cricket,available,98,16,7,,,
+1414c634-fffe-47d1-a787-f0969c895667,apparel.cruises,available,98,16,7,,,
+eaae0c40-3800-448b-b249-33694a56c216,apparel.cx,expired,98,16,7,CentralNic Ltd,25/08/2024 00:00,25/08/2025 19:43
+5cdc517f-e8ed-4e0f-b790-23cec172051a,apparel.cyou,resell,98,16,7,Namecheap,13/08/2024 14:39,13/08/2026 23:59
+9982f47b-dca0-4bd9-9d84-a641c25aa507,apparel.dad,available,98,16,7,,,
+abfa6f9b-30ec-46e4-8cf0-ce839efbc56a,apparel.dance,available,98,16,7,,,
+ecd19062-eacd-485b-bce4-92d9b219b8b6,apparel.date,available,98,16,7,,,
+ec4ca4cf-e554-4e44-9f55-6615496b34d0,apparel.dating,available,98,16,7,,,
+6e62242a-8083-4311-afe3-de53897533ae,apparel.day,available,98,16,7,,,
+4186e3eb-4cf1-44ff-9a1d-190c906c3832,apparel.dealer,available,98,16,7,,,
+ca89397d-f834-4a58-ab68-9462efacdeec,apparel.degree,available,98,16,7,,,
+198e7762-ced5-48e1-a212-3affe8eb942e,apparel.delivery,available,98,16,7,,,
+06113e92-ba3d-4b21-9907-a8ea0b79e9f9,apparel.democrat,available,98,16,7,,,
+b30bba23-0373-4396-95d6-b0c32a3ac9be,apparel.dental,available,98,16,7,,,
+031f978b-206e-43c5-a7a2-823013c05c6c,apparel.dentist,available,98,16,7,,,
+ec6486ad-567f-44b1-8541-404e6b65e9ee,apparel.design,available,98,16,7,,,
+bb99566c-7a98-417f-a6e5-e06c969c1311,apparel.dev,premium,98,16,7,,,
+37a71124-0234-4a62-9cc6-a80253e3c393,apparel.diamonds,available,98,16,7,,,
+d039df2a-4e78-451e-8ec9-3d48e7249e49,apparel.diet,available,98,16,7,,,
+71162fac-4fe8-4383-85ee-bafecc1b0bc6,apparel.digital,resell,98,16,7,"Sav.com, LLC - 26",30/08/2025 15:15,30/08/2026 15:15
+e7692144-9a2c-416e-9387-b99c8857cec5,apparel.direct,available,98,16,7,,,
+868249c0-185a-4e29-ab46-e9cab87f8c84,apparel.discount,available,98,16,7,,,
+2ccb8905-eeec-4d3d-9ef9-40451dba16eb,apparel.diy,premium,98,16,7,,,
+dc5445a7-284c-4fe4-ae04-f56b74def5ee,apparel.doctor,available,98,16,7,,,
+ed653627-24d0-4c57-b882-c7c8aff62a00,apparel.dog,resell,98,16,7,"NameCheap, Inc.",15/11/2019 02:39,15/11/2025 02:39
+518f2780-5324-495e-aaa3-7f0c7fe8a954,apparel.domains,available,98,16,7,,,
+fdacd51e-ba64-4b10-bd20-828d29f9daa4,apparel.download,available,98,16,7,,,
+d218abde-5013-4289-94c4-422f7d2d032a,apparel.earth,available,98,16,7,,,
+717c4718-2c35-4b05-80f8-466c6fafb7f1,apparel.education,available,98,16,7,,,
+f3d88d2a-8582-455f-8e76-501e6c5f2a58,apparel.email,available,98,16,7,,,
+78c722ac-a0eb-4004-915e-76ae844aaee7,apparel.energy,available,98,16,7,,,
+9c9ae135-0ac3-4dc5-a43f-07f1dd1c9bb0,apparel.engineer,available,98,16,7,,,
+8db1009e-816a-4120-acc9-a84c300581ed,apparel.engineering,available,98,16,7,,,
+0c867173-1df3-42b1-8126-a6e82bbee9a2,apparel.enterprises,available,98,16,7,,,
+9a0e00f4-edff-49ef-aed4-78cefac37574,apparel.equipment,available,98,16,7,,,
+0544af0b-e556-41d2-8b7f-b759a4bd0127,apparel.esq,available,98,16,7,,,
+5dc7843d-4aad-4dbe-88bd-0297a5087599,apparel.estate,available,98,16,7,,,
+3b590efd-c9ab-4ac0-8a59-681ff2a4be62,apparel.eu,resell,98,16,7,Name: RegistryGate GmbH Website: http://www.registrygate.com,,
+b72b0fb9-6e9a-4f39-9415-4f5f3d571d77,apparel.events,expired,98,16,7,"Sav.com, LLC",18/07/2024 04:55,18/07/2025 04:55
+0f193781-9b9e-4ab7-822c-ebf2935a48ef,apparel.exposed,available,98,16,7,,,
+6d898ca9-f5f1-4526-9c65-159ee1a59d1b,apparel.fail,available,98,16,7,,,
+289f16b1-dfc7-48cc-923e-355f6c64746d,apparel.faith,available,98,16,7,,,
+ad9c5172-d3d3-46df-8ea4-84cfa6653dde,apparel.family,available,98,16,7,,,
+c31133a5-d824-4454-8cf6-1320ee3bd8f5,apparel.fan,available,98,16,7,,,
+621d347f-4d64-40d2-8a0e-3c5fc8495af7,apparel.fans,premium,98,16,7,,,
+833930bd-0111-4c68-b02a-73809d8a2411,apparel.farm,available,98,16,7,,,
+d434dc67-eb2c-4794-86b4-e806ea4a3e10,apparel.fashion,available,98,16,7,,,
+877fdd23-35b9-4d9f-b207-0679d333268b,apparel.film,available,98,16,7,,,
+3b54320e-96b7-4a46-a162-5db5e84368a2,apparel.finance,available,98,16,7,,,
+1533aee3-80f8-40f2-9b54-a883565eaf5c,apparel.financial,available,98,16,7,,,
+789f8fd1-8ea9-48e0-a5c5-7eccf60bc36a,apparel.fish,available,98,16,7,,,
+03d50cc1-5152-42c5-a005-a8e9001a6a07,apparel.fishing,available,98,16,7,,,
+3b1ac958-ba9b-4fe7-bdb4-1669076bd1fd,apparel.flights,available,98,16,7,,,
+442c283d-db5a-4184-834f-d8738b2700b1,apparel.florist,available,98,16,7,,,
+35203b48-c40b-4a00-8dd2-8b3e6351e0f9,apparel.flowers,available,98,16,7,,,
+525b67f1-fbc3-47e3-8a6d-15241fb866d1,apparel.fm,available,98,16,7,,,
+41aa13b3-cb24-478e-a84a-ee2927e13956,apparel.foo,available,98,16,7,,,
+c068e0e4-e2c0-427b-a5f7-dbe492d8a9f6,apparel.food,available,98,16,7,,,
+ddd5aef6-9f81-462d-bfea-b8b1ebc482e3,apparel.football,available,98,16,7,,,
+f80180ff-c369-4898-a0c3-5d2afae1dbf5,apparel.forsale,available,98,16,7,,,
+6412bd7f-5feb-4020-bc5c-da92d1c6bb50,apparel.forum,available,98,16,7,,,
+4057fe0f-82a7-4c97-92e4-6bc38f059867,apparel.foundation,available,98,16,7,,,
+747f9a8a-1143-4ae9-8818-42b61e4343b8,apparel.fun,available,98,16,7,,,
+c7c93c69-56ea-4802-8b49-ae5afa5f79ab,apparel.fund,available,98,16,7,,,
+0b58bf96-ae7c-426b-aa3e-ed37689b1428,apparel.furniture,available,98,16,7,,,
+2375ff47-5287-4b83-8b9d-1405815f2ed9,apparel.futbol,available,98,16,7,,,
+cc808fc6-0d9a-4a6f-93da-c17998936eac,apparel.gallery,available,98,16,7,,,
+8ec428f5-317e-48d7-9283-2f004ade08b0,apparel.game,available,98,16,7,,,
+db43264d-8341-4799-90f3-bafc5fe73fde,apparel.games,available,98,16,7,,,
+1721fb51-0e93-4a21-92e1-7a80baafdcf5,apparel.garden,available,98,16,7,,,
+27c4d623-925e-4463-9b68-399a5147f068,apparel.gay,available,98,16,7,,,
+1bce7d3f-c263-4d49-8bf7-60f4c85a540b,apparel.gift,available,98,16,7,,,
+b446b291-28e3-45e1-8497-3e036715b0d0,apparel.giving,available,98,16,7,,,
+dabb8a80-6f20-459f-b6d4-836e5f458a98,apparel.glass,available,98,16,7,,,
+2d6d521f-4f16-438f-950c-5aa93b292d9c,apparel.global,available,98,16,7,,,
+35420dfe-545b-41dc-a7c5-ba42b9fd6c73,apparel.gmbh,available,98,16,7,,,
+4f39cad8-90bf-4a54-818f-a3780609d613,apparel.gold,available,98,16,7,,,
+f02f6910-7531-40dd-8b95-3cc062a076b9,apparel.golf,available,98,16,7,,,
+a4feef17-c54b-4e12-94b1-5afa5f534315,apparel.graphics,available,98,16,7,,,
+0f811078-7e96-4f61-a24c-74ada0051386,apparel.gratis,available,98,16,7,,,
+2c8d32c9-2bbb-4569-817c-02f7fd2008dc,apparel.green,available,98,16,7,,,
+851c1f59-ce8b-4920-ab5c-18c590e6056a,apparel.gripe,available,98,16,7,,,
+0733a2d8-ad4a-4a93-be5d-2b10d993f4a5,apparel.guide,available,98,16,7,,,
+da84e071-2a52-425c-bf1c-9c5a5502e82e,apparel.guitars,available,98,16,7,,,
+64bcdf6a-04ed-44de-a14e-5bc7d28a2094,apparel.guru,resell,98,16,7,Dynadot Inc,17/07/2025 17:00,17/07/2026 17:00
+a9323bf6-dda4-4b40-a75a-ada65b2f1fe1,apparel.hair,available,98,16,7,,,
+2079d87d-3bba-43cf-8269-973df72e3025,apparel.health,available,98,16,7,,,
+834e096c-3090-490f-8799-4e87aefcbb58,apparel.healthcare,available,98,16,7,,,
+0bb45cd7-a817-47e9-97db-a77c71e28c0d,apparel.help,available,98,16,7,,,
+42b5f158-f1ab-45d5-8597-85efa45149e4,apparel.hiphop,available,98,16,7,,,
+ff53ddb8-92b1-4f4b-8b75-e75ade448ddc,apparel.hiv,available,98,16,7,,,
+1735a977-72fd-4465-8b35-bb3ec5a4914e,apparel.hockey,available,98,16,7,,,
+122c527a-5e99-49a1-b6b6-71735f0bc170,apparel.holdings,available,98,16,7,,,
+b77d7e22-e320-4e79-bd2a-bafc01b2fd56,apparel.holiday,available,98,16,7,,,
+9e824545-2d2a-4170-990a-35d8ea2c9ee2,apparel.homes,available,98,16,7,,,
+6181306d-f719-43e2-b3d4-29c09b8f3ea4,apparel.horse,available,98,16,7,,,
+3329db8c-f920-48fe-a414-c544a6cf5e17,apparel.hospital,available,98,16,7,,,
+262055a8-8536-4616-a74f-c5f246b47e9f,apparel.host,available,98,16,7,,,
+4328575d-af9e-4f14-8314-c102241ad47e,apparel.hosting,available,98,16,7,,,
+5f92c55a-2ec2-44db-bb44-da67c03d97af,apparel.hot,available,98,16,7,,,
+5f80bd25-bc19-4a5e-93e2-8d5ad863daa0,apparel.house,available,98,16,7,,,
+930748f5-1a40-486c-a29a-3cf9290d0ce9,apparel.icu,expired,98,16,7,"HOSTINGER operations, UAB",17/07/2024 08:08,17/07/2025 23:59
+718093f3-b307-4be5-a387-f835170a1ac1,apparel.im,available,98,16,7,,,
+c9ee72a7-2c79-43f1-9017-875e87c8b168,apparel.immo,available,98,16,7,,,
+1e03b888-39e2-4c9b-a96e-4439bc2011c8,apparel.immobilien,available,98,16,7,,,
+348b1766-e9c4-47c9-acbc-ece93dd9d17c,apparel.inc,available,98,16,7,,,
+4f8f1acc-b514-4e88-9d85-663270d0947d,apparel.industries,available,98,16,7,,,
+a3e9419f-cf21-4a50-89ba-11cfefe41539,apparel.ing,available,98,16,7,,,
+ea75ffa6-948f-44f0-956e-c87ecc4bd007,apparel.insure,available,98,16,7,,,
+7088161e-8136-42f4-9762-a5a4675dc75b,apparel.investments,available,98,16,7,,,
+a7f89270-be73-410e-899f-6ceb5729ab62,apparel.io,resell,98,16,7,"GoDaddy.com, LLC",25/01/2015 00:30,25/01/2026 00:30
+26a2f296-928f-42aa-9fd7-8dba015740cc,apparel.jetzt,available,98,16,7,,,
+9cc4c93f-5262-4213-99c0-55a73c306e59,apparel.jewelry,available,98,16,7,,,
+a1d9dd5a-ae83-4942-8a25-1fd40d715ef2,apparel.juegos,premium,98,16,7,,,
+0fb37de4-3447-40df-acbb-cd94a1aa03d6,apparel.kaufen,available,98,16,7,,,
+9d38c73e-3a2e-4a00-9026-691f1cc777a2,apparel.kids,available,98,16,7,,,
+4672f1fa-afa6-41d5-a19e-5ef715f2c081,apparel.kim,available,98,16,7,,,
+f4de5828-aeff-4a61-95dd-abcdfcf8fc87,apparel.kitchen,available,98,16,7,,,
+570c6885-5d72-41b7-bf0f-e2f8025ee7c5,apparel.la,resell,98,16,7,LA Domain Names,06/04/2020 11:59,06/04/2026 23:59
+b5151923-bd6c-45d9-bd93-6814042aa6ec,apparel.land,available,98,16,7,,,
+89e71a86-a84f-4822-b385-7b18bb2aa888,apparel.law,available,98,16,7,,,
+55c58666-afe3-4bc5-9f09-d7b9b48e64a5,apparel.lawyer,available,98,16,7,,,
+4268a6b9-5260-4454-8486-3ce2c8aa6b31,apparel.lease,available,98,16,7,,,
+c99dc1d9-9a5f-4cd2-9461-c0f805570c00,apparel.legal,available,98,16,7,,,
+3d45e997-d3ac-40b1-8fb5-8ddae3988932,apparel.life,resell,98,16,7,"DNSPod, Inc.",29/08/2024 15:15,29/08/2026 15:15
+6320d925-b01b-44bd-9368-720dda4586dd,apparel.lighting,available,98,16,7,,,
+12b742ff-62be-4639-b3e3-7d80388d9f3c,apparel.limited,available,98,16,7,,,
+e820ae11-6122-4673-a5fd-fa2991ec0564,apparel.limo,available,98,16,7,,,
+d0b5ac09-cd9c-4858-9462-303ed5356c7b,apparel.live,resell,98,16,7,"Sav.com, LLC",11/04/2025 17:00,11/04/2026 17:00
+6998ae18-e506-4bf8-8b5c-91c82e5a31cd,apparel.living,available,98,16,7,,,
+91a29c9a-90f0-4a65-b1ac-c489f8d02a09,apparel.llc,available,98,16,7,,,
+c33376ba-3c87-4112-88a1-3f7c192630f0,apparel.loan,available,98,16,7,,,
+351a7b6a-9796-4d49-956b-e492ab4daef2,apparel.loans,available,98,16,7,,,
+b85496c2-44b0-4802-bd88-7e32a034cb77,apparel.locker,available,98,16,7,,,
+e29a3214-a626-4cc7-8c7c-ae7e08b4e608,apparel.lol,resell,98,16,7,Namecheap,26/06/2021 21:35,26/06/2026 23:59
+d1fce53e-368e-4f9f-8a59-a42b4ed7aa01,apparel.love,available,98,16,7,,,
+7cb73dad-d648-49e4-9b60-2e767a4a2aea,apparel.ltda,available,98,16,7,,,
+42a79c8f-5c5e-41cf-aad3-b67aa457fbac,apparel.luxury,available,98,16,7,,,
+d3e2d981-979b-4ea2-91fa-298a0cbfe8ee,apparel.maison,available,98,16,7,,,
+a54d49bd-e432-4610-bdcb-8b859e604825,apparel.makeup,available,98,16,7,,,
+ad72f8cb-45b6-48cb-8d23-2423977afd4f,apparel.management,available,98,16,7,,,
+1e5675f3-5b91-4180-a8d2-6dfbcf82494d,apparel.mba,available,98,16,7,,,
+1a553d14-8d86-48f3-b7c3-d0a5fffdf887,apparel.me,resell,98,16,7,Dynadot Inc,17/07/2008 15:02,17/07/2026 15:02
+8a023ee9-61eb-464b-a6a6-6a209a5b6ec1,apparel.media,resell,98,16,7,"Sav.com, LLC",09/07/2025 17:09,09/07/2026 17:09
+9e4ef342-6620-4070-abc6-36fad9d7930e,apparel.melbourne,available,98,16,7,,,
+cf4a580e-9ef2-44ab-b923-27511b903d6c,apparel.meme,available,98,16,7,,,
+1924aef6-c9c0-4f5b-929e-0403f360a5f1,apparel.memorial,available,98,16,7,,,
+090fb0b0-78d8-4ab7-92d1-169714c1cc5a,apparel.men,available,98,16,7,,,
+b51fc985-8ae8-4907-83be-c426d0c32e6a,apparel.menu,available,98,16,7,,,
+46b9ca8d-f03b-468e-bdf7-bf2b7519f537,apparel.miami,expiring,98,16,7,Go Australia Domains Inc,02/10/2015 16:00,02/10/2025 16:00
+d0a1cbed-1653-4b88-b0ed-378a936e3122,apparel.mobi,available,98,16,7,,,
+c3c5bc51-867c-4344-9d91-d7ba4c9fd461,apparel.moda,available,98,16,7,,,
+11012760-48f1-4f48-9a22-28df064a516d,apparel.moe,available,98,16,7,,,
+125776fe-46fc-4d26-9974-456d93a39f49,apparel.mom,available,98,16,7,,,
+41cd1621-df17-4b52-ae42-562e3b07e462,apparel.money,available,98,16,7,,,
+6f6a06b5-b92f-4b61-b3b6-ba5f631f05f7,apparel.monster,available,98,16,7,,,
+401cb2ec-fbae-4eb5-ba36-565f191547ef,apparel.mortgage,available,98,16,7,,,
+0bd241a4-e530-44a9-be06-54caec3f5a2c,apparel.motorcycles,available,98,16,7,,,
+3b389bc2-4483-4224-91a5-567cb5f569e0,apparel.mov,available,98,16,7,,,
+8cd5807b-81cc-4bb2-a20e-4911f84940bf,apparel.movie,available,98,16,7,,,
+49fc104d-7446-4859-9f86-f475225d563e,apparel.music,available,98,16,7,,,
+57d69d2a-d009-4576-a264-fc6799123dbe,apparel.mx,available,98,16,7,,,
+6cb1c8ce-6211-48b7-b2ed-8e7caf38d103,apparel.my,available,98,16,7,,,
+3824ecb1-d5bf-40b4-b1e2-b6f7aab26f3a,apparel.name,available,98,16,7,,,
+6b7d8c6c-801a-4c6c-9f78-fdee35a0eb72,apparel.navy,available,98,16,7,,,
+65e4c315-f704-4f85-8769-449525db9c20,apparel.net,resell,98,16,7,Tirupati Domains and Hosting Pvt Ltd.,04/05/1995 04:00,05/05/2026 04:00
+ea221cc6-ccb2-402f-9630-692ef102f1db,apparel.network,expiring,98,16,7,"GoDaddy.com, LLC",07/09/2021 03:55,07/09/2025 03:55
+7876b482-4e23-4134-ad38-890f005f826a,apparel.nexus,available,98,16,7,,,
+e26de918-96cf-4346-a5e2-8b28824f008a,apparel.ngo,available,98,16,7,,,
+af991f65-b225-46c5-ac7b-1ec7dfc34d33,apparel.ninja,available,98,16,7,,,
+ed5e18a3-1096-4460-a1c2-c3089c2272e0,apparel.nyc,resell,98,16,7,Hello Internet Corp.,17/02/2015 21:40,16/02/2026 23:59
+073aa6d0-292a-4f67-9f0e-bf6b93ba4662,apparel.observer,available,98,16,7,,,
+643be47e-a134-4f43-8662-25a67ddfb413,apparel.one,available,98,16,7,,,
+abb79159-58cd-4892-8421-b6176180fdbf,apparel.ong,available,98,16,7,,,
+3287bf6b-3855-4962-b83a-42573f0c3fee,apparel.onl,available,98,16,7,,,
+055f129d-89bb-454a-8502-00846864bcd5,apparel.online,premium,98,16,7,,,
+798b566e-d3d3-403f-a321-7a516344ac52,apparel.ooo,available,98,16,7,,,
+e73263c3-aa33-4e3f-8f97-d2128e5f1a42,apparel.organic,available,98,16,7,,,
+05eb864a-d547-4f9a-acc2-7b9c79a07df3,apparel.osaka,available,98,16,7,,,
+86f29b63-55b7-4bc7-a987-e6fd42a36ae5,apparel.page,available,98,16,7,,,
+7e733f71-1ba4-4de4-bf89-4375811fcab6,apparel.partners,expired,98,16,7,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,19/07/2024 17:00,19/07/2025 17:00
+a113469e-0696-48b7-8c09-5eaf2c7f8916,apparel.parts,available,98,16,7,,,
+345529ff-283c-4894-bac7-06584cf5fdbf,apparel.party,premium,98,16,7,,,
+6536507b-72d4-450d-9529-5367c4fd5431,apparel.pet,available,98,16,7,,,
+be79b049-2c39-4764-a3e2-44d42c29dcd4,apparel.phd,available,98,16,7,,,
+058ccfcf-715b-4fd9-a28c-5693fc93d58f,apparel.photo,available,98,16,7,,,
+4ce002b2-0497-4e92-afe8-c00695717bc3,apparel.photos,available,98,16,7,,,
+5651021e-c660-492b-ab82-a8a8d610dac8,apparel.pics,available,98,16,7,,,
+6ca703b3-c0b8-48f1-8f7a-48553971cf7f,apparel.pictures,available,98,16,7,,,
+f8c4a690-54a2-4411-95af-7aec2e53ae4f,apparel.pink,available,98,16,7,,,
+06bb8e44-cad2-48cd-82b8-cffcdd14984a,apparel.pizza,available,98,16,7,,,
+f118a891-d05f-48cd-a722-eb9169cc01ce,apparel.place,available,98,16,7,,,
+2d38a1fb-378c-4c47-8182-6c6c3338d364,apparel.plumbing,available,98,16,7,,,
+32c3228c-3bfc-4ff6-a2f7-170b82e697c8,apparel.poker,available,98,16,7,,,
+d15e6448-f257-4814-a37e-51ba76a8f8dd,apparel.porn,available,98,16,7,,,
+bf1e6d52-8558-432d-80de-73bdebdfe152,apparel.press,available,98,16,7,,,
+9c2f15ce-9187-42e1-9839-406a7671de59,apparel.productions,available,98,16,7,,,
+3daa032f-d92d-4797-a47d-6954eb6ac656,apparel.prof,available,98,16,7,,,
+f45d7b3b-875e-4a8d-8f71-0f52ef01fe54,apparel.promo,available,98,16,7,,,
+eab28685-9e7a-4df3-a33c-f269318b0215,apparel.properties,available,98,16,7,,,
+d4a14c07-26e6-48ef-9239-5243fb064542,apparel.property,premium,98,16,7,,,
+0b4f5662-c3d2-493a-81a9-46e3a5125086,apparel.protection,available,98,16,7,,,
+021def05-db56-4745-b27f-7a6161dd0b22,apparel.pub,available,98,16,7,,,
+2954788a-86b1-4718-9339-759335ad0c44,apparel.qpon,available,98,16,7,,,
+71b49547-200d-4bf3-a1a6-7193089639e9,apparel.quest,available,98,16,7,,,
+af0b5859-a872-449c-93a1-bde1d6ab13c6,apparel.racing,available,98,16,7,,,
+ce41bdeb-1374-45b1-9543-59ec568bb768,apparel.realty,available,98,16,7,,,
+2f4e894e-a0c9-495c-b666-dd2da3525cae,apparel.recipes,available,98,16,7,,,
+1e77e4cb-0393-4652-b4bc-b1b8f643b8b6,apparel.red,available,98,16,7,,,
+45216e05-4f2d-48df-8d80-095e9ad4c513,apparel.rehab,available,98,16,7,,,
+9d400016-113b-40a1-bf22-4d4d86b0525e,apparel.reise,available,98,16,7,,,
+97418fcc-4e93-4e26-a910-f7aa67eefefa,apparel.reisen,available,98,16,7,,,
+657cbbeb-125c-4af1-8f3e-ba8395572bca,apparel.rent,available,98,16,7,,,
+e4887dc4-afab-4972-9f91-e4381990207c,apparel.rentals,available,98,16,7,,,
+750c1169-b85a-42ab-94f7-586cef44ad36,apparel.repair,available,98,16,7,,,
+a813fafa-a8b6-42bd-a804-24969196e608,apparel.report,available,98,16,7,,,
+08d2218f-dacd-4ee8-847c-167dbf648515,apparel.rest,available,98,16,7,,,
+94ff2fe8-4dd0-4f9c-b292-da7a5e223536,apparel.restaurant,available,98,16,7,,,
+53c8315d-32bb-49d5-a11b-46ae6cb0894d,apparel.review,available,98,16,7,,,
+95f4825e-139b-48a0-8f86-d219bd1ce737,apparel.rich,available,98,16,7,,,
+c44f486e-0b0d-4fda-b24b-7cee6ce9648b,apparel.rip,available,98,16,7,,,
+d751cc09-b9e0-4de6-b942-59fa73a74075,apparel.rodeo,available,98,16,7,,,
+591a898f-7a2a-4b47-89e5-1820b448c5ba,apparel.rsvp,available,98,16,7,,,
+051ac1e7-4ff8-4e77-87ab-5e5140e2fa3d,apparel.sale,available,98,16,7,,,
+f8e80e08-de20-40ff-9862-ed8cbbb0281e,apparel.salon,available,98,16,7,,,
+97fc8ceb-6845-4723-ad63-0759756ea591,apparel.sarl,available,98,16,7,,,
+a43d37b6-2e1e-42b4-9046-bbb34ce60b75,apparel.sbs,available,98,16,7,,,
+4b524324-3702-4475-8149-f4dd7f3872f9,apparel.school,available,98,16,7,,,
+7f1a615c-9516-4307-a3dd-16d225eac64b,apparel.schule,available,98,16,7,,,
+e0867e39-b916-4715-9442-d77df1392780,apparel.science,available,98,16,7,,,
+b07fb4b1-13d4-480d-873a-fdd566a1d762,apparel.security,available,98,16,7,,,
+1549565b-e4a9-4d50-9f2d-a54cdd1390b2,apparel.services,available,98,16,7,,,
+7a8de660-6a00-49c2-9449-4c4b627b9452,apparel.sh,available,98,16,7,,,
+36a89595-53b5-4582-926d-695261be81e7,apparel.shiksha,available,98,16,7,,,
+79a53992-a46f-48d6-850b-cc249191d54b,apparel.singles,available,98,16,7,,,
+bdf2104b-19f1-431f-b993-140c3422f2e0,apparel.site,premium,98,16,7,,,
+fde0ab50-c791-4950-b376-22f3a706f5b3,apparel.ski,available,98,16,7,,,
+c4169a6f-1cf2-4a64-bebc-014acc3911c8,apparel.skin,available,98,16,7,,,
+c785dd69-65f9-477d-b39a-14c5304f1331,apparel.so,available,98,16,7,,,
+b2209e7c-caae-4850-b82e-8480f7fc308f,apparel.soccer,available,98,16,7,,,
+76f6e6f6-7e55-4043-a9c2-74f846dcceae,apparel.social,available,98,16,7,,,
+7b74e721-49e1-4f6a-8278-0c9d042c26a5,apparel.solar,available,98,16,7,,,
+ed7dd6ac-c247-407f-a83a-77fb63faab99,apparel.solutions,resell,98,16,7,"Sav.com, LLC",27/11/2016 10:16,27/11/2025 10:16
+bcd2e5af-0301-4594-ad99-c6d9f2b00c79,apparel.soy,available,98,16,7,,,
+2cd1cd79-faad-4c62-ba63-6c1aac3edf19,apparel.space,available,98,16,7,,,
+5352d779-9702-4f7f-9577-db1607cbb5de,apparel.spot,available,98,16,7,,,
+aafd0241-f8bb-4e42-aa0b-0187b9dedc1e,apparel.srl,available,98,16,7,,,
+b00a03a8-c779-4363-97a2-6c272240c53b,apparel.storage,available,98,16,7,,,
+74891025-b6aa-4655-a824-4812d7dfb9e3,apparel.store,premium,98,16,7,,,
+cc5cc403-61f8-4fd1-a650-bf6f8def1183,apparel.stream,available,98,16,7,,,
+ea6855ed-9632-4e38-a2f3-910591a6514d,apparel.studio,available,98,16,7,,,
+d381f958-a450-4d85-bd24-a9c57e13ff3c,apparel.study,available,98,16,7,,,
+97f41547-dd35-43c6-9a5c-865a7ba6d146,apparel.style,premium,98,16,7,,,
+31b9e549-74af-4e21-b17b-6a36232a6b29,apparel.sucks,available,98,16,7,,,
+029cec39-b477-416d-b550-7eaee6af850a,apparel.supplies,premium,98,16,7,,,
+8bae817a-17ec-4c85-89ad-d6e5a3385874,apparel.supply,available,98,16,7,,,
+f1b058a9-e5b2-4ae6-8618-418d9b9a71f2,apparel.surf,available,98,16,7,,,
+e228b7c7-4327-4b59-b878-5842d97a114e,apparel.surgery,available,98,16,7,,,
+d6d72479-7099-48ad-b6ae-c90b7cc7adb1,apparel.sydney,available,98,16,7,,,
+39e1ff18-53d5-4a7a-8f23-65c5d26367bf,apparel.systems,available,98,16,7,,,
+3623766f-1336-4199-9a49-8b825a2e8190,apparel.tattoo,available,98,16,7,,,
+7a7e7ebf-3c4c-45e9-9220-83bd3879854f,clothing.app,premium,68,76,8,,,
 43555b3e-493f-48bc-8697-84fa4ec2a2b8,clothing.at,resell,68,76,8,EuroDNS SA ( https://nic.at/registrar/421 ),,
-3d902642-1ba9-4901-82c4-6a12611452d9,clothing.dev,available,68,76,8,,,
-7835145a-2af1-4ccf-bde3-9df80e6eaced,clothing.expert,available,68,76,8,,,
+3d902642-1ba9-4901-82c4-6a12611452d9,clothing.dev,premium,68,76,8,,,
+7835145a-2af1-4ccf-bde3-9df80e6eaced,clothing.expert,premium,68,76,8,,,
 4062196f-8532-4a93-81bc-577f3f6db31f,clothing.io,resell,68,76,8,Dynadot Inc,06/06/2013 00:15,06/06/2026 00:15
 feb0cc68-0be4-4002-99d8-2ed82d3a8b35,clothing.it,expiring,68,76,8,,30/01/1997 00:00,03/08/2025 00:00
 92d605f0-0543-4d75-b107-7087923bc5e4,clothing.me,expiring,68,76,8,"GoDaddy.com, LLC",09/07/2008 17:02,09/07/2025 17:02
-324e183a-3a2c-4380-bebb-8c3b35ff8116,clothing.online,available,68,76,8,,,
-7b4a470f-46e7-4f08-8740-3dd68b74a448,clothing.site,available,68,76,8,,,
+324e183a-3a2c-4380-bebb-8c3b35ff8116,clothing.online,premium,68,76,8,,,
+7b4a470f-46e7-4f08-8740-3dd68b74a448,clothing.site,premium,68,76,8,,,
 89bcce7d-3377-4e4d-9aab-7b4896147662,clothing.so,available,68,76,8,,,
-ffa51dbd-8fdf-4cc4-bb5a-26530a644fef,clothing.space,available,68,76,8,,,
-bc1eb3ca-60de-4982-bc8a-763e9e29c167,clothing.store,available,68,76,8,,,
-9ef9079c-9c7b-49e0-b085-80457ab79e2c,clothing.tech,available,68,76,8,,,
+ffa51dbd-8fdf-4cc4-bb5a-26530a644fef,clothing.space,premium,68,76,8,,,
+bc1eb3ca-60de-4982-bc8a-763e9e29c167,clothing.store,premium,68,76,8,,,
+9ef9079c-9c7b-49e0-b085-80457ab79e2c,clothing.tech,premium,68,76,8,,,
 68c4b3a6-10b6-4875-bebe-fcc138b02c07,clothing.us,resell,68,76,8,"GoDaddy.com, LLC",24/04/2002 14:01,23/04/2026 23:59
-d7ac83b7-de6e-4fd2-9ab9-9220bd0cf8f3,clothing.zone,available,68,76,8,,,
-c80e42c7-32b2-4037-a999-cc9aebebef6f,footwear.app,available,70,88,8,,,
+d7ac83b7-de6e-4fd2-9ab9-9220bd0cf8f3,clothing.zone,premium,68,76,8,,,
+c80e42c7-32b2-4037-a999-cc9aebebef6f,footwear.app,premium,70,88,8,,,
 666f6312-e1b6-4e75-8558-ff967a97ea0a,footwear.at,sold,70,88,8,DomainQuadrat Marketing GmbH ( https://nic.at/registrar/581 ),,
 9585ffc1-152e-4935-af4e-d18f974c229b,footwear.cloud,available,70,88,8,,,
-83d7616d-bf8d-41a8-a511-e2b40844dd15,footwear.dev,available,70,88,8,,,
+83d7616d-bf8d-41a8-a511-e2b40844dd15,footwear.dev,premium,70,88,8,,,
 109c8a7d-5588-4fc0-b987-bf447bae69dc,footwear.gg,available,70,88,8,,,
 3b3127e4-843d-40cb-b97f-6e2c01ba7fe3,footwear.ninja,available,70,88,8,,,
-edb44c55-9fcb-4e5a-88ad-c7675d960764,footwear.online,available,70,88,8,,,
-8c320705-6c23-451a-aae7-18967fa3bcfa,footwear.site,available,70,88,8,,,
+edb44c55-9fcb-4e5a-88ad-c7675d960764,footwear.online,premium,70,88,8,,,
+8c320705-6c23-451a-aae7-18967fa3bcfa,footwear.site,premium,70,88,8,,,
 bb01cf9c-6861-4d89-ae93-d790e9ec08e8,footwear.so,available,70,88,8,,,
 299f9935-14c6-4eb5-9e1a-a93d6f63c57c,footwear.space,available,70,88,8,,,
-ce0198c0-cd77-4e29-8232-12f36f3de152,footwear.store,available,70,88,8,,,
-58f5c6d5-2518-44c0-9323-745837fedf0a,footwear.tech,available,70,88,8,,,
+ce0198c0-cd77-4e29-8232-12f36f3de152,footwear.store,premium,70,88,8,,,
+58f5c6d5-2518-44c0-9323-745837fedf0a,footwear.tech,premium,70,88,8,,,
 45f4228d-5369-4c6f-ba82-5685ea55c370,footwear.zone,available,70,88,8,,,
 6a1d4293-99ef-40fa-aa6b-fd9be132f070,jewelry.at,available,97,76,7,,,
 9c4d6bcd-fced-4783-979c-ca2aab80f4d0,jewelry.co,resell,97,76,7,"GoDaddy.com, LLC",24/02/2010 22:57,23/02/2026 23:59
-9276e863-be5e-44d9-b4e5-b1218c7104d3,jewelry.expert,available,97,76,7,,,
+9276e863-be5e-44d9-b4e5-b1218c7104d3,jewelry.expert,premium,97,76,7,,,
 f202cc06-b055-4c51-943c-2928493116cf,jewelry.gg,available,97,76,7,,,
 b910e335-28b9-4268-88fd-b4b38b6b50f5,jewelry.it,expired,97,76,7,,04/07/2022 16:00,04/07/2025 00:00
 3e4b7f3b-5476-4b3d-93fa-53f86bb6daab,jewelry.me,resell,97,76,7,"GoDaddy.com, LLC",29/04/2008 18:00,29/04/2026 18:00
-16eec619-38da-4a00-976a-9578864c4c6c,jewelry.online,available,97,76,7,,,
-74da7919-3a89-4d1a-a1fa-355511667b0c,jewelry.site,available,97,76,7,,,
+16eec619-38da-4a00-976a-9578864c4c6c,jewelry.online,premium,97,76,7,,,
+74da7919-3a89-4d1a-a1fa-355511667b0c,jewelry.site,premium,97,76,7,,,
 518acc6a-3069-410b-8451-eac3ca7a7686,jewelry.so,available,97,76,7,,,
 a6c618a1-53e9-4d81-9293-585be6109d7f,jewelry.space,available,97,76,7,,,
-14e1e6f3-b5e9-4015-b39b-56ea6188ffd0,jewelry.store,available,97,76,7,,,
-8b43dcc7-e95f-4d23-8385-3d9077418c49,jewelry.tech,available,97,76,7,,,
+14e1e6f3-b5e9-4015-b39b-56ea6188ffd0,jewelry.store,premium,97,76,7,,,
+8b43dcc7-e95f-4d23-8385-3d9077418c49,jewelry.tech,premium,97,76,7,,,
 cccc970b-4008-4394-a6cd-32cb3cd2aa10,jewelry.zone,available,97,76,7,,,
-b3583cb8-ab84-46ee-905a-f0cc8e07a8ed,outerwear.app,available,54,80,9,,,
+b3583cb8-ab84-46ee-905a-f0cc8e07a8ed,outerwear.app,premium,54,80,9,,,
 711f75c5-8bae-4787-bc62-c81d8ab0792e,outerwear.cloud,available,54,80,9,,,
 f04984bd-fba4-4db7-b7d3-cedcd4a15fa7,outerwear.co,resell,54,80,9,"GoDaddy.com, LLC",10/08/2023 10:44,10/08/2025 10:44
 12d42f60-b76a-4ee8-ac60-27ff59296f50,outerwear.com,resell,54,80,9,PDR Ltd. d/b/a PublicDomainRegistry.com,04/09/2001 18:05,04/09/2025 18:05
@@ -531,23 +922,23 @@ f04984bd-fba4-4db7-b7d3-cedcd4a15fa7,outerwear.co,resell,54,80,9,"GoDaddy.com, L
 b29c17fc-d337-4b3a-9959-60c317bf555a,outerwear.io,resell,54,80,9,"eNom, LLC",08/05/2017 00:59,08/05/2026 00:59
 a78a24f5-f5bf-4b63-850f-30a9091c4243,outerwear.it,resell,54,80,9,,13/10/2009 12:56,20/10/2025 00:00
 448a3acf-b3e5-49a9-b870-e9de62957d02,outerwear.ninja,available,54,80,9,,,
-d1b85169-e0d1-4bb4-85b3-4e47be01d842,outerwear.online,available,54,80,9,,,
+d1b85169-e0d1-4bb4-85b3-4e47be01d842,outerwear.online,premium,54,80,9,,,
 da7f1d7b-caa6-4319-9f96-d4783c3e6658,outerwear.pro,resell,54,80,9,Epik LLC,13/10/2019 10:10,13/10/2025 10:10
-9a129c1c-abe3-4f64-b36c-9d8d8542bad3,outerwear.site,available,54,80,9,,,
+9a129c1c-abe3-4f64-b36c-9d8d8542bad3,outerwear.site,premium,54,80,9,,,
 51daa61e-500a-44a8-8854-10bb2d2a1fb8,outerwear.so,available,54,80,9,,,
-775a1829-8518-4812-8546-67d914da7590,outerwear.space,available,54,80,9,,,
-d400a9fd-4547-4c74-ab54-dabcc24e7bf6,outerwear.store,available,54,80,9,,,
-6ed57204-fa81-46eb-9026-e93ada2c0a81,outerwear.tech,available,54,80,9,,,
+775a1829-8518-4812-8546-67d914da7590,outerwear.space,premium,54,80,9,,,
+d400a9fd-4547-4c74-ab54-dabcc24e7bf6,outerwear.store,premium,54,80,9,,,
+6ed57204-fa81-46eb-9026-e93ada2c0a81,outerwear.tech,premium,54,80,9,,,
 f2fa3a2b-d15f-4bef-96b5-108d283e33eb,outerwear.zone,available,54,80,9,,,
-ba096287-04b0-4d05-a742-6781f72269db,vitamins.app,available,,60,8,,,
+ba096287-04b0-4d05-a742-6781f72269db,vitamins.app,premium,,60,8,,,
 cac101b6-7434-4395-8df4-a176710f59a8,vitamins.co,resell,,60,8,"GoDaddy.com, LLC",29/09/2010 17:30,28/09/2025 23:59
-52aae06a-6dee-4304-819f-5bf0ad243c87,vitamins.dev,available,,60,8,,,
+52aae06a-6dee-4304-819f-5bf0ad243c87,vitamins.dev,premium,,60,8,,,
 a54d2266-2525-4cde-a436-e431526f1a3a,vitamins.ninja,available,,60,8,,,
-8acb2b49-1ed8-4895-9a0a-0e39d2724989,vitamins.online,available,,60,8,,,
-b9486d8f-7105-4596-b467-013539b96116,vitamins.site,available,,60,8,,,
+8acb2b49-1ed8-4895-9a0a-0e39d2724989,vitamins.online,premium,,60,8,,,
+b9486d8f-7105-4596-b467-013539b96116,vitamins.site,premium,,60,8,,,
 0165f7ec-4c08-49c1-b9a2-2c2a4594b24d,vitamins.space,available,,60,8,,,
-1ea7e7a8-b6d1-4f21-a8ba-a23e38a111c3,vitamins.store,available,,60,8,,,
-3839a8ab-c54f-4f6b-ba77-860b7030b9de,vitamins.tech,available,,60,8,,,
+1ea7e7a8-b6d1-4f21-a8ba-a23e38a111c3,vitamins.store,premium,,60,8,,,
+3839a8ab-c54f-4f6b-ba77-860b7030b9de,vitamins.tech,premium,,60,8,,,
 44d4e83a-d5ed-4e1a-a6cf-ffa770c865ff,vitamins.zone,available,,60,8,,,
 f015b307-c5ed-42f0-8a47-f3fd40cee868,snacks.app,expiring,,48,6,Tucows Domains Inc,24/07/2019 05:27,24/07/2025 05:27
 aaca82e1-327b-4943-9166-3686d6e78c96,snacks.cloud,available,,48,6,,,
@@ -556,12 +947,12 @@ aaca82e1-327b-4943-9166-3686d6e78c96,snacks.cloud,available,,48,6,,,
 19cbc67a-0cd7-422f-b316-81252ccad7ec,snacks.it,expiring,,48,6,,06/08/2013 16:00,31/07/2025 00:00
 fa0e3dc1-bb63-461f-a645-8cb3cf1122e3,snacks.me,resell,,48,6,"Name105, Inc.",04/10/2013 02:35,04/10/2025 02:35
 6c9eb22b-8036-4804-9617-4896da30b0de,snacks.ninja,available,,48,6,,,
-8a2b911e-736a-4ebd-849b-5597870fb857,snacks.online,available,,48,6,,,
+8a2b911e-736a-4ebd-849b-5597870fb857,snacks.online,premium,,48,6,,,
 1fd8654e-ed8c-4161-be1d-72e217eebd21,snacks.pro,resell,,48,6,Epik LLC,27/11/2022 17:00,27/11/2025 17:00
-ef205f4a-9fe8-45a2-af9a-967b0fb6d493,snacks.site,available,,48,6,,,
+ef205f4a-9fe8-45a2-af9a-967b0fb6d493,snacks.site,premium,,48,6,,,
 cfc7df0f-72d8-4eac-85b7-27485af97f05,snacks.so,available,,48,6,,,
 0ca164d6-8158-4fa5-bad3-ba0896e0fd32,snacks.space,available,,48,6,,,
-48820257-13de-41f8-af49-9ea0d7b0a1a8,snacks.tech,available,,48,6,,,
+48820257-13de-41f8-af49-9ea0d7b0a1a8,snacks.tech,premium,,48,6,,,
 a1da72a8-8bad-444a-bafc-7379844bbcd4,beverages.cloud,available,54,32,9,,,
 3990abb7-378c-47c0-980d-66b6c5adc0c3,beverages.co,expiring,54,32,9,"Register.com, Inc.",21/07/2010 21:23,20/07/2025 23:59
 381559fd-90b8-451f-83e6-73c3078d1ae1,beverages.dev,available,54,32,9,,,
@@ -570,12 +961,12 @@ af918fec-3960-42d8-b7a9-20da4b47994e,beverages.expert,available,54,32,9,,,
 55e95b50-1a1a-4b37-bff3-2e5594de651e,beverages.me,expiring,54,32,9,"Spaceship, Inc.",13/07/2024 17:08,13/07/2025 17:08
 fbad2abc-2802-4d94-9ce1-2f66ad2997af,beverages.net,resell,54,32,9,"GoDaddy.com, LLC",04/03/1997 05:00,05/03/2026 05:00
 45abf4f3-4fe3-4e5b-9fe0-2e6cbbf64191,beverages.ninja,available,54,32,9,,,
-114720f8-9132-4008-b49b-54350d8f7302,beverages.online,available,54,32,9,,,
-bd4058e1-13e1-484f-912c-c90ccb083540,beverages.site,available,54,32,9,,,
+114720f8-9132-4008-b49b-54350d8f7302,beverages.online,premium,54,32,9,,,
+bd4058e1-13e1-484f-912c-c90ccb083540,beverages.site,premium,54,32,9,,,
 7d1b2ddc-a13c-4963-9f9f-d4ae539cd401,beverages.so,available,54,32,9,,,
 f0869898-26af-498c-86ea-17c2cecaa494,beverages.space,available,54,32,9,,,
-cbf16e17-4fbb-40ca-9cca-4416524cf9cb,beverages.store,available,54,32,9,,,
-1ab0509e-5c74-4126-89d0-565963db6482,beverages.tech,available,54,32,9,,,
+cbf16e17-4fbb-40ca-9cca-4416524cf9cb,beverages.store,premium,54,32,9,,,
+1ab0509e-5c74-4126-89d0-565963db6482,beverages.tech,premium,54,32,9,,,
 0de04f03-c4eb-47f8-9f7a-b329dea05ef7,beverages.us,expired,54,32,9,"Sav.com, LLC - 6",03/07/2023 00:00,03/07/2025 00:00
 a29060c1-e9a6-457e-b7c2-713ac4c1b861,beverages.xyz,resell,54,32,9,"Go Daddy, LLC",02/06/2014 18:13,02/06/2026 23:59
 74eb7401-b88c-48e3-930e-c1fd521521ad,beverages.zone,available,54,32,9,,,
@@ -608,394 +999,3 @@ bcd4da78-5988-429a-96bd-54f760dfb50c,produce.co,expiring,94,76,7,1API GmbH,07/08
 39c42a4a-9ea2-445a-9377-399c5f6a1139,produce.gg,available,94,76,7,,,
 58ef8019-c8bf-4786-83fe-f08bbbf5ff18,produce.me,available,94,76,7,,,
 dce06ad9-1da2-4949-af4c-1255ffc006d9,produce.ninja,available,94,76,7,,,
-02e74d8b-afa5-4d90-a23a-d38321309ad5,produce.online,available,94,76,7,,,
-3b5ebe8f-d2da-4563-a182-96756fdc623b,produce.site,available,94,76,7,,,
-f4088bcd-58b8-477c-871a-093897b106f1,produce.so,available,94,76,7,,,
-a133a1a9-8931-4e70-9840-638e52a56d94,produce.space,available,94,76,7,,,
-8689198d-a8cd-4f9f-8d6c-707a3861a01d,produce.store,available,94,76,7,,,
-bbefea6f-bca0-4c58-8fb6-4742e567d4ed,produce.us,resell,94,76,7,"eNom, LLC",24/04/2002 14:02,23/04/2026 23:59
-302642ea-c738-4bcc-a544-e5ba0bf58533,produce.xyz,resell,94,76,7,"Go Daddy, LLC",02/06/2014 17:36,02/06/2026 23:59
-456e3b59-6461-41ce-86ed-afc7a62687e9,fragrances.co,resell,58,48,10,"eNom, LLC",31/08/2010 18:25,30/08/2025 23:59
-4e671134-a918-4b8a-b517-ba8c0d091f57,fragrances.dev,available,58,48,10,,,
-7d9f86a7-f355-46e9-a2c5-4f62243ebd7d,fragrances.expert,available,58,48,10,,,
-7005f8c1-20ea-4ddf-9267-b45a521c7265,fragrances.gg,available,58,48,10,,,
-aedf813a-a607-4e13-939c-3f52b224e986,fragrances.it,resell,58,48,10,,23/02/2021 09:00,23/02/2026 00:00
-bf4b0c48-c9cf-41e4-83b7-0abec09d1416,fragrances.net,resell,58,48,10,"Spaceship, Inc.",14/09/1997 04:00,13/09/2026 04:00
-f9732ece-9a88-4a4c-a795-6663ae425154,fragrances.ninja,available,58,48,10,,,
-c5e00df7-9d12-4277-b479-3c14cad22d0a,fragrances.online,available,58,48,10,,,
-316ab8b3-7948-4822-af13-304a5d7e5e81,fragrances.site,available,58,48,10,,,
-c40f2a84-5e63-4df4-b900-d049bb34f5a8,fragrances.so,available,58,48,10,,,
-2f5af557-fac4-4ed6-935c-176a3eb8fa78,fragrances.store,available,58,48,10,,,
-b8c7127f-58bd-4582-ad55-519c5e00d65a,fragrances.tech,available,58,48,10,,,
-82bdd518-5c7b-4a31-8e38-98e7dda60ae2,fragrances.zone,available,58,48,10,,,
-ad0a3232-b717-4d09-b4f0-753efef7157d,toys.cloud,resell,,48,4,Tucows Domains Inc.,12/02/2020 14:39,13/02/2026 14:14
-fdfd5fda-d47c-4d84-99d9-e1c64c541aaf,toys.dev,available,,48,4,,,
-6bce090e-7faa-4789-9fd6-4838e251fdfe,toys.expert,available,,48,4,,,
-e41434b6-fce8-4e0f-a7b4-80ad80ad87f6,toys.gg,resell,,48,4,Enrapture Limited (https://enrapture.gg),,
-a5035883-6a8d-4457-ab67-4d5517737216,toys.io,resell,,48,4,"NameCheap, Inc.",05/11/2013 02:00,05/11/2025 02:00
-8ff0b7bb-d61c-4be6-93b3-1fda5f64e04f,toys.ninja,expired,,48,4,"GoDaddy.com, LLC",05/05/2024 15:55,05/05/2025 15:55
-3f02bfd6-b808-47e5-9f26-091014afdb62,toys.online,available,,48,4,,,
-a922c438-2dd8-434d-83e0-83e6486fbc24,toys.pro,resell,,48,4,"EnCirca, Inc.",02/03/2005 00:00,02/03/2026 00:00
-531de5dc-edfc-48a1-b6c1-bd4cf3db0fb9,toys.site,available,,48,4,,,
-603ff091-ce9d-41a5-a439-f5d424e7cb02,toys.so,resell,,48,4,NameCheap,27/12/2020 22:35,27/12/2025 22:35
-c10dfa91-72f7-49df-aa06-5154d2b5df42,toys.space,available,,48,4,,,
-820860ab-2aa9-48d0-a112-e21b289136f6,toys.store,available,,48,4,,,
-1995d9e1-0eac-4ef1-95ea-182ae6a3e8ac,toys.tech,available,,48,4,,,
-53d5d599-4617-49b2-804c-ad7210214724,laptops.ai,resell,56,32,7,"NameCheap, Inc.",07/02/2023 14:55,07/02/2027 14:55
-8b3bd795-33ed-4193-ace8-9b99c4bb0bc4,laptops.at,available,56,32,7,,,
-2bd2aad4-dc85-411a-917c-42340b3bdb35,laptops.cloud,available,56,32,7,,,
-559f466e-af46-49e7-8616-c339c43f33db,laptops.co,resell,56,32,7,InternetX GmbH,24/02/2010 22:48,23/02/2026 23:59
-f56fde92-306d-46da-993a-1ff2c06522d0,laptops.com,resell,56,32,7,"NameCheap, Inc.",20/05/1997 04:00,21/05/2026 04:00
-fd17a346-0cd7-43b5-a48d-9603c052f0d7,laptops.dev,available,56,32,7,,,
-0fd8d482-e66d-4ac1-bc53-758db9da015e,laptops.expert,available,56,32,7,,,
-53e12ed2-b41b-4b6d-b91d-2b4ece63b758,laptops.ninja,available,56,32,7,,,
-19091031-0021-46e3-a9fe-ace3b87e8343,laptops.online,available,56,32,7,,,
-30477892-5445-4891-ad70-fd42b6af0ead,laptops.pro,expired,56,32,7,Virtualia LLC,01/05/2023 15:15,01/05/2025 15:15
-e6181dd7-378a-41b8-84f3-a88305e585eb,laptops.site,available,56,32,7,,,
-48f2dda3-fe16-4daa-88c3-0aa887a9b907,laptops.so,available,56,32,7,,,
-b599d90f-55ae-41e8-bf80-0e2c7b4e864a,laptops.space,available,56,32,7,,,
-f2c29923-9d46-4a1b-ab02-ef472c86c4e9,laptops.store,available,56,32,7,,,
-4ad03e31-801f-4129-8aa7-b9478dae6c6d,laptops.tech,available,56,32,7,,,
-736403f5-cf8f-4d81-b1a7-293c70025004,laptops.xyz,available,56,32,7,,,
-6b1878ff-6703-4eef-84e8-b36fe28c4df2,laptops.zone,available,56,32,7,,,
-09ff9368-851c-4830-8ce1-ff7ca2e2b29f,Games.ai,resell,66,80,5,Dynadot Inc,16/12/2017 04:33,08/10/2030 04:33
-8a811265-c49e-41cc-9f0c-6502243a8ea1,Games.at,sold,66,80,5,Russmedia IT GmbH ( https://nic.at/registrar/215 ),,
-1b95fea2-a9b8-4e85-a4b2-ff51b20e2452,Games.cloud,available,66,80,5,,,
-696dd797-b48b-4ff9-8b36-1e32b9af83cb,Games.co,resell,66,80,5,"Name.com, Inc.",25/02/2010 00:55,24/02/2026 23:59
-13985fa0-46f4-48d8-b085-c03d7b9f3191,Games.expert,expiring,66,80,5,Nom-iq Ltd. dba COM LAUDE,12/07/2015 16:00,12/07/2025 16:00
-3f59b856-2afa-46e0-a533-79a3370baed9,Games.io,resell,66,80,5,101domain GRS Limited,04/10/2007 06:33,04/10/2028 06:33
-3f41fa93-1865-4b37-b391-e2ade1e37c12,Games.me,available,66,80,5,,,
-f0a46c7f-a2ee-4381-b0b4-cf78c243ef79,Games.ninja,available,66,80,5,,,
-c873e65b-f222-43e7-be68-ff4dcb58e754,Games.online,resell,66,80,5,Dotserve Inc,02/04/2019 13:55,02/04/2029 23:59
-472b756c-4b50-40da-89ca-7c27d6f6257e,Games.site,available,66,80,5,,,
-00e1a495-1e6d-4e2c-8764-d0be729544ad,Games.space,available,66,80,5,,,
-c49cede6-aa4b-4a67-9b21-5613f7df61e5,Games.store,resell,66,80,5,Dotserve Inc,23/12/2016 11:19,23/12/2029 23:59
-5dfca5d2-a3ce-4434-90e8-16da52f81405,Games.tech,resell,66,80,5,Dotserve Inc,02/04/2019 14:12,02/04/2029 23:59
-7ebcb9f4-bb60-4c43-a474-7984f39983aa,Games.us,resell,66,80,5,"NameCheap, Inc.",24/04/2002 14:00,23/04/2026 23:59
-e68ddde0-0e1a-4899-bea2-f07723e7ab3d,tablets.ai,resell,,36,7,Dynadot Inc,06/06/2023 16:47,06/06/2027 16:47
-8b97fb0e-e8f3-48c9-909a-56ed038dc86b,tablets.app,available,,36,7,,,
-d701aaf4-fb9a-40fb-9e97-8ab46739dbd2,tablets.cloud,available,,36,7,,,
-f8a34a3d-61f6-494a-a5ae-98f2043d0f6d,tablets.dev,available,,36,7,,,
-eabbe9fe-935d-4966-aa9e-9f4fcf4fafbc,tablets.expert,available,,36,7,,,
-5f12f30f-c199-4d4a-a8a7-d0c7c7a1456e,tablets.gg,available,,36,7,,,
-d436b928-72a3-4673-93a6-784a3d78d4e9,tablets.io,resell,,36,7,"Spaceship, Inc.",07/05/2013 02:01,07/05/2026 02:01
-c5738d6e-e6c6-4395-8722-3b73ee28d9db,tablets.it,resell,,36,7,,13/02/2010 05:26,14/02/2026 00:00
-a00cd789-0243-4489-b387-90cb7fe91914,tablets.ninja,available,,36,7,,,
-f4a8aeee-ec4f-4928-9381-862001d73880,tablets.online,available,,36,7,,,
-f96743f4-e6cd-4733-8c56-2641768077ed,tablets.site,available,,36,7,,,
-d78983cc-9e6d-4913-b2d5-ca26ae698bd9,tablets.so,available,,36,7,,,
-d61ebf3b-1f7e-4e0b-87c3-4f740eb31647,tablets.space,available,,36,7,,,
-38ebc9e2-343a-4edf-ab70-f1de1198d09c,tablets.store,available,,36,7,,,
-bbb17f70-5199-4861-ba60-1cc80f012c75,tablets.tech,available,,36,7,,,
-949805cf-6e4c-4f47-96da-762f113e2f33,tablets.zone,expired,,36,7,"Spaceship, Inc.",27/04/2024 17:17,27/04/2025 17:17
-14e0eaa2-4595-4716-964d-aed0fc88e602,Books.at,available,60,60,5,,,
-8a31925b-7509-4e5f-a98d-59779e70ce41,Books.cloud,resell,60,60,5,Tucows Domains Inc.,12/02/2020 14:39,13/02/2026 14:20
-2d5ac0f7-0d50-481c-a34a-0562b034bbbe,Books.co,resell,60,60,5,InternetX GmbH,24/02/2010 23:10,23/02/2026 23:59
-6fd0667a-bf6d-4f19-9535-705771a1f009,Books.me,available,60,60,5,,,
-f9cf0aec-c967-4eb4-ae7f-5b6207662a4b,Books.online,available,60,60,5,,,
-407e35bb-2a06-44d1-9058-4d8d08c811cc,Books.pro,resell,60,60,5,"EnCirca, Inc.",25/02/2005 00:00,25/02/2026 00:00
-78afddde-72eb-4210-8f05-0ac761806811,Books.site,available,60,60,5,,,
-e15a172b-9552-4867-9db6-106ff4640a4e,Books.space,available,60,60,5,,,
-fff149ee-997b-4972-8fc9-064df422044a,Books.store,resell,60,60,5,Dotserve Inc,23/12/2016 11:20,23/12/2029 23:59
-2ac1c4ce-9bfc-4383-9a95-0ec0e18107fa,Books.tech,available,60,60,5,,,
-57da23a1-eee9-4066-a0b5-40d4c8c25afd,magazines.at,resell,56,24,9,EWBCD GmbH ( https://nic.at/registrar/750 ),,
-eee3f43e-a195-4ae0-8274-87e084bdbf30,magazines.cloud,available,56,24,9,,,
-4811dcdd-8c1d-4bea-b0ce-e20d3b61d61f,magazines.co,resell,56,24,9,InternetX GmbH,24/02/2010 23:20,23/02/2026 23:59
-c583f766-6cc3-4e8e-b693-f514bf1b7339,magazines.dev,available,56,24,9,,,
-e4e3898e-8a54-4cdf-8221-11a302a559de,magazines.expert,available,56,24,9,,,
-0d1a4180-640b-4e8f-b7b4-aee433a8de3c,magazines.gg,available,56,24,9,,,
-2a95b80e-3b34-4f28-abca-b4eb7efbcf06,magazines.io,resell,56,24,9,Dynadot Inc,06/06/2013 14:32,06/06/2026 14:32
-de11e859-7591-433a-b889-9e17ff308f5d,magazines.it,resell,56,24,9,,04/09/2010 02:33,19/10/2025 00:00
-21f8d8d5-a62a-4d99-adf6-3cf3b3887786,magazines.ninja,available,56,24,9,,,
-b7e1916b-4fdd-4785-a925-a9e74f8a18ca,magazines.online,available,56,24,9,,,
-0e92207f-0412-4fc9-8e4f-649b17587500,magazines.org,resell,56,24,9,EuroDNS S.A.,10/05/2000 10:41,10/05/2026 10:41
-494717ed-d424-45ee-9d06-0c2e2e128ad0,magazines.pro,expiring,56,24,9,Epik LLC,09/07/2022 17:00,09/07/2025 17:00
-c4efd123-4e78-4bf1-953d-dc12b40f5bae,magazines.site,available,56,24,9,,,
-d4aa0d49-775f-4ce2-b74c-f36bf7587a46,magazines.so,available,56,24,9,,,
-7cefcf64-7adc-4b51-91f4-739068ac56f4,magazines.space,available,56,24,9,,,
-1d63ae18-75b9-4da6-8f9f-82a4d3d107b1,magazines.store,available,56,24,9,,,
-c683bfb5-1c64-4602-b2c1-1ef84ab262da,magazines.tech,available,56,24,9,,,
-cfeea235-d162-4586-aec0-15b2b50ae224,magazines.us,resell,56,24,9,InternetX GmbH,24/04/2002 14:02,23/04/2026 23:59
-bb482e49-95ee-4ec2-9dd5-735ff84ea282,magazines.zone,available,56,24,9,,,
-050e4dc6-d5a9-41ed-b958-319451a6b8f4,computers.app,available,64,44,9,,,
-904ab328-8db2-4d23-962d-a19aa1949f95,computers.cloud,available,64,44,9,,,
-f5d927ae-6b7d-4bea-9ec4-f611913335fa,computers.dev,available,64,44,9,,,
-dea77126-d274-43e2-a587-8938bae3eab1,computers.io,resell,64,44,9,Divido Ltd,18/07/2010 03:12,30/04/2027 12:00
-49c2ab60-6e72-49c3-82f9-13d43b1ce716,computers.me,resell,64,44,9,"GoDaddy.com, LLC",29/04/2008 17:59,29/04/2026 17:59
-601bcd14-456f-457a-8a36-add48bc76905,computers.online,available,64,44,9,,,
-0123fe1d-848e-482b-b7d0-5a4495f91094,computers.pro,premium,64,44,9,"Sav.com, LLC",05/05/2024 17:00,05/05/2026 17:00
-eb0a0794-8eaf-4e84-936d-059c53fd2c70,computers.site,available,64,44,9,,,
-aa218daf-e52c-4051-b07e-b166b0ed47ce,computers.so,expired,64,44,9,eurosom_lt,03/02/2014 00:00,03/02/2016 00:00
-e7877864-0add-4740-a78b-fac92ff50938,computers.space,available,64,44,9,,,
-3f5d21ea-1b91-4b71-aabb-36a07a1bb15d,computers.store,available,64,44,9,,,
-edff4d00-c866-4543-9fc5-1745ce92d972,computers.tech,available,64,44,9,,,
-00ea11f5-07d5-437a-aab1-5e142f5d6032,computers.xyz,available,64,44,9,,,
-c0201905-3973-4cb8-bb11-b50720685389,computers.zone,available,64,44,9,,,
-06b4b8c9-3e49-460f-bdb1-f2850d5289fb,kitchenware.app,expiring,54,36,11,Namecheap Inc.,19/07/2024 03:13,19/07/2025 03:13
-b0a77777-c7aa-4cf0-b0df-7787d8bcf7a6,kitchenware.cloud,resell,54,36,11,NAMECHEAP,14/06/2024 19:50,14/06/2026 19:50
-c8ced3ac-cb14-45e0-b0f9-f3360b31e739,kitchenware.co,expiring,54,36,11,"GoDaddy.com, LLC",21/07/2010 20:27,20/07/2025 23:59
-abbc584f-5543-4237-874b-be9c2171adc8,kitchenware.dev,available,54,36,11,,,
-01255ba7-89d3-4cee-8948-65c589ab3112,kitchenware.expert,available,54,36,11,,,
-b55bc87d-eca4-4427-bf16-7db4f5c39d3e,kitchenware.gg,available,54,36,11,,,
-6e55072b-5701-4705-b8fc-b2a6e8a0af65,kitchenware.io,resell,54,36,11,"GoDaddy.com, LLC",13/05/2019 17:56,13/05/2026 17:56
-852d71a6-eb10-44ee-aa78-d4de5537b898,kitchenware.ninja,available,54,36,11,,,
-57f7a0e3-4957-48a2-b685-119b11477eb9,kitchenware.online,available,54,36,11,,,
-a5e2d9a2-27d5-48a7-8b7f-3d32256f9a3b,kitchenware.org,resell,54,36,11,PDR Ltd. d/b/a PublicDomainRegistry.com,28/03/2002 19:37,28/03/2026 19:37
-35fdc750-5708-490c-800d-e11a3defc8b9,kitchenware.pro,expired,54,36,11,"Spaceship, Inc.",21/05/2024 17:30,21/05/2025 17:30
-51b26ae0-93ed-4598-8a74-b90dc7c07410,kitchenware.so,available,54,36,11,,,
-b32e3ae4-94fb-431c-9a59-e58f7547b501,kitchenware.store,available,54,36,11,,,
-79bf4298-f00d-48e0-bea7-14efdda104c5,kitchenware.tech,expired,54,36,11,"CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.",01/06/2024 00:38,01/06/2025 23:59
-61a0ef33-b26e-4747-97f4-e060fb1863c4,kitchenware.us,expiring,54,36,11,Dynadot Inc,09/07/2005 17:18,08/07/2025 23:59
-6edec186-5586-4bb7-9540-af289d73cad2,kitchenware.zone,available,54,36,11,,,
-5001dce8-cde1-42c5-a238-019e0c95621d,smartphones.app,available,,36,11,,,
-f0f5fe0f-4dc2-49a3-81d8-f6528d077e3f,smartphones.cloud,available,,36,11,,,
-9b3becac-93b7-4e8a-a630-7dea554dba87,smartphones.dev,available,,36,11,,,
-cd4dd1b3-14f7-4d3a-b5b1-bee92ada601e,smartphones.expert,available,,36,11,,,
-5cdbf028-4b29-4a9c-b3b8-9c5aeea1b29e,smartphones.gg,available,,36,11,,,
-81e7ca5a-0a36-4b47-a64b-8beea95b7eb1,smartphones.io,expiring,,36,11,"Spaceship, Inc.",26/07/2018 10:17,26/07/2025 10:17
-e2951e15-efd4-4f91-81a5-f02521b2e8df,smartphones.net,expiring,,36,11,RegistryGate GmbH,09/07/1997 04:00,20/07/2025 03:59
-141e4bc6-0775-4826-8f26-6a99cf709c8d,smartphones.ninja,available,,36,11,,,
-4cb0ce96-d4fd-4728-b4ab-1a60e6cc0364,smartphones.online,available,,36,11,,,
-d00b82a5-5aaa-4166-87cf-f42e096d339f,smartphones.pro,resell,,36,11,OVH SAS,11/12/2008 00:00,11/12/2025 00:00
-bbedd61c-9d5c-4feb-b19f-b92353e04885,smartphones.site,available,,36,11,,,
-1478bc05-c286-4058-a743-b459be047f6d,smartphones.so,available,,36,11,,,
-2a2e86e6-0e5c-4e77-a916-7a84e7a72c15,smartphones.space,available,,36,11,,,
-3679ae88-eaea-4fc3-9b08-7a496b9601cb,smartphones.store,available,,36,11,,,
-3cd334d1-d6b5-4852-96bf-53ee668a6981,smartphones.tech,available,,36,11,,,
-0408073d-2373-4c34-a19b-67973119a822,smartphones.zone,available,,36,11,,,
-43554659-c59e-4ce3-a6c5-bdd1bdbe16d2,furniture.app,expiring,72,92,9,Dynadot LLC.,22/07/2022 02:46,22/07/2025 02:46
-1f4fe5e1-6b4a-4fdd-bb77-9db89ff9f415,furniture.dev,available,72,92,9,,,
-55a79e72-169e-41c8-a754-7eef0529f068,furniture.expert,available,72,92,9,,,
-83d29e53-b8ee-499a-8c68-39833950671f,furniture.it,expiring,72,92,9,,29/01/1997 00:00,10/07/2025 00:00
-b595ae4f-540a-4222-9d70-57d368415326,furniture.online,available,72,92,9,,,
-ee97b153-28a4-403b-a1df-008e3dca7269,furniture.site,available,72,92,9,,,
-852bf11b-eb43-4784-9f1a-131295683443,furniture.so,available,72,92,9,,,
-7b3b7b3d-854e-48c2-a9b8-6ee51016b1a3,furniture.space,available,72,92,9,,,
-2ddfb8b9-2436-42d5-b5a9-126b7f3d6e6a,furniture.store,available,72,92,9,,,
-334e1f60-68ba-4a0c-a108-6cfea3428642,furniture.tech,available,72,92,9,,,
-7520c9c0-df37-48d9-80e5-4980b3b5fba1,furniture.zone,available,72,92,9,,,
-f058fc6b-5de3-4cdc-a527-31cf3a60d68f,mattresses.ai,expired,52,28,10,"GoDaddy.com, LLC",24/05/2023 16:48,24/05/2025 16:48
-f053a69a-57a4-4764-9017-7a956fae5fe4,mattresses.at,available,52,28,10,,,
-4a91ba13-5c1b-47f7-b225-f0a5b277d1ef,mattresses.cloud,available,52,28,10,,,
-e91bf031-1193-4472-9820-3914f4e630bb,mattresses.co,resell,52,28,10,InternetX GmbH,14/11/2017 07:19,14/11/2025 07:19
-335526f6-f489-4e83-bc50-8b0c2ffdf870,mattresses.dev,available,52,28,10,,,
-6da08b69-d5ee-40d6-80c9-b54a14ff5740,mattresses.expert,available,52,28,10,,,
-30c45837-4bf9-4fe6-b2a6-4c3808cdf4fa,mattresses.gg,available,52,28,10,,,
-0c618c4d-1aa7-4cc5-bee1-74829f1e47df,mattresses.it,resell,52,28,10,,29/05/2013 03:48,17/06/2026 00:00
-9ed38a08-b6d1-451b-899b-33f91360c94b,mattresses.me,expiring,52,28,10,"GoDaddy.com, LLC",30/07/2008 19:22,30/07/2025 19:22
-a4621276-5e39-41f7-9d92-5f16847fb10a,mattresses.ninja,available,52,28,10,,,
-ec7c89ae-46aa-42cf-a6ff-7106f740c2af,mattresses.online,available,52,28,10,,,
-4dbb97c7-ebff-4717-8e15-b90b8f3d2aa3,mattresses.site,available,52,28,10,,,
-a22a2342-c445-4358-8610-7100de9ca8b3,mattresses.so,available,52,28,10,,,
-aba01967-d99c-4e75-a431-7ea46a19fa99,mattresses.space,available,52,28,10,,,
-763014b9-084b-442d-a65e-cdccdc3c22e7,mattresses.store,available,52,28,10,,,
-10ba780c-7f6b-4d9f-851a-fd3ee28b8539,mattresses.tech,available,52,28,10,,,
-08164707-914d-4c74-a3b3-96894c9d9174,mattresses.us,resell,52,28,10,"GoDaddy.com, LLC",24/04/2002 14:10,23/04/2026 23:59
-1550d679-ebf3-4186-8bed-72b47c27446d,mattresses.zone,expiring,52,28,10,Porkbun LLC,23/07/2018 23:16,23/07/2025 23:16
-c18dd839-256c-4ed2-8bda-b255e662af78,bedding.at,resell,62,80,7,EWBCD GmbH ( https://nic.at/registrar/750 ),,
-56ad9e9d-6e6d-493b-b0e2-b0b2fffe60dc,bedding.cloud,available,62,80,7,,,
-b769c1c7-850c-4072-973a-ee0322e3260e,bedding.dev,available,62,80,7,,,
-5fbace83-dd92-48bb-9db3-fce18d078439,bedding.expert,available,62,80,7,,,
-ddeac216-980e-449a-94b6-8b941540db0c,bedding.gg,available,62,80,7,,,
-d3db6f25-17bf-4297-b61b-c559e20f5c2e,bedding.io,resell,62,80,7,"GoDaddy.com, LLC",05/05/2021 14:31,05/05/2026 14:31
-e860f2d8-e94f-470d-96ac-9ddc1344996a,bedding.ninja,available,62,80,7,,,
-edb84189-d370-4ba7-85dc-00413e4cc5aa,bedding.online,available,62,80,7,,,
-3fd524c0-629a-4f07-a9cb-97bedbe52b77,bedding.org,resell,62,80,7,InterNetX GmbH,16/10/2002 13:01,16/10/2025 13:01
-3e3ae43e-df58-43de-b2c9-31d3b113faed,bedding.pro,resell,62,80,7,"Sav.com, LLC - 18",08/10/2024 15:15,08/10/2025 15:15
-12162aa5-93ff-407b-a6b7-3e55dbf155ca,bedding.site,available,62,80,7,,,
-c0de5dd9-90db-4436-97b7-776d409ba902,bedding.so,available,62,80,7,,,
-3683aef0-fca3-49a4-9abb-7bfce378e2f3,bedding.space,available,62,80,7,,,
-1638a8bd-2759-41de-8e05-57f3e2cb006d,bedding.tech,available,62,80,7,,,
-55b38a72-2d21-4be7-9547-88ce2fcac5b5,bedding.us,resell,62,80,7,"GoDaddy.com, LLC",24/04/2002 14:17,23/04/2026 23:59
-7c893e7f-ca1e-495e-83d5-37af55c6d9d6,bedding.xyz,resell,62,80,7,"Go Daddy, LLC",02/06/2014 16:49,02/06/2026 23:59
-4f09bc4d-c246-4d98-8105-397ad774df29,bedding.zone,available,62,80,7,,,
-5da07199-0ef0-4d49-8c4a-02e3d2d0327e,lighting.at,resell,60,72,8,Vautron Rechenzentrum AG ( https://nic.at/registrar/610 ),,
-fcc8fecb-2638-4d51-bf41-586644fcc550,lighting.co,resell,60,72,8,Hello Internet Corp.,25/02/2010 00:02,24/02/2026 23:59
-2ebe18e0-bcd7-42e6-a5d2-338bdaaf648a,lighting.dev,available,60,72,8,,,
-7c07bf87-8a4b-4e99-85b5-a855eac07991,lighting.expert,available,60,72,8,,,
-c8880540-acf3-4465-b83c-2280632c0c26,lighting.gg,available,60,72,8,,,
-7480b9f2-2a68-475d-a573-4ff3fa11fb82,lighting.it,resell,60,72,8,,26/05/2025 09:00,26/05/2026 00:00
-f8f1a12e-c998-4f14-965b-8d3442615440,lighting.me,resell,60,72,8,Dynadot Inc,17/07/2008 16:13,17/07/2026 16:13
-fdeba583-2e10-4b02-baf0-6919bf98f053,lighting.online,available,60,72,8,,,
-93bd035c-bdb5-477a-a4ba-b157211a7152,lighting.site,available,60,72,8,,,
-9f9bd1de-92be-4dc2-9110-ed0d3369465e,lighting.so,available,60,72,8,,,
-9b6cf09e-5df3-4c33-b23b-ccde45d3eb35,lighting.space,available,60,72,8,,,
-0367fc50-ace4-40fd-916f-a01678410637,lighting.store,available,60,72,8,,,
-62e8744f-ce18-4977-bb2b-1797d51371f5,lighting.tech,available,60,72,8,,,
-62147b22-fd40-4cb0-be34-0128975ee5ed,lighting.us,resell,60,72,8,"Wild West Domains, Inc.",24/04/2002 14:01,23/04/2026 23:59
-eea98cb6-bfd7-4f63-a786-a312aa875a70,lighting.xyz,available,60,72,8,,,
-b3822226-160f-4ccf-b63c-c010b42932a5,hardware.cloud,resell,64,92,8,Tucows Domains Inc.,12/02/2020 14:39,13/02/2026 14:16
-475b4fa2-f543-4c68-bdf1-b6fd79ab2682,hardware.expert,available,64,92,8,,,
-bccaa05c-9add-4f96-8820-f9a68e2ec58c,hardware.me,available,64,92,8,,,
-834f2b69-3131-4c44-9ed8-91c37ce69dd2,hardware.online,available,64,92,8,,,
-6858320b-c370-448e-999c-8b977e7dcc3d,hardware.pro,resell,64,92,8,"EnCirca, Inc.",02/03/2005 00:00,02/03/2026 00:00
-d62f46a1-f174-41cd-9698-9c83674a3c99,hardware.site,available,64,92,8,,,
-4b47a06a-33d7-41c1-b907-9afd7accdf8d,hardware.so,available,64,92,8,,,
-6c36cf09-ca3c-4711-86ad-7305ed24c6d7,hardware.space,available,64,92,8,,,
-543d1f71-4acc-4ba9-84c0-7fb0cde76290,hardware.store,available,64,92,8,,,
-d7bd1c51-0b82-4c3b-8258-a46c327733d0,hardware.tech,available,64,92,8,,,
-216480d1-dbf3-4b9e-8d3d-4d1a1493d3ba,Tools.at,available,,68,5,,,
-a56e6e69-e8b1-4cda-9a71-068dc4ae3974,Tools.cloud,available,,68,5,,,
-16384d7b-1b23-4cc2-9ce8-f3fc919c3253,Tools.me,available,,68,5,,,
-9318a5ec-b9f4-4638-a75d-6fcfbdd1d262,Tools.online,available,,68,5,,,
-89d52641-4b15-4518-80a5-738ff3a21cfb,Tools.site,available,,68,5,,,
-cbb8510b-481a-43b7-9407-29d5eca583e0,Tools.space,available,,68,5,,,
-601218ef-17de-45d2-853e-2aec0e72ba5a,Tools.store,available,,68,5,,,
-d7fa4aaf-572f-4eea-aac8-7417392d203b,Tools.tech,available,,68,5,,,
-c9c0258a-158b-40df-8356-f5bd5a0bbe56,retail.io,expiring,106,96,6,"GoDaddy.com, LLC",18/07/2012 07:11,18/07/2025 07:11
-29acbb99-90c6-4666-96e2-ea7ee4b3137e,retail.ninja,available,106,96,6,,,
-2102386d-dd4e-4b51-98a9-bb183171d083,retail.online,available,106,96,6,,,
-b21ba107-206b-4c4d-b4ad-b8883c514754,retail.pro,resell,106,96,6,"Sav.com, LLC - 3",04/06/2022 13:15,04/06/2026 13:15
-041570b6-fc19-4e5d-8b4d-39d62f91209d,retail.site,available,106,96,6,,,
-cedbbccd-e504-44ed-9cb5-ab44d1df6370,retail.space,available,106,96,6,,,
-b2106923-e849-40ce-a5da-360b661075ea,retail.store,available,106,96,6,,,
-57768fd3-ccd3-4da2-abf7-1ad2bfc6453d,retail.tech,available,106,96,6,,,
-9cf5e02b-ac75-4488-b35c-84f8ae15f6b2,retail.zone,available,106,96,6,,,
-459291b8-b700-4546-816e-b65f84b4a15e,sportinggoods.app,expiring,,24,14,"NameSilo, LLC",22/07/2019 03:12,22/07/2025 03:12
-99d5d325-a671-4777-8360-71d6fd60c7fd,sportinggoods.at,available,,24,14,,,
-060e8ad4-2c00-4673-856b-55c07e14e6b5,sportinggoods.cloud,available,,24,14,,,
-990926ed-d54e-4d7e-817b-fc96a15ea85c,sportinggoods.co,resell,,24,14,Hello Internet Corp.,24/02/2010 23:10,23/02/2026 23:59
-e972825a-f9d1-4b22-8604-4d41c6fe01f5,sportinggoods.dev,available,,24,14,,,
-a98eb440-a794-4789-9c6a-4aec08885d47,sportinggoods.expert,available,,24,14,,,
-ae05a7f5-80d6-4934-9d40-07504df73a22,sportinggoods.gg,available,,24,14,,,
-fb83260b-f7e0-4426-91d7-355c76ea03fe,sportinggoods.io,resell,,24,14,"humbly, LLC",03/09/2015 00:30,03/09/2025 00:30
-86fdaeab-1f86-45f4-ab57-6c3d84ac3a5c,sportinggoods.it,resell,,24,14,,18/10/2010 12:25,04/11/2025 00:00
-4511fc38-f9c5-44f1-aff3-4af2aad3e45d,sportinggoods.me,available,,24,14,,,
-0edf9b7d-90ea-4819-87a2-be230e9b371e,sportinggoods.ninja,available,,24,14,,,
-3eb4259e-38bf-464b-ae01-08a1f7ecc709,sportinggoods.online,available,,24,14,,,
-086e6779-df21-4715-949a-32e781249ce1,sportinggoods.site,available,,24,14,,,
-83207f58-2eaf-4577-9256-de091e5296ae,sportinggoods.so,available,,24,14,,,
-517f0eb6-00ac-4378-88fc-8293eed4048f,sportinggoods.space,available,,24,14,,,
-64885095-45c0-43f2-9a05-8e0631c8c597,sportinggoods.store,available,,24,14,,,
-2d20b9e8-fb55-403b-8208-ee3bf4dec423,sportinggoods.tech,available,,24,14,,,
-9d089297-d43a-4481-96c0-6ebab8780019,sportinggoods.us,resell,,24,14,PDR Ltd. d/b/a PublicDomainRegistry.com,24/04/2002 14:05,23/04/2026 23:59
-f2a8a541-5417-456b-9d20-3bc0ecf307c9,sportinggoods.zone,available,,24,14,,,
-692c9453-48c2-4295-8c7e-2851d2315861,appliances.app,expiring,46,40,10,"GoDaddy.com, LLC",05/08/2020 11:04,05/08/2025 11:04
-e1080314-dc59-471d-a1b9-8cb112444883,appliances.at,resell,46,40,10,Realtime Register B.V. ( https://nic.at/registrar/423 ),,
-8f7b3cc6-2ef5-4a9a-80cb-b385c54206e4,appliances.cloud,available,46,40,10,,,
-fbe17301-6b9c-424d-9e5d-bdcb94732ef6,appliances.dev,available,46,40,10,,,
-a4ce7f12-25eb-4548-b763-e4e4210326ec,appliances.expert,available,46,40,10,,,
-4f26f823-7c5b-4b1e-bb9b-28363f549005,appliances.gg,available,46,40,10,,,
-0c941f5e-83d3-4d81-ad98-572f0b3e86e3,appliances.it,resell,46,40,10,,07/09/2010 14:51,08/10/2025 00:00
-0aacdd43-9b59-4796-b831-e5cea40dbed7,appliances.ninja,available,46,40,10,,,
-47383e7b-a06d-4de4-859c-b14964bf6efc,appliances.pro,resell,46,40,10,"GKG.NET, INC.",08/06/2019 10:06,08/06/2026 10:06
-b5c1de46-6903-459d-b6e5-ff1ba9663413,appliances.site,available,46,40,10,,,
-43e2ef1a-dfac-4429-bd6b-d3d3d6ffbcaa,appliances.so,available,46,40,10,,,
-2bcb6aed-11ae-4ea9-a411-9f407123103f,appliances.space,available,46,40,10,,,
-bd67c2cf-8e7f-4b3d-819d-ab13816a8413,appliances.store,available,46,40,10,,,
-0ac5bfb8-1ab5-4caf-b938-34eb30f8b53a,appliances.tech,available,46,40,10,,,
-30b4e623-a18e-47ec-bda2-786d99efd77c,appliances.xyz,resell,46,40,10,"Go Daddy, LLC",02/06/2014 16:46,02/06/2026 23:59
-2029ba5b-1aaf-436e-9f06-4127a6a17a70,ho.me,sold,100,44,4,Registry Operator acts as Registrar (9998),24/07/2009 13:19,24/07/2026 13:19
-fb73aa4a-4125-4398-b8d1-078f5b91c078,home.academy,resell,100,44,4,"Sav.com, LLC - 24",11/06/2023 15:15,11/06/2026 15:15
-2b7b0624-7b6a-41c3-91ec-11b604f22186,home.accountant,available,100,44,4,,,
-dd1135e5-920f-4a77-ad30-0b84f086af7e,home.actor,available,100,44,4,,,
-93567e0b-e637-449e-b302-e712e3dd6eed,home.adult,available,100,44,4,,,
-0af9e798-263a-4846-bd05-b398e23d039f,home.airforce,available,100,44,4,,,
-9a983239-cb5b-4f5c-8b6b-c5a1e8b7470d,home.apartments,resell,100,44,4,Dynadot Inc,20/05/2024 16:24,20/05/2026 16:24
-135abc4f-49ac-4a91-94a5-27c80dfe9fc6,home.app,premium,100,44,4,,,
-915a717a-de1b-4f25-9e57-57c4e3d0466e,home.archi,available,100,44,4,,,
-7a9eb6f1-7b4e-45d3-8078-e495618807e9,home.army,resell,100,44,4,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,18/08/2025 15:16,18/08/2026 15:16
-fec028ca-5e93-43ef-9963-4750e514fc22,home.art,available,100,44,4,,,
-a993597b-d7bf-423b-b2bb-e3cfd46a57bf,home.asia,available,100,44,4,,,
-7928bb36-b260-4e4f-b5e5-ce2e19318701,home.associates,available,100,44,4,,,
-fc0fd750-a767-4f5b-8750-9865a39c873a,home.attorney,available,100,44,4,,,
-9a1b359c-88e3-4f25-8b54-798bc5190771,home.auction,available,100,44,4,,,
-c76fccec-1f7f-4921-bf65-82a637ea3228,home.auto,available,100,44,4,,,
-70b1ac22-bbc3-4a0d-bf44-8d9441b6b23e,home.autos,available,100,44,4,,,
-b5d35d7a-0ea9-49bf-bc13-e1c41fd9e35e,home.baby,resell,100,44,4,"Spaceship, Inc.",17/06/2021 02:05,17/06/2026 23:59
-5b10ff9e-180c-4b4e-90ef-ba1ae35bdb21,home.bar,available,100,44,4,,,
-86f0a70a-e343-41d9-bc3d-3d7a2fe5a4b9,home.beauty,available,100,44,4,,,
-b2ba2822-5501-4261-8f0d-df66604bd639,home.berlin,resell,100,44,4,,14/12/2016 10:35,14/12/2025 10:35
-1c33f2db-54b6-4c8c-ad39-c914e48622e3,home.bid,available,100,44,4,,,
-f896358d-4a5e-4252-a4fd-c49dbf214808,home.bike,resell,100,44,4,"Chengdu West Dimension Digital Technology Co., Ltd.",03/01/2017 14:48,03/01/2026 14:48
-62a911fe-abb8-4783-8876-7294ff3ca738,home.bingo,resell,100,44,4,"Sav.com, LLC - 29",06/04/2024 15:15,06/04/2026 15:15
-dadc4e64-c962-4009-9cd8-5b51a8ab7a8e,home.black,available,100,44,4,,,
-79419992-9dee-4f6c-9227-c0fcb2fca58e,home.blue,premium,100,44,4,West263 International Limited,30/09/2017 10:09,30/09/2025 10:09
-6c3fdfe8-b295-4101-8c4e-691f703dd499,home.boats,available,100,44,4,,,
-89bac4fb-8b26-4d7c-b31a-22eb03f546f5,home.bond,available,100,44,4,,,
-9a70d615-8801-40d2-8121-237babb90454,home.boo,available,100,44,4,,,
-95f87354-b709-4a21-a2fb-7ef45de51ba6,home.boston,resell,100,44,4,"NameCheap, Inc.",24/11/2021 04:23,24/11/2025 04:23
-8e97d128-165d-4290-a451-1c11f706b70a,home.boutique,resell,100,44,4,Dynadot Inc,20/03/2021 08:18,20/03/2026 08:18
-c85a28cb-a025-4f2a-bdd6-5ed9b474a532,home.builders,expiring,100,44,4,"Name.com, Inc.",21/09/2023 19:52,21/09/2025 19:52
-380a0c23-3168-4d90-9afc-dde0c9ff7eb7,home.business,expiring,100,44,4,"Name.com, Inc.",21/09/2023 20:30,21/09/2025 20:30
-0f4c44d1-e3a1-4c15-b941-a28678b339d5,home.cafe,resell,100,44,4,"Chengdu West Dimension Digital Technology Co., Ltd.",15/07/2015 16:00,15/07/2026 16:00
-9713fb92-44fc-4152-9b2c-728185d7246a,home.cam,expiring,100,44,4,Cam Connecting SARL,20/09/2016 11:59,20/09/2025 23:59
-c30c5422-af3a-46c7-ad33-1e71a6f5e120,home.camera,resell,100,44,4,Dynadot Inc,09/03/2023 17:00,09/03/2026 17:00
-a4afaf7b-4e28-4aa8-b407-a0f9af9844f2,home.camp,resell,100,44,4,Dynadot Inc,04/03/2021 08:05,04/03/2026 08:05
-bee92bd1-ff4b-4549-9439-a52a4a1ebf56,home.capital,expiring,100,44,4,"GoDaddy.com, LLC",02/09/2015 16:00,02/09/2025 16:00
-bf088259-b221-4391-a94b-fd992037989b,home.car,available,100,44,4,,,
-29dca750-2f5f-43a5-bec4-5f2374865504,home.cards,expiring,100,44,4,Porkbun LLC,14/09/2018 14:33,14/09/2025 14:33
-1822bcb0-9cb1-4fed-966c-10b44092d9a5,home.care,resell,100,44,4,"GoDaddy.com, LLC",20/08/2015 16:00,20/08/2026 16:00
-d3fee6f5-f01f-4ff6-a76d-7a092599cd5e,home.cars,available,100,44,4,,,
-a6030d3e-35aa-4bd7-8492-6546cb86b50a,home.cash,resell,100,44,4,Dynadot Inc,20/12/2016 22:37,20/12/2025 22:37
-e5b17f69-1768-4248-bc53-89e9a686ce31,home.casino,resell,100,44,4,Automattic Inc.,13/01/2021 23:18,13/01/2028 23:18
-b9a70e36-8b6c-4e27-a452-f7cd2f3db939,home.center,resell,100,44,4,"GoDaddy.com, LLC",28/06/2015 16:49,28/06/2026 16:49
-71aef84a-e236-46a2-a308-a882a937c2cb,home.chat,resell,100,44,4,"Sav.com, LLC",20/03/2019 13:37,20/03/2026 13:37
-4cda3331-fa77-4deb-bc5b-b282e1308268,home.cheap,resell,100,44,4,"Sav.com, LLC",16/10/2017 06:49,16/10/2025 06:49
-2671dd79-7465-43ca-973e-90194b1814dc,home.city,resell,100,44,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),05/08/2015 16:00,05/08/2027 16:00
-b654aa4f-bd2f-4aa9-8978-5cbedb795af2,home.cleaning,resell,100,44,4,Dynadot Inc,31/10/2017 23:20,31/10/2025 23:20
-d16ebde3-0a22-4f46-954e-abd3c5dfc8fe,home.clinic,resell,100,44,4,Dynadot Inc,13/01/2025 15:15,13/01/2027 15:15
-d29545f5-be98-437a-8fb8-d0659f6bf921,home.clothing,resell,100,44,4,"Sav.com, LLC - 45",04/04/2023 15:15,04/04/2026 15:15
-c6e9c207-bcd7-42d6-ab9c-20a5e32467a8,home.cloud,premium,100,44,4,,,
-ebb9d3d3-49cd-4d68-adff-91b579940d8c,home.club,resell,100,44,4,"Spaceship, Inc.",19/07/2019 22:26,19/07/2026 22:26
-3f860ce3-2d25-44fb-adac-85ef66fd456c,home.codes,available,100,44,4,,,
-5a6566db-0767-426a-ae17-c60fc0f7846e,home.college,available,100,44,4,,,
-48de10f7-d0f6-4809-97d7-31bdacde8f54,home.community,resell,100,44,4,"GoDaddy.com, LLC",11/01/2017 23:23,11/01/2026 23:23
-501d3eb4-3d49-4abe-b0d5-2c4198860680,home.computer,resell,100,44,4,Porkbun LLC,05/07/2015 16:00,05/07/2026 16:00
-8f836973-91f7-43d9-934d-d139ff26df15,home.consulting,available,100,44,4,,,
-325137c2-fe7a-41e8-8865-dec012f42c75,home.cooking,expiring,100,44,4,GoDaddy Online Services Cayman Islands Ltd.,11/09/2015 05:00,11/09/2025 05:00
-87dd7c58-d04f-4ee8-963e-2acc25c2867c,home.cool,resell,100,44,4,Realtime Register B.V.,01/07/2015 19:01,01/07/2026 19:01
-8fdf6f82-850c-4355-9d63-77363f2e173f,home.country,available,100,44,4,,,
-5cd21ae8-a5e6-48e6-8fb2-e9f8a681ee15,home.creditcard,resell,100,44,4,"Sav.com, LLC",20/10/2024 17:44,20/10/2025 17:44
-ac3c6c8b-137c-40f0-ae1f-e129ad3b23de,home.cricket,available,100,44,4,,,
-d7609e3b-41ce-4966-b32c-be84ca0aa6e0,home.cruises,available,100,44,4,,,
-5655462c-39fd-4fe9-b3c2-08db4c83ee75,home.cv,available,100,44,4,,,
-4e00a53c-3b2d-403a-b3d1-c44702f2c5dd,home.cyou,expiring,100,44,4,Dynadot LLC,06/09/2024 09:08,06/09/2025 23:59
-fe5320aa-458b-4b37-8dbb-374b2cb3845a,home.dad,available,100,44,4,,,
-13c5b10e-4190-4a49-b022-fbffe3147656,home.dating,resell,100,44,4,Dynadot Inc,27/03/2021 01:25,27/03/2026 01:25
-161a56e1-4936-4736-97a7-1a563cc9b371,home.deals,resell,100,44,4,"Sav.com, LLC",26/07/2015 16:52,26/07/2026 16:52
-52974cca-35a1-4ea0-9605-0e65f3041aa3,home.degree,available,100,44,4,,,
-49ee2330-baa4-4d3f-a67a-34adf22e4b45,home.democrat,available,100,44,4,,,
-02ea69c2-5ecf-49f5-b149-27e93edaad31,home.design,resell,100,44,4,"GoDaddy.com, LLC",14/08/2018 21:17,14/08/2026 23:59
-eb0f4da9-e2a8-445f-9693-8ca10d36570c,home.dev,premium,100,44,4,,,
-7f26bde7-4a5e-436b-b96d-94b206706c3d,home.diamonds,available,100,44,4,,,
-7f9b0d74-909c-4a8c-bb9a-acc9c2dc959f,home.direct,resell,100,44,4,"GoDaddy.com, LLC",26/07/2015 16:00,26/07/2026 16:00
-6c067484-f3f6-4178-b472-d2339da2db1c,home.discount,available,100,44,4,,,
-e6d68ee0-8160-4da3-bf89-c2d230a7a578,home.dog,resell,100,44,4,Dynadot Inc,31/01/2018 07:47,31/01/2026 07:47
-9ec06b0d-65c8-41b3-b610-a38ee2485e53,home.energy,resell,100,44,4,Dynadot Inc,05/01/2018 17:23,05/01/2026 17:23
-c467f3f9-04fa-466e-b7c6-4b89754fc569,home.engineering,resell,100,44,4,"Sav.com, LLC",31/12/2020 12:07,31/12/2025 12:07
-b1dc2b5d-b239-48e4-865c-93efae068deb,home.enterprises,available,100,44,4,,,
-fd0cccdd-a6a7-4ca0-aa31-7fea7e9547e3,home.equipment,resell,100,44,4,"Global Domains International, Inc. DBA DomainCostClub.com",15/02/2014 02:25,15/02/2026 02:25
-826c5efc-5799-451c-ab7b-bbc7e3ec5ad9,home.esq,available,100,44,4,,,
-58a57672-cfd2-44fc-9562-f1daabdd549b,home.exchange,resell,100,44,4,Dynadot Inc,15/11/2017 23:38,15/11/2025 23:38
-eb1e86d5-c8ad-49e7-85c4-5558203af8c8,home.expert,sold,100,44,4,"Wild West Domains, LLC",12/07/2015 16:00,12/07/2026 16:00
-09487756-77c0-472a-8ae1-85ae80a769db,home.faith,available,100,44,4,,,
-36b885bc-c951-4aa7-896e-ca572a227385,home.fashion,resell,100,44,4,Porkbun,23/04/2021 16:11,23/04/2026 16:11
-ee813b67-221f-4803-a32f-5eda7ce662c9,home.finance,resell,100,44,4,Dynadot Inc,16/11/2024 15:15,16/11/2026 15:15
-ce290230-9c4a-420c-901c-28fd63b7b978,home.financial,resell,100,44,4,Dynadot Inc,20/03/2019 03:24,20/03/2026 03:24
-db525db0-ed61-437d-a960-e97a56c6a541,home.fishing,available,100,44,4,,,
-a663a631-6273-4cdf-b5d1-90150393595f,home.florist,resell,100,44,4,"Sav.com, LLC",01/11/2021 23:54,01/11/2025 23:54
-fd8a5838-1d7c-4121-ba63-5bcbf01acdc8,home.foo,available,100,44,4,,,
-d6f41214-3d11-44ef-8105-0bd62d4ac82e,home.football,resell,100,44,4,Dynadot Inc,23/03/2023 15:15,23/03/2026 15:15
-5da98672-ea24-4ea8-b567-704ed8ad9064,home.forum,available,100,44,4,,,
-ed1d0921-ab71-4cb8-a550-6f28a73052b4,home.fund,resell,100,44,4,Dynadot Inc,23/12/2017 18:02,23/12/2025 18:02
-f033c67b-85bd-4fa1-a9e6-96d935fe163c,home.futbol,expired,100,44,4,Squarespace Domains II LLC,03/07/2023 10:02,03/07/2025 10:02
-a760cd98-f982-42db-9784-67c3f43dd69c,home.gallery,resell,100,44,4,"Global Domains International, Inc. DBA DomainCostClub.com",17/06/2015 16:00,17/06/2026 16:00
-c3751c88-f706-4cef-a18b-709a037f3845,home.gay,available,100,44,4,,,
-9cb6440c-0c23-4ee7-9a81-36b7c596d3d5,home.gg,resell,100,44,4,West263 International Limited (http://www.west263.hk),,
-0babcf94-843f-4867-beb3-c1bc326377ff,home.gifts,expiring,100,44,4,Porkbun LLC,16/09/2015 06:09,16/09/2025 06:09
-dbc05376-0291-4f82-8915-3178c2519b8f,home.gives,available,100,44,4,,,
-c49f1345-4e60-427f-b3c9-a52afba33f79,home.glass,resell,100,44,4,Dot Holding Inc.,29/07/2018 00:33,29/07/2026 00:33
-fc234a71-2e0e-472e-81c9-167531444cb5,home.global,available,100,44,4,,,
-caadad3a-5cb3-4926-93e9-30638be9d0b7,home.gmbh,available,100,44,4,,,
-f3a85bd2-7a79-4570-a03f-2700226df880,home.graphics,resell,100,44,4,Dynadot Inc,09/01/2021 23:16,09/01/2026 23:16
-fd313b82-c3f6-442a-92d2-d7a288934bb4,home.gratis,available,100,44,4,,,
-ab8231dc-8c6a-4d03-b631-ef9ff1c9996f,home.gripe,available,100,44,4,,,
-f81e8dd2-5f34-4875-87c2-7447ee21d6cc,home.guitars,available,100,44,4,,,
-5254db47-fea0-4fab-b998-c5b89e4c3702,home.guru,expiring,100,44,4,"Sav.com, LLC",29/09/2024 17:01,29/09/2025 17:01
-3af75240-2cdc-4441-aeb8-3c71915ee96e,home.hair,available,100,44,4,,,
-e515d43b-a489-44bc-a18f-1db7dbabf04d,home.haus,resell,100,44,4,"Sav.com, LLC",09/04/2023 17:45,09/04/2026 17:45
-fb57c3f3-149e-4459-a0c1-95c396d6af09,home.health,available,100,44,4,,,
-1e0b229c-3c7d-4cfb-b129-8935eb6533a3,home.hiv,available,100,44,4,,,
-dc7540d7-f01e-4053-a941-e101c3851116,home.hockey,available,100,44,4,,,
-360f0d51-3c58-402e-8a56-69c7f49e4380,home.holdings,available,100,44,4,,,
