@@ -66,18 +66,6 @@ cbb8e54a-ff04-4f6d-ab47-f767d07c22d7,items.store,premium,48,84,5,,,
 89096b3f-c0da-4550-82b7-88ad8e813149,items.tech,premium,48,84,5,,,
 e7593180-1dda-49d4-8e2c-1c4ad1dd899d,items.us,resell,48,84,5,"GoDaddy.com, LLC",30/04/2002 18:43,29/04/2026 23:59
 ffe69959-2521-4f85-b642-7080dc25f2df,items.zone,available,48,84,5,,,
-a6893983-cc3e-4f24-8b30-77bc4c00c18f,retailing.at,available,62,84,9,,,
-6589042c-2159-4134-b412-0293665c3a9b,retailing.cloud,premium,62,84,9,,,
-e76dc4ea-1dfd-45b6-be5c-fef0048e06b1,retailing.dev,available,62,84,9,,,
-ede47607-b919-480f-9979-6c3e84451212,retailing.expert,available,62,84,9,,,
-b4afaa8b-6dab-4204-ba8e-d9abcf234024,retailing.gg,available,62,84,9,,,
-7bf50dce-565f-4fbb-8dc7-9d3db849f0d0,retailing.me,expiring,62,84,9,Dynadot Inc,28/07/2022 14:30,28/07/2025 14:30
-baa13630-f184-4fff-9537-f92f468e3651,retailing.online,premium,62,84,9,,,
-55f6e256-bafe-413e-84ff-c5ee179a9284,retailing.pro,resell,62,84,9,Epik LLC,23/05/2023 17:00,23/05/2026 17:00
-03cc7b9f-5c1a-4d70-b0e5-8bf01f5b475d,retailing.so,available,62,84,9,,,
-28b2cc01-3011-469d-bc14-3acc403e94a1,retailing.store,premium,62,84,9,,,
-62b2442e-9132-4ba3-a2fa-f7bd1c47b5b3,retailing.tech,premium,62,84,9,,,
-84b585a2-647f-484d-aa5f-6554faab11fe,retailing.zone,available,62,84,9,,,
 ce3440ed-bfcb-4298-97bf-a31c8433687f,consumergoods.app,available,38,76,14,,,
 f94ca605-291d-4875-9389-819b7c195e14,consumergoods.at,available,38,76,14,,,
 63b84800-06bb-47c5-8c39-ed73c9e02e9d,consumergoods.cloud,available,38,76,14,,,
@@ -96,6 +84,18 @@ c1f2b11f-0d9d-4f1c-81cf-5a93a3f15de3,consumergoods.space,available,38,76,14,,,
 2131a7d0-8059-4c3f-beb4-dc1fc5068b11,consumergoods.tech,available,38,76,14,,,
 39a7b892-bec9-4112-b19d-7398ca614c5d,consumergoods.xyz,resell,38,76,14,Dominet (HK) Limited,19/05/2025 04:55,19/05/2026 23:59
 603f0862-9b76-46a4-925a-f303d9f3ec05,consumergoods.zone,available,38,76,14,,,
+a6893983-cc3e-4f24-8b30-77bc4c00c18f,retailing.at,available,62,84,9,,,
+6589042c-2159-4134-b412-0293665c3a9b,retailing.cloud,premium,62,84,9,,,
+e76dc4ea-1dfd-45b6-be5c-fef0048e06b1,retailing.dev,available,62,84,9,,,
+ede47607-b919-480f-9979-6c3e84451212,retailing.expert,available,62,84,9,,,
+b4afaa8b-6dab-4204-ba8e-d9abcf234024,retailing.gg,available,62,84,9,,,
+7bf50dce-565f-4fbb-8dc7-9d3db849f0d0,retailing.me,expiring,62,84,9,Dynadot Inc,28/07/2022 14:30,28/07/2025 14:30
+baa13630-f184-4fff-9537-f92f468e3651,retailing.online,premium,62,84,9,,,
+55f6e256-bafe-413e-84ff-c5ee179a9284,retailing.pro,resell,62,84,9,Epik LLC,23/05/2023 17:00,23/05/2026 17:00
+03cc7b9f-5c1a-4d70-b0e5-8bf01f5b475d,retailing.so,available,62,84,9,,,
+28b2cc01-3011-469d-bc14-3acc403e94a1,retailing.store,premium,62,84,9,,,
+62b2442e-9132-4ba3-a2fa-f7bd1c47b5b3,retailing.tech,premium,62,84,9,,,
+84b585a2-647f-484d-aa5f-6554faab11fe,retailing.zone,available,62,84,9,,,
 6656b4aa-9865-4d8d-b217-190d6d20652d,merchandise.at,sold,86,76,11,Webagentur.at Internet Services GmbH ( https://nic.at/registrar/25 ),,
 1f3c7909-95e8-47f5-8a7b-2a5561c13201,merchandise.co,resell,86,76,11,"GoDaddy.com, LLC",19/09/2012 08:32,18/09/2026 23:59
 1df7b018-de66-43ba-acf7-6244ac535841,merchandise.com,resell,86,76,11,Tucows Domains Inc.,11/12/1998 05:00,10/12/2025 05:00
@@ -154,70 +154,6 @@ b4efca3c-537b-4578-98fc-285f0324cf14,inventory.space,premium,82,84,9,,,
 2d4c2e95-1968-4329-bfc5-57bbf24c9d5e,inventory.tech,premium,82,84,9,,,
 04426f1d-8e89-45c7-8072-823bd6d42bc7,inventory.us,resell,82,84,9,"GoDaddy.com, LLC",24/04/2002 14:18,23/04/2026 23:59
 e5c40964-74ca-4769-a930-805ccacee746,inventory.zone,expired,82,84,9,"GoDaddy.com, LLC",23/05/2021 10:20,23/05/2025 10:20
-a0acbffa-961c-4be1-88e4-f2b669f77e6e,stock.accountant,premium,68,31,5,,,
-3a5202a1-0f0c-47da-9283-c92030de3da6,stock.accountants,available,68,31,5,,,
-f904b0b5-e3f5-47a4-942b-b56846b34805,stock.actor,available,68,31,5,,,
-a9d69fac-b91b-4a1e-9d6a-fb2e5c25133b,stock.adult,available,68,31,5,,,
-e00baeb7-8307-41f4-940f-f92e2153c4b6,stock.agency,expiring,68,31,5,Porkbun LLC,17/12/2020 15:13,17/12/2025 15:13
-c56a7f04-1b45-4198-a8f6-4d5f393f08ad,stock.ai,resell,68,31,5,Dynadot Inc,15/12/2017 22:13,08/05/2030 22:13
-304bb817-367d-4437-8b72-5bd1d2f5ee1f,stock.airforce,available,68,31,5,,,
-34e3a845-6fc1-4471-9ad9-cc3146df69c3,stock.archi,available,68,31,5,,,
-91c10d49-ea00-4007-b2a4-c3212d5f9d60,stock.army,available,68,31,5,,,
-b8668012-50d5-464e-8370-2c9b07ba810d,stock.asia,resell,68,31,5,"Wild West Domains, LLC",21/03/2008 02:15,21/03/2027 02:15
-d2795f29-ac52-4d3f-bcec-47aa67321ab4,stock.associates,available,68,31,5,,,
-9116e9cd-421e-47a1-abb1-eed178aed96f,stock.at,sold,68,31,5,InterNetX GmbH ( https://nic.at/registrar/80 ),,
-eaa9eeb2-1f94-4034-a68b-6988c2a7135b,stock.attorney,premium,68,31,5,,,
-c27338c8-4fdd-4f19-a551-a8fbcf95105a,stock.auction,premium,68,31,5,,,
-76775333-63ef-4fba-82e3-866a491ab8f0,stock.audio,expired,68,31,5,1API GmbH,25/10/2016 17:01,25/10/2025 23:59
-4ff7a37a-7cb7-4d7c-9ba3-a825e1bea88e,stock.auto,available,68,31,5,,,
-fe4a468d-26b5-43bb-ae35-9f09fe179f08,stock.autos,premium,68,31,5,,,
-747065ab-23f1-4ef7-9b7c-88b26d19c81c,stock.band,available,68,31,5,,,
-017830e9-d644-48c4-833d-4c03eb3539fd,stock.bar,premium,68,31,5,,,
-700366c3-a315-4e06-847a-cee3af1ae028,stock.bayern,premium,68,31,5,,,
-9ed5c30e-d091-470e-906c-fa93c6ef49b4,stock.beauty,premium,68,31,5,,,
-7aa16638-a259-4a19-a98b-dbeb96e4ed7f,stock.beer,available,68,31,5,,,
-65e28baf-2b24-459f-8d75-b6bf88bd2bb4,stock.berlin,available,68,31,5,,,
-60ec38ac-31dc-4b47-bffb-077f24cabb61,stock.best,sold,68,31,5,Dynadot LLC,01/11/2018 10:28,01/11/2026 23:59
-cabfcd21-f25a-4672-abc0-4b720ac6c751,stock.bet,expiring,68,31,5,Porkbun LLC,03/01/2024 15:15,03/01/2026 15:15
-4772c3f1-61e0-43f1-b14e-598b6d966109,stock.bike,expired,68,31,5,"NameCheap, Inc.",11/10/2024 15:53,11/10/2025 15:53
-7000e34f-a82c-4e55-ba2d-7b11c13aa722,stock.bingo,available,68,31,5,,,
-1d89edb4-0de0-4cc1-be61-1322efa58ca2,stock.blackfriday,available,68,31,5,,,
-9cf28b31-56c6-4ce1-a170-c80e287e847c,stock.blog,premium,68,31,5,,,
-fdfeeb6d-a170-4707-98b6-827f973156ef,stock.blue,resell,68,31,5,Porkbun LLC,17/05/2025 19:11,17/05/2026 19:11
-99563708-f8b0-4c27-9ac4-727cce746b7e,stock.boats,premium,68,31,5,,,
-55c5bbae-8e1b-45cf-a095-aaa2c39df1cd,stock.boo,premium,68,31,5,,,
-f5496f42-78aa-465d-b1ef-2a0c5a943f6b,stock.boston,premium,68,31,5,,,
-bf6bc0c5-afc9-4c6c-a927-196827b88d8f,stock.bot,premium,68,31,5,,,
-61075721-65bf-4e43-b48a-d6e2c68bc2e6,stock.build,premium,68,31,5,,,
-e4d23e0a-8732-4a58-8b7d-eefa9630c677,stock.business,resell,68,31,5,Porkbun LLC,11/06/2025 10:10,11/06/2026 10:10
-5ec42b05-3588-45a5-8428-3d44f026e3d1,stock.buzz,premium,68,31,5,,,
-05f2ecd2-4826-4285-9848-141fbdff5725,stock.bz,available,68,31,5,,,
-2894c642-1289-490d-834e-510557cb9ae2,stock.cam,premium,68,31,5,,,
-ea20a810-dea7-43f4-9749-e8c11a5a1aa2,stock.camera,available,68,31,5,,,
-9dec56d2-b6a6-4b10-9d85-0f815aa3819e,stock.car,available,68,31,5,,,
-2ee251f8-8c3a-460e-9b93-53e7feb9ea9e,stock.care,available,68,31,5,,,
-6775157c-665c-44f1-92ad-fd969b2d5de5,stock.careers,available,68,31,5,,,
-c4bc61e6-c0e8-400e-9fed-f22f78763b3d,stock.cars,available,68,31,5,,,
-a02daea5-9e93-4284-85ea-87fc548ab694,stock.casa,resell,68,31,5,Dynadot Inc,20/02/2022 07:44,20/02/2027 07:44
-261013d1-3b4c-421f-9452-1f6655705c64,stock.casino,resell,68,31,5,"Sav.com, LLC",24/05/2025 01:44,24/05/2026 01:44
-f8ecbb25-c457-46d4-93b5-bf57acd155ee,stock.catering,available,68,31,5,,,
-a5c3ecfc-1831-45cd-af94-ecbd10716485,stock.center,expired,68,31,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),25/10/2024 00:05,25/10/2025 00:05
-a537bd57-9a57-4b3e-9c41-ee56078b138b,stock.ceo,premium,68,31,5,,,
-7b3a2f2c-1faa-4629-8ed6-be0124115f2e,stock.cfd,premium,68,31,5,,,
-d58b0613-c62e-44e9-ad79-9d6cad50d7c3,stock.charity,available,68,31,5,,,
-82819386-f790-44b3-b964-af71a0963307,stock.cheap,resell,68,31,5,Dynadot Inc,20/03/2025 17:00,20/03/2026 17:00
-78980ba2-6c87-43af-b176-c2830350bfa1,stock.christmas,available,68,31,5,,,
-65322cb0-3132-46c3-a772-5590d352a5aa,stock.claims,available,68,31,5,,,
-eba6f0b6-4065-4230-9d08-54c3a708b592,stock.cleaning,available,68,31,5,,,
-3a768161-07a7-4e31-829e-e68491983882,stock.clinic,available,68,31,5,,,
-2473d0ba-0cdc-4794-b51f-dd1305b59042,stock.clothing,available,68,31,5,,,
-8f9ac2a6-bed9-4da8-b947-b86c46ea265a,stock.cloud,resell,68,31,5,GoDaddy,23/02/2016 05:02,23/02/2028 05:02
-d07503f5-c866-4d3c-ad8a-e41d0844b70a,stock.co,resell,68,31,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),25/02/2010 01:04,24/02/2030 23:59
-912b1841-1d87-4c1d-81e8-2a9b295d92f3,stock.codes,available,68,31,5,,,
-f3e9054c-705e-4a67-8fd4-58f036ea7633,stock.college,premium,68,31,5,,,
-c0eb9460-4ac5-4b6e-ac65-f6496ac5f591,stock.com,resell,68,31,5,SafeNames Ltd.,12/01/1994 05:00,11/01/2035 05:00
-b9b5e3e0-9704-4c04-8536-36ecbeb46d38,stock.company,resell,68,31,5,GoDaddy Online Services Cayman Islands Ltd.,22/06/2015 18:20,22/06/2026 18:20
-b58188f9-f048-4842-b9e1-2446839d3526,stock.computer,resell,68,31,5,"Sav.com, LLC",21/06/2024 10:00,21/06/2026 10:00
 d1313ddc-8aa9-4b2e-ac5b-5c9aae9542cf,stock.condos,available,68,31,5,,,
 93d3adfa-88f3-46d2-82d0-c62b3cedf114,stock.construction,available,68,31,5,,,
 daca2e21-cd9f-4b29-83da-2e1355702a9c,stock.consulting,premium,68,31,5,,,
@@ -262,7 +198,7 @@ a766eeea-a7ad-40eb-9a57-1f03e166f534,stock.engineering,available,68,31,5,,,
 45d69343-1955-4f8c-a5d6-4ade1bc222e5,stock.equipment,available,68,31,5,,,
 25bcee6b-094e-4818-95d3-ad15e14800f5,stock.esq,premium,68,31,5,,,
 49937861-bd03-42db-afb0-241034e2cc26,stock.estate,sold,68,31,5,"GoDaddy.com, LLC",16/09/2021 14:12,16/09/2026 14:12
-9cf39d05-d2f7-43da-99cc-6bfe2d42d610,stock.exchange,sold,68,31,5,"Name.com, Inc.",21/09/2023 19:49,21/09/2026 19:49
+9cf39d05-d2f7-43da-99cc-6bfe2d42d610,stock.exchange,sold,70,31,5,"Name.com, Inc.",21/09/2023 19:49,21/09/2026 19:49
 e820460f-6269-47b7-8cf5-382482a55fd8,stock.exposed,premium,68,31,5,,,
 3445b554-f86f-47e5-92be-1790cbc90025,stock.fail,expired,68,31,5,Tucows Domains Inc.,05/10/2021 01:19,05/10/2025 01:19
 d252f7ad-8b5c-49d5-9bd3-0a3a6424a290,stock.faith,premium,68,31,5,,,
@@ -493,6 +429,70 @@ d7b69a61-6270-47cb-9c4e-bdb29107c4b5,stock.world,resell,68,31,5,"Xiamen ChinaSou
 99695969-8aad-4e88-9c58-230e671db412,stock.xyz,premium,68,31,5,,,
 a1db91aa-c8d8-4d33-ac9d-19818fa1afc6,stock.yachts,premium,68,31,5,,,
 d936d11b-8b33-4cba-908b-12e4cbcac4da,stock.zip,premium,68,31,5,,,
+a0acbffa-961c-4be1-88e4-f2b669f77e6e,stock.accountant,premium,68,31,5,,,
+3a5202a1-0f0c-47da-9283-c92030de3da6,stock.accountants,available,68,31,5,,,
+f904b0b5-e3f5-47a4-942b-b56846b34805,stock.actor,available,68,31,5,,,
+a9d69fac-b91b-4a1e-9d6a-fb2e5c25133b,stock.adult,available,68,31,5,,,
+e00baeb7-8307-41f4-940f-f92e2153c4b6,stock.agency,expiring,68,31,5,Porkbun LLC,17/12/2020 15:13,17/12/2025 15:13
+c56a7f04-1b45-4198-a8f6-4d5f393f08ad,stock.ai,resell,68,31,5,Dynadot Inc,15/12/2017 22:13,08/05/2030 22:13
+304bb817-367d-4437-8b72-5bd1d2f5ee1f,stock.airforce,available,68,31,5,,,
+34e3a845-6fc1-4471-9ad9-cc3146df69c3,stock.archi,available,68,31,5,,,
+91c10d49-ea00-4007-b2a4-c3212d5f9d60,stock.army,available,68,31,5,,,
+b8668012-50d5-464e-8370-2c9b07ba810d,stock.asia,resell,68,31,5,"Wild West Domains, LLC",21/03/2008 02:15,21/03/2027 02:15
+d2795f29-ac52-4d3f-bcec-47aa67321ab4,stock.associates,available,68,31,5,,,
+9116e9cd-421e-47a1-abb1-eed178aed96f,stock.at,sold,68,31,5,InterNetX GmbH ( https://nic.at/registrar/80 ),,
+eaa9eeb2-1f94-4034-a68b-6988c2a7135b,stock.attorney,premium,68,31,5,,,
+c27338c8-4fdd-4f19-a551-a8fbcf95105a,stock.auction,premium,68,31,5,,,
+76775333-63ef-4fba-82e3-866a491ab8f0,stock.audio,expired,68,31,5,1API GmbH,25/10/2016 17:01,25/10/2025 23:59
+4ff7a37a-7cb7-4d7c-9ba3-a825e1bea88e,stock.auto,available,68,31,5,,,
+fe4a468d-26b5-43bb-ae35-9f09fe179f08,stock.autos,premium,68,31,5,,,
+747065ab-23f1-4ef7-9b7c-88b26d19c81c,stock.band,available,68,31,5,,,
+017830e9-d644-48c4-833d-4c03eb3539fd,stock.bar,premium,68,31,5,,,
+700366c3-a315-4e06-847a-cee3af1ae028,stock.bayern,premium,68,31,5,,,
+9ed5c30e-d091-470e-906c-fa93c6ef49b4,stock.beauty,premium,68,31,5,,,
+7aa16638-a259-4a19-a98b-dbeb96e4ed7f,stock.beer,available,68,31,5,,,
+65e28baf-2b24-459f-8d75-b6bf88bd2bb4,stock.berlin,available,68,31,5,,,
+60ec38ac-31dc-4b47-bffb-077f24cabb61,stock.best,sold,68,31,5,Dynadot LLC,01/11/2018 10:28,01/11/2026 23:59
+cabfcd21-f25a-4672-abc0-4b720ac6c751,stock.bet,expiring,68,31,5,Porkbun LLC,03/01/2024 15:15,03/01/2026 15:15
+4772c3f1-61e0-43f1-b14e-598b6d966109,stock.bike,expired,68,31,5,"NameCheap, Inc.",11/10/2024 15:53,11/10/2025 15:53
+7000e34f-a82c-4e55-ba2d-7b11c13aa722,stock.bingo,available,68,31,5,,,
+1d89edb4-0de0-4cc1-be61-1322efa58ca2,stock.blackfriday,available,68,31,5,,,
+9cf28b31-56c6-4ce1-a170-c80e287e847c,stock.blog,premium,68,31,5,,,
+fdfeeb6d-a170-4707-98b6-827f973156ef,stock.blue,resell,68,31,5,Porkbun LLC,17/05/2025 19:11,17/05/2026 19:11
+99563708-f8b0-4c27-9ac4-727cce746b7e,stock.boats,premium,68,31,5,,,
+55c5bbae-8e1b-45cf-a095-aaa2c39df1cd,stock.boo,premium,68,31,5,,,
+f5496f42-78aa-465d-b1ef-2a0c5a943f6b,stock.boston,premium,68,31,5,,,
+bf6bc0c5-afc9-4c6c-a927-196827b88d8f,stock.bot,premium,68,31,5,,,
+61075721-65bf-4e43-b48a-d6e2c68bc2e6,stock.build,premium,68,31,5,,,
+e4d23e0a-8732-4a58-8b7d-eefa9630c677,stock.business,resell,68,31,5,Porkbun LLC,11/06/2025 10:10,11/06/2026 10:10
+5ec42b05-3588-45a5-8428-3d44f026e3d1,stock.buzz,premium,68,31,5,,,
+05f2ecd2-4826-4285-9848-141fbdff5725,stock.bz,available,68,31,5,,,
+2894c642-1289-490d-834e-510557cb9ae2,stock.cam,premium,68,31,5,,,
+ea20a810-dea7-43f4-9749-e8c11a5a1aa2,stock.camera,available,68,31,5,,,
+9dec56d2-b6a6-4b10-9d85-0f815aa3819e,stock.car,available,68,31,5,,,
+2ee251f8-8c3a-460e-9b93-53e7feb9ea9e,stock.care,available,68,31,5,,,
+6775157c-665c-44f1-92ad-fd969b2d5de5,stock.careers,available,68,31,5,,,
+c4bc61e6-c0e8-400e-9fed-f22f78763b3d,stock.cars,available,68,31,5,,,
+a02daea5-9e93-4284-85ea-87fc548ab694,stock.casa,resell,68,31,5,Dynadot Inc,20/02/2022 07:44,20/02/2027 07:44
+261013d1-3b4c-421f-9452-1f6655705c64,stock.casino,resell,68,31,5,"Sav.com, LLC",24/05/2025 01:44,24/05/2026 01:44
+f8ecbb25-c457-46d4-93b5-bf57acd155ee,stock.catering,available,68,31,5,,,
+a5c3ecfc-1831-45cd-af94-ecbd10716485,stock.center,expired,68,31,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),25/10/2024 00:05,25/10/2025 00:05
+a537bd57-9a57-4b3e-9c41-ee56078b138b,stock.ceo,premium,68,31,5,,,
+7b3a2f2c-1faa-4629-8ed6-be0124115f2e,stock.cfd,premium,68,31,5,,,
+d58b0613-c62e-44e9-ad79-9d6cad50d7c3,stock.charity,available,68,31,5,,,
+82819386-f790-44b3-b964-af71a0963307,stock.cheap,resell,68,31,5,Dynadot Inc,20/03/2025 17:00,20/03/2026 17:00
+78980ba2-6c87-43af-b176-c2830350bfa1,stock.christmas,available,68,31,5,,,
+65322cb0-3132-46c3-a772-5590d352a5aa,stock.claims,available,68,31,5,,,
+eba6f0b6-4065-4230-9d08-54c3a708b592,stock.cleaning,available,68,31,5,,,
+3a768161-07a7-4e31-829e-e68491983882,stock.clinic,available,68,31,5,,,
+2473d0ba-0cdc-4794-b51f-dd1305b59042,stock.clothing,available,68,31,5,,,
+8f9ac2a6-bed9-4da8-b947-b86c46ea265a,stock.cloud,resell,68,31,5,GoDaddy,23/02/2016 05:02,23/02/2028 05:02
+d07503f5-c866-4d3c-ad8a-e41d0844b70a,stock.co,resell,68,31,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),25/02/2010 01:04,24/02/2030 23:59
+912b1841-1d87-4c1d-81e8-2a9b295d92f3,stock.codes,available,68,31,5,,,
+f3e9054c-705e-4a67-8fd4-58f036ea7633,stock.college,premium,68,31,5,,,
+c0eb9460-4ac5-4b6e-ac65-f6496ac5f591,stock.com,resell,68,31,5,SafeNames Ltd.,12/01/1994 05:00,11/01/2035 05:00
+b9b5e3e0-9704-4c04-8536-36ecbeb46d38,stock.company,resell,68,31,5,GoDaddy Online Services Cayman Islands Ltd.,22/06/2015 18:20,22/06/2026 18:20
+b58188f9-f048-4842-b9e1-2446839d3526,stock.computer,resell,68,31,5,"Sav.com, LLC",21/06/2024 10:00,21/06/2026 10:00
 191d2d39-87ae-432f-84a3-13f7c04c7226,apparel.ac,available,98,13,7,,,
 59ce0c36-c47a-4ffd-9811-dc98a117ba5b,apparel.academy,available,98,13,7,,,
 291cf9e6-8e42-45b4-b08d-84ccb7804b30,apparel.accountant,premium,98,13,7,,,
@@ -996,6 +996,6 @@ e8683482-aedf-42fe-a495-da377e3f87c2,jewelry.care,premium,97,25,7,,,
 d93650b0-bc11-409a-8f56-9e57a08b0298,jewelry.cars,available,97,25,7,,,
 bc7ca5ce-1f36-46aa-b0b1-3ce32a04120c,jewelry.cash,premium,97,25,7,,,
 1ad8cb87-15cc-4170-a629-b94bc131133a,jewelry.casino,available,97,25,7,,,
-cc84c0f0-1cbc-40c1-ae0a-972263305a09,jewelry.catering,available,97,25,7,,,
+cc84c0f0-1cbc-40c1-ae0a-972263305a09,jewelry.catering,premium,97,25,7,,,
 d390b86e-8bec-4afd-b8ba-9c27c1274a24,jewelry.cc,resell,97,25,7,"22net, Inc.",15/06/1998 07:00,01/10/2026 07:00
 17056cc1-f752-4946-927a-7078d72ed1d6,jewelry.cfd,resell,97,25,7,"Global Domains International, Inc.",22/11/2023 18:44,22/11/2026 23:59
