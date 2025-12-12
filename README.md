@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [Retail one word domain
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain             | Status    | Attract. | Demand | Length | Registrar                                               | Created          | Expires          |
-| ------------------ | --------- | -------- | ------ | ------ | ------------------------------------------------------- | ---------------- | ---------------- |
-| goods.ai           | resell    | 64       | 88%    | 5      | DNS11 GROUP                                             | 16/12/2017 05:07 | 19/01/2027 05:07 |
-| goods.at           | premium   | 64       | 88%    | 5      |                                                         |                  |                  |
-| goods.dev          | premium   | 64       | 88%    | 5      |                                                         |                  |                  |
-| goods.io           | resell    | 64       | 88%    | 5      | GoDaddy.com, LLC                                        | 11/02/2013 10:34 | 13/05/2026 00:30 |
-| goods.me           | resell    | 64       | 88%    | 5      | Dynadot Inc                                             | 04/12/2017 06:16 | 04/12/2025 06:16 |
-| goods.online       | resell    | 64       | 88%    | 5      | CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.     | 26/08/2015 16:01 | 26/08/2025 23:59 |
-| goods.pro          | resell    | 64       | 88%    | 5      | Registrar of Domain Names REG.RU LLC                    | 05/03/2017 10:33 | 05/03/2026 10:33 |
-| goods.site         | expiring  | 64       | 88%    | 5      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) | 15/07/2015 23:04 | 15/07/2025 23:59 |
-| goods.space        | premium   | 64       | 88%    | 5      |                                                         |                  |                  |
-| goods.store        | premium   | 64       | 88%    | 5      |                                                         |                  |                  |
-| goods.tech         | premium   | 64       | 88%    | 5      |                                                         |                  |                  |
-| products.at        | premium   |          | 64%    | 8      |                                                         |                  |                  |
-| products.cloud     | premium   |          | 64%    | 8      |                                                         |                  |                  |
-| products.com       | resell    |          | 64%    | 8      | Dynadot Inc                                             | 13/12/1994 05:00 | 12/12/2032 05:00 |
-| products.it        | expired   |          | 64%    | 8      |                                                         | 05/07/2004 00:00 | 05/07/2025 00:00 |
-| products.online    | premium   |          | 64%    | 8      |                                                         |                  |                  |
-| products.pro       | resell    |          | 64%    | 8      | Spaceship, Inc.                                         | 21/09/2007 00:00 | 21/09/2025 00:00 |
-| products.so        | premium   |          | 64%    | 8      |                                                         |                  |                  |
-| products.store     | premium   |          | 64%    | 8      |                                                         |                  |                  |
-| products.tech      | premium   |          | 64%    | 8      |                                                         |                  |                  |
-| accessories.app    | premium   | 42       | 80%    | 11     |                                                         |                  |                  |
-| accessories.at     | premium   | 42       | 80%    | 11     |                                                         |                  |                  |
-| accessories.cloud  | premium   | 42       | 80%    | 11     |                                                         |                  |                  |
-| accessories.dev    | premium   | 42       | 80%    | 11     |                                                         |                  |                  |
-| accessories.expert | available | 42       | 80%    | 11     |                                                         |                  |                  |
-| accessories.gg     | available | 42       | 80%    | 11     |                                                         |                  |                  |
-| accessories.io     | resell    | 42       | 80%    | 11     | 101domain GRS Limited                                   | 31/08/2013 12:20 | 30/11/2025 00:30 |
-| accessories.ninja  | available | 42       | 80%    | 11     |                                                         |                  |                  |
-| accessories.online | premium   | 42       | 80%    | 11     |                                                         |                  |                  |
-| accessories.org    | resell    | 42       | 80%    | 11     | NameSilo, LLC                                           | 08/05/2005 18:58 | 08/05/2028 18:58 |
+| Domain         | Status    | Attract. | Demand | Length | Registrar                                 | Created          | Expires          |
+| -------------- | --------- | -------- | ------ | ------ | ----------------------------------------- | ---------------- | ---------------- |
+| goods.bot      | available | 64       | 27%    | 5      |                                           |                  |                  |
+| goods.boutique | available | 64       | 27%    | 5      |                                           |                  |                  |
+| goods.build    | available | 64       | 27%    | 5      |                                           |                  |                  |
+| goods.builders | available | 64       | 27%    | 5      |                                           |                  |                  |
+| goods.business | resell    | 64       | 27%    | 5      | Spaceship, Inc.                           | 01/03/2022 15:37 | 01/03/2026 15:37 |
+| goods.buzz     | available | 64       | 27%    | 5      |                                           |                  |                  |
+| goods.cab      | available | 64       | 27%    | 5      |                                           |                  |                  |
+| goods.camera   | available | 64       | 27%    | 5      |                                           |                  |                  |
+| goods.capital  | expiring  | 64       | 27%    | 5      | GoDaddy.com, LLC                          | 04/01/2021 06:49 | 04/01/2026 06:49 |
+| goods.car      | available | 64       | 27%    | 5      |                                           |                  |                  |
+| goods.cards    | available | 64       | 27%    | 5      |                                           |                  |                  |
+| goods.careers  | available | 64       | 27%    | 5      |                                           |                  |                  |
+| goods.cars     | available | 64       | 27%    | 5      |                                           |                  |                  |
+| goods.casa     | expired   | 64       | 27%    | 5      | GoDaddy.com, LLC                          | 14/11/2023 12:25 | 14/11/2025 12:25 |
+| goods.catering | available | 64       | 27%    | 5      |                                           |                  |                  |
+| goods.ceo      | available | 64       | 27%    | 5      |                                           |                  |                  |
+| goods.cfd      | available | 64       | 27%    | 5      |                                           |                  |                  |
+| goods.charity  | expiring  | 64       | 27%    | 5      | Dreamscape Networks International Pte Ltd | 29/12/2022 13:06 | 29/12/2025 13:06 |
+| goods.church   | available | 64       | 27%    | 5      |                                           |                  |                  |
+| goods.claims   | available | 64       | 27%    | 5      |                                           |                  |                  |
+| goods.cleaning | available | 64       | 27%    | 5      |                                           |                  |                  |
+| goods.click    | available | 64       | 27%    | 5      |                                           |                  |                  |
+| goods.clinic   | available | 64       | 27%    | 5      |                                           |                  |                  |
+| goods.cloud    | resell    | 64       | 27%    | 5      | NameSilo, LLC                             | 05/05/2017 18:58 | 05/05/2026 18:58 |
+| goods.coach    | available | 64       | 27%    | 5      |                                           |                  |                  |
+| goods.coffee   | available | 64       | 27%    | 5      |                                           |                  |                  |
+| goods.college  | available | 64       | 27%    | 5      |                                           |                  |                  |
+| goods.company  | resell    | 64       | 27%    | 5      | Spaceship, Inc.                           | 01/04/2021 23:15 | 01/04/2026 23:15 |
+| goods.computer | available | 64       | 27%    | 5      |                                           |                  |                  |
+| goods.condos   | available | 64       | 27%    | 5      |                                           |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Retail-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -89,7 +89,7 @@ If you want to search & filters the complete database of [Retail one word domain
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 29,681       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 59,909       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| Expiring | 61,144       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
 | All      | 4,569,375    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
