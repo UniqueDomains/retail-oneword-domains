@@ -19,38 +19,38 @@ If you want to search & filters the complete database of [Retail one word domain
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain            | Status    | Attract. | Demand | Length | Registrar         | Created          | Expires          |
-| ----------------- | --------- | -------- | ------ | ------ | ----------------- | ---------------- | ---------------- |
-| goods.auto        | available | 64       | 27%    | 5      |                   |                  |                  |
-| goods.baby        | resell    | 64       | 27%    | 5      | Spaceship, Inc.   | 09/03/2025 11:04 | 09/03/2026 23:59 |
-| goods.bar         | premium   | 64       | 27%    | 5      |                   |                  |                  |
-| goods.bargains    | available | 64       | 27%    | 5      |                   |                  |                  |
-| goods.bayern      | available | 64       | 27%    | 5      |                   |                  |                  |
-| goods.berlin      | available | 64       | 27%    | 5      |                   |                  |                  |
-| goods.best        | resell    | 64       | 27%    | 5      | Porkbun, LLC      | 24/04/2023 15:15 | 24/04/2026 23:59 |
-| goods.bid         | premium   | 64       | 27%    | 5      |                   |                  |                  |
-| goods.bike        | available | 64       | 27%    | 5      |                   |                  |                  |
-| goods.bingo       | available | 64       | 27%    | 5      |                   |                  |                  |
-| goods.bio         | resell    | 64       | 27%    | 5      | Sav.com, LLC - 13 | 28/11/2025 15:15 | 28/11/2026 15:15 |
-| goods.biz         | resell    | 64       | 27%    | 5      | Spaceship, Inc.   | 26/01/2024 13:48 | 26/01/2026 13:48 |
-| goods.blackfriday | available | 64       | 27%    | 5      |                   |                  |                  |
-| goods.blog        | premium   | 64       | 27%    | 5      |                   |                  |                  |
-| goods.boats       | available | 64       | 27%    | 5      |                   |                  |                  |
-| goods.boo         | premium   | 64       | 27%    | 5      |                   |                  |                  |
-| goods.boston      | available | 64       | 27%    | 5      |                   |                  |                  |
-| goods.bot         | premium   | 64       | 27%    | 5      |                   |                  |                  |
-| goods.boutique    | premium   | 64       | 27%    | 5      |                   |                  |                  |
-| goods.build       | available | 64       | 27%    | 5      |                   |                  |                  |
-| goods.builders    | available | 64       | 27%    | 5      |                   |                  |                  |
-| goods.business    | resell    | 64       | 27%    | 5      | Spaceship, Inc.   | 01/03/2022 15:37 | 01/03/2026 15:37 |
-| goods.buzz        | premium   | 64       | 27%    | 5      |                   |                  |                  |
-| goods.cab         | available | 64       | 27%    | 5      |                   |                  |                  |
-| goods.camera      | available | 64       | 27%    | 5      |                   |                  |                  |
-| goods.capital     | expiring  | 64       | 27%    | 5      | GoDaddy.com, LLC  | 04/01/2021 06:49 | 04/01/2026 06:49 |
-| goods.car         | available | 64       | 27%    | 5      |                   |                  |                  |
-| goods.cards       | available | 64       | 27%    | 5      |                   |                  |                  |
-| goods.careers     | available | 64       | 27%    | 5      |                   |                  |                  |
-| goods.cars        | available | 64       | 27%    | 5      |                   |                  |                  |
+| Domain            | Status    | Attract. | Demand | Length | Registrar                                                 | Created          | Expires          |
+| ----------------- | --------- | -------- | ------ | ------ | --------------------------------------------------------- | ---------------- | ---------------- |
+| goods.ac          | available | 64       | 27%    | 5      |                                                           |                  |                  |
+| goods.academy     | available | 64       | 27%    | 5      |                                                           |                  |                  |
+| goods.accountant  | premium   | 64       | 27%    | 5      |                                                           |                  |                  |
+| goods.accountants | available | 64       | 27%    | 5      |                                                           |                  |                  |
+| goods.actor       | available | 64       | 27%    | 5      |                                                           |                  |                  |
+| goods.adult       | available | 64       | 27%    | 5      |                                                           |                  |                  |
+| goods.agency      | expired   | 64       | 27%    | 5      | Sav.com, LLC - 9                                          | 20/10/2024 17:00 | 20/10/2025 17:00 |
+| goods.ai          | sold      | 64       | 27%    | 5      | DNS11 GROUP                                               | 16/12/2017 05:07 | 19/01/2027 05:07 |
+| goods.airforce    | available | 64       | 27%    | 5      |                                                           |                  |                  |
+| goods.apartments  | available | 64       | 27%    | 5      |                                                           |                  |                  |
+| goods.app         | resell    | 64       | 27%    | 5      | Global Domains International, Inc. DBA DomainCostClub.com | 25/03/2024 06:42 | 25/03/2026 06:42 |
+| goods.archi       | available | 64       | 27%    | 5      |                                                           |                  |                  |
+| goods.army        | available | 64       | 27%    | 5      |                                                           |                  |                  |
+| goods.art         | premium   | 64       | 27%    | 5      |                                                           |                  |                  |
+| goods.asia        | resell    | 64       | 27%    | 5      | Spaceship, Inc.                                           | 01/03/2020 06:54 | 01/03/2026 06:54 |
+| goods.associates  | available | 64       | 27%    | 5      |                                                           |                  |                  |
+| goods.at          | premium   | 64       | 27%    | 5      |                                                           |                  |                  |
+| goods.attorney    | available | 64       | 27%    | 5      |                                                           |                  |                  |
+| goods.auction     | premium   | 64       | 27%    | 5      |                                                           |                  |                  |
+| goods.audio       | available | 64       | 27%    | 5      |                                                           |                  |                  |
+| goods.auto        | available | 64       | 27%    | 5      |                                                           |                  |                  |
+| goods.baby        | resell    | 64       | 27%    | 5      | Spaceship, Inc.                                           | 09/03/2025 11:04 | 09/03/2026 23:59 |
+| goods.bar         | premium   | 64       | 27%    | 5      |                                                           |                  |                  |
+| goods.bargains    | available | 64       | 27%    | 5      |                                                           |                  |                  |
+| goods.bayern      | available | 64       | 27%    | 5      |                                                           |                  |                  |
+| goods.berlin      | available | 64       | 27%    | 5      |                                                           |                  |                  |
+| goods.best        | resell    | 64       | 27%    | 5      | Porkbun, LLC                                              | 24/04/2023 15:15 | 24/04/2026 23:59 |
+| goods.bid         | premium   | 64       | 27%    | 5      |                                                           |                  |                  |
+| goods.bike        | available | 64       | 27%    | 5      |                                                           |                  |                  |
+| goods.bingo       | available | 64       | 27%    | 5      |                                                           |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/Retail-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -90,6 +90,7 @@ If you want to search & filters the complete database of [Retail one word domain
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,537       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 61,582       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,156,621    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
