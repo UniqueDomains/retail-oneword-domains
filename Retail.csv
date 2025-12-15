@@ -854,8 +854,6 @@ baa13630-f184-4fff-9537-f92f468e3651,retailing.online,premium,62,84,9,,,
 28b2cc01-3011-469d-bc14-3acc403e94a1,retailing.store,premium,62,84,9,,,
 62b2442e-9132-4ba3-a2fa-f7bd1c47b5b3,retailing.tech,premium,62,84,9,,,
 84b585a2-647f-484d-aa5f-6554faab11fe,retailing.zone,available,62,84,9,,,
-6f044819-8197-4d69-84f4-d434fa213432,merchandise.store,premium,86,76,11,,,
-e7eb52d3-6642-4f01-abe3-a01e19cfa5b0,merchandise.tech,premium,86,76,11,,,
 6656b4aa-9865-4d8d-b217-190d6d20652d,merchandise.at,sold,86,76,11,Webagentur.at Internet Services GmbH ( https://nic.at/registrar/25 ),,
 1f3c7909-95e8-47f5-8a7b-2a5561c13201,merchandise.co,resell,86,76,11,"GoDaddy.com, LLC",19/09/2012 08:32,18/09/2026 23:59
 1df7b018-de66-43ba-acf7-6244ac535841,merchandise.com,resell,86,76,11,Tucows Domains Inc.,11/12/1998 05:00,10/12/2025 05:00
@@ -866,6 +864,8 @@ ee7cf568-fee0-4336-855d-20a039852434,merchandise.ninja,expiring,86,76,11,"Name.c
 8f71d53b-4eb0-4427-b04f-fd0360696d8e,merchandise.site,premium,86,76,11,,,
 3de2b824-f77b-4c39-bd9a-8041f1969dc0,merchandise.so,available,86,76,11,,,
 6d9f6b9f-a094-4e55-8d39-be8217ad94d6,merchandise.space,premium,86,76,11,,,
+6f044819-8197-4d69-84f4-d434fa213432,merchandise.store,premium,86,76,11,,,
+e7eb52d3-6642-4f01-abe3-a01e19cfa5b0,merchandise.tech,premium,86,76,11,,,
 ca281fdf-ef59-441e-8ec8-76985bc5caa3,finishedgoods.ai,available,56,16,14,,,
 b9b3e44a-773c-4541-998c-c0aa5a29f7be,finishedgoods.app,available,56,16,14,,,
 016ee265-1561-4b90-8f85-1066ec0fa3be,finishedgoods.at,available,56,16,14,,,
