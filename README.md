@@ -1,22 +1,22 @@
-# Retail One-Word Domains (25,410)
+# Retail Keyword Domains (24,459)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C410%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-24%2C459%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of retail one-word domains from Unique Domains.
+These domains are retail-related names built around the keyword retail and adjacent commercial terms. Updated daily. This selection includes 24,459 domains across 505 TLDs, with a median ask of 4,950, so comparison should focus on extension fit, price discipline, and brand clarity.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,410 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **24,459 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,410 domains
+**Public extract:** 1,000 rows · **Live catalog:** 24,459 domains · **Median ask:** $4,950.45 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-04  
 **Canonical page:** `https://unique.domains/domains/sector/Retail`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar              |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
-| shop.desi       | available | $22.98    | —             | 73             | 54     | 4      | namecheap              |
+| shop.desi       | available | $22.98    | —             | 73             | 52     | 4      | namecheap              |
 | store.co        | resell    | $569,250  | $48.99        | 88             | 92     | 5      | Key-Systems GmbH       |
-| shop.trading    | premium   | $1,250    | —             | 73             | 54     | 4      | name.com               |
-| sales.paris     | available | $51.98    | —             | 72             | 42     | 5      | namecheap              |
-| retail.info     | resell    | $4,145.75 | —             | 74             | 33     | 6      | Porkbun LLC            |
-| shop.paris      | premium   | $365.46   | —             | 73             | 54     | 4      | name.com               |
-| sales.moi       | available | $39.99    | —             | 72             | 42     | 5      | name.com               |
-| store.org       | resell    | —         | —             | 88             | 92     | 5      | Tucows Domains Inc.    |
-| shop.moi        | premium   | $3,125    | —             | 73             | 54     | 4      | name.com               |
-| sales.hamburg   | available | $59.99    | —             | 72             | 42     | 5      | name.com               |
-| shop.vc         | resell    | —         | —             | 78             | 54     | 4      | 1API GmbH              |
-| shop.markets    | premium   | $1,250    | —             | 73             | 54     | 4      | name.com               |
-| sales.forex     | available | $19.99    | —             | 72             | 42     | 5      | name.com               |
-| shop.vacations  | resell    | —         | —             | 78             | 54     | 4      | Go France Domains, LLC |
-| sales.mobile    | premium   | $2,500    | —             | 72             | 42     | 5      | name.com               |
+| shop.trading    | premium   | $1,250    | —             | 73             | 52     | 4      | name.com               |
 | sales.desi      | available | $22.98    | —             | 72             | 42     | 5      | namecheap              |
-| shop.tv         | resell    | —         | —             | 78             | 54     | 4      | eNom, LLC              |
-| sales.markets   | premium   | $1,250    | —             | 72             | 42     | 5      | name.com               |
+| retail.info     | resell    | $4,145.75 | —             | 74             | 33     | 6      | Porkbun LLC            |
+| shop.paris      | premium   | $365.46   | —             | 73             | 52     | 4      | name.com               |
 | sales.barcelona | available | $38.98    | —             | 72             | 42     | 5      | namecheap              |
-| shop.training   | resell    | —         | —             | 78             | 54     | 4      | Porkbun LLC            |
+| store.org       | resell    | —         | —             | 88             | 92     | 5      | Tucows Domains Inc.    |
+| shop.moi        | premium   | $3,125    | —             | 73             | 52     | 4      | name.com               |
+| retail.xxx      | available | $154.98   | —             | 74             | 33     | 6      | namecheap              |
+| shop.navy       | resell    | —         | —             | 73             | 54     | 4      | NameSilo, LLC          |
+| shop.markets    | premium   | $1,250    | —             | 73             | 52     | 4      | name.com               |
+| retail.sex      | available | $154.98   | —             | 74             | 33     | 6      | namecheap              |
+| shop.ventures   | resell    | —         | —             | 78             | 52     | 4      | Wild West Domains, LLC |
+| sales.broker    | premium   | $6,250    | —             | 72             | 42     | 5      | name.com               |
+| retail.moi      | available | $39.99    | —             | 74             | 33     | 6      | name.com               |
+| shop.vc         | resell    | —         | —             | 78             | 52     | 4      | 1API GmbH              |
+| sales.blue      | premium   | $4,501.10 | —             | 72             | 42     | 5      | Spaceship, Inc.        |
+| retail.hamburg  | available | $59.99    | —             | 74             | 33     | 6      | name.com               |
+| shop.tv         | resell    | —         | —             | 78             | 52     | 4      | eNom, LLC              |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 25,410 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 24,459 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is broad and extension-diverse, covering retail-oriented terms spread across 505 TLDs. Sample names such as advertising.broker, marketplace.broker, advertising.barcelona, and wholesale.ryukyu show a mix of commercial keywords, geo-flavored extensions, and niche endings. For founders, the main question is whether the full domain feels memorable, credible, and easy to repeat aloud. For investors, the key comparison is ask price versus extension quality and likely buyer pool. With a median ask of 4,950, stronger choices tend to pair a clear retail or commerce term with an extension that supports trust, relevance, or obvious end-user intent.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prioritize clear retail or commerce wording over novelty
+- Check whether the TLD adds trust or creates friction
+- Use the 4,950 median ask as a pricing reference point
+- Watch niche extensions for renewal and resale constraints
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Retail One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Retail Keyword Domains*. Version 2026-05-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
