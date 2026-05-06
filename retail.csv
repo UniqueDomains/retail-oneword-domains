@@ -619,6 +619,7 @@ e3b1dacd-b5aa-4924-90b3-581c408f9229,shop.trading,premium,1250,,73,52,4,name.com
 9343921f-41f5-46f7-b287-094184518b50,customer.ryukyu,available,22.98,,78,30,8,namecheap,,
 c9c0ea4e-b2de-4d56-b5a4-ea01d048bf1a,customer.barcelona,available,38.98,,78,28,8,namecheap,,
 ff0fcf5e-0fbc-4a21-90ca-0c4e5406874f,customer.broker,available,19.99,,78,28,8,name.com,,
+840738aa-a843-4452-b081-abce94c574e4,customer.center,resell,,,78,28,8,"Chengdu West Dimension Digital Technology Co., Ltd.",20/09/2021 17:00,20/09/2026 17:00
 0dc8518e-041a-4377-be06-aaef2bece512,customer.channel,premium,311.25,,78,28,8,name.com,,
 ea2d2ea0-c0e2-4ffa-8ead-ac1249c39480,customer.desi,available,22.98,,78,28,8,namecheap,,
 99c9e34c-37cd-4e31-aa23-27c041f4ebd3,customer.eco,premium,9375,,78,28,8,name.com,,
@@ -947,7 +948,7 @@ e2ea3ff2-4180-4b90-9dc7-1228b7616a1a,customer.toys,premium,,,74,28,8,,,
 e776b2cd-4d49-4257-bd1b-043bc57b2906,customer.trade,premium,,,74,28,8,,,
 07975164-b8db-406d-b97f-3dc2622d08e0,customer.travel,premium,,,74,28,8,,,
 da962e1e-a1d3-4c86-a1af-75c3818a46a7,customer.tube,premium,,,74,28,8,,,
-95474cd5-6901-407b-87cb-c720c726affd,customer.tv,resell,,,74,28,8,"GoDaddy.com, LLC",17/08/2012 14:08,17/08/2026 14:08
+95474cd5-6901-407b-87cb-c720c726affd,customer.tv,resell,,,74,28,8,"GoDaddy.com, LLC",17/08/2012 14:08,17/08/2027 14:08
 c72569ca-4d60-4b4e-ae65-a28bee9be406,customer.uk,resell,,,74,28,8,"Namecheap, Inc.",21/03/2019 21:20,21/03/2027 21:20
 91464de0-3fd1-4c8d-9c1e-2fcca5ec8104,customer.university,premium,,,74,28,8,,,
 1c214a3b-1f71-42ea-af3a-7c70b3bd7eea,customer.uno,premium,,,74,28,8,,,
@@ -998,4 +999,3 @@ bad104e3-90a9-4d5f-a33e-0d9c7da294b7,sales.broker,premium,6250,,72,42,5,name.com
 211659b5-6666-49aa-a3a6-adb7f65fe6aa,sales.chat,resell,,,72,42,5,Porkbun LLC,28/08/2017 18:02,28/08/2026 18:02
 8e04ee48-e494-4827-8b66-41f742a99795,sales.courses,resell,,,72,42,5,"GoDaddy.com, LLC",19/06/2020 05:15,19/06/2026 05:15
 b27e2879-f801-4d4c-8d0a-2b6bb82323d9,sales.desi,available,22.98,,72,42,5,namecheap,,
-76f0bd98-3470-477c-9295-5346dbeceb3f,sales.earth,resell,,,72,42,5,"GoDaddy.com, LLC",18/02/2021 01:54,18/02/2032 01:54
