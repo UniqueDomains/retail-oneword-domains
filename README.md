@@ -67,10 +67,10 @@ print(df.head())
 | shop.desi       | available | $22.98    | —             | 73             | 52     | 4      | namecheap              |
 | store.co        | resell    | $569,250  | $48.99        | 88             | 92     | 5      | Key-Systems GmbH       |
 | shop.trading    | premium   | $1,250    | —             | 73             | 52     | 4      | name.com               |
-| sales.desi      | available | $22.98    | —             | 72             | 42     | 5      | namecheap              |
+| sales.desi      | available | $22.98    | —             | 72             | 41     | 5      | namecheap              |
 | retail.info     | resell    | $4,145.75 | —             | 74             | 33     | 6      | Porkbun LLC            |
 | shop.paris      | premium   | $365.46   | —             | 73             | 52     | 4      | name.com               |
-| sales.barcelona | available | $38.98    | —             | 72             | 42     | 5      | namecheap              |
+| sales.barcelona | available | $38.98    | —             | 72             | 41     | 5      | namecheap              |
 | store.org       | resell    | —         | —             | 88             | 92     | 5      | Tucows Domains Inc.    |
 | shop.moi        | premium   | $3,125    | —             | 73             | 52     | 4      | name.com               |
 | retail.xxx      | available | $154.98   | —             | 74             | 33     | 6      | namecheap              |
@@ -78,10 +78,10 @@ print(df.head())
 | shop.markets    | premium   | $1,250    | —             | 73             | 52     | 4      | name.com               |
 | retail.sex      | available | $154.98   | —             | 74             | 33     | 6      | namecheap              |
 | shop.ventures   | resell    | —         | —             | 78             | 52     | 4      | Wild West Domains, LLC |
-| sales.broker    | premium   | $6,250    | —             | 72             | 42     | 5      | name.com               |
+| sales.broker    | premium   | $6,250    | —             | 72             | 41     | 5      | name.com               |
 | retail.moi      | available | $39.99    | —             | 74             | 33     | 6      | name.com               |
 | shop.vc         | resell    | —         | —             | 78             | 52     | 4      | 1API GmbH              |
-| sales.blue      | premium   | $4,501.10 | —             | 72             | 42     | 5      | Spaceship, Inc.        |
+| sales.blue      | premium   | $4,501.10 | —             | 72             | 41     | 5      | Spaceship, Inc.        |
 | retail.hamburg  | available | $59.99    | —             | 74             | 33     | 6      | name.com               |
 | shop.tv         | resell    | —         | —             | 78             | 52     | 4      | eNom, LLC              |
 
