@@ -14,9 +14,9 @@ These domains are retail-related names built around the keyword retail and adjac
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **24,506 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 24,506 domains · **Median ask:** $4,948.92 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 24,506 domains · **Median ask:** $4,948.02 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-11  
+**Last updated:** 2026-05-13  
 **Canonical page:** `https://unique.domains/domains/sector/Retail`  
 **Best for:** founders, investors, studios
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Retail Keyword Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Retail Keyword Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
