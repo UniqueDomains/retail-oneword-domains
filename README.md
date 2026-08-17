@@ -16,7 +16,7 @@ This selection covers 169,571 one-word domain names associated with retail, span
 
 **Public extract:** 1,000 rows · **Live catalog:** 173,353 domains · **Median ask:** $894.30 · **High-demand under $2,500:** 542
 
-**Last updated:** 2026-08-16
+**Last updated:** 2026-08-17
 **Canonical page:** `https://unique.domains/domains/sector/retail`
 **Best for:** founders, investors, studios
 
@@ -76,13 +76,13 @@ print(df.head())
 | out.store       | premium   | $781.25     | $3,125        | high           | low    | 3      | name.com           |
 | mall.bargains   | available | $21.99      | —             | high           | low    | 4      | name.com           |
 | trade.pink      | resell    | $31.48      | —             | high           | medium | 5      | GoDaddy.com, LLC   |
-| toy.shopping    | premium   | $500        | —             | high           | low    | 3      | name.com           |
-| mall.gratis     | available | $23.99      | $23.99        | high           | low    | 4      | namesilo           |
-| toy.store       | resell    | —           | —             | high           | low    | 3      | Namify Domains Inc |
 | area.store      | premium   | $781.25     | —             | high           | low    | 4      | name.com           |
-| mall.kaufen     | available | $5.99       | $26.99        | high           | low    | 4      | namesilo           |
-| mall.shoes      | resell    | —           | —             | high           | low    | 4      | Dynadot Inc        |
+| mall.gratis     | available | $23.99      | $23.99        | high           | low    | 4      | namesilo           |
+| buy.discount    | resell    | —           | —             | medium         | medium | 3      | Dynadot Inc        |
 | bulk.store      | premium   | $781.25     | —             | high           | low    | 4      | name.com           |
+| mall.kaufen     | available | $5.99       | $26.99        | high           | low    | 4      | namesilo           |
+| toy.store       | resell    | —           | —             | high           | low    | 3      | Namify Domains Inc |
+| deal.store      | premium   | $7,812.50   | —             | medium         | low    | 4      | name.com           |
 | mall.tienda     | available | $9.99       | —             | high           | low    | 4      | name.com           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Retail Domain Names Across 500+ TLDs*. Version 2026-08-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Retail Domain Names Across 500+ TLDs*. Version 2026-08-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
