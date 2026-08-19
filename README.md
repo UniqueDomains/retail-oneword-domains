@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar          |
-| --------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------ |
-| room.management | resell    | —           | —             | high           | low    | 4      | Porkbun LLC        |
-| area.boutique   | available | $6.99       | —             | high           | low    | 4      | name.com           |
-| room.co         | resell    | $172,371.20 | $48.99        | high           | low    | 4      | GoDaddy.com, LLC   |
-| buy.sale        | premium   | $1,875      | —             | high           | medium | 3      | name.com           |
-| area.shopping   | available | $14.99      | —             | high           | low    | 4      | name.com           |
-| room.me         | resell    | $25,286.20  | $27.99        | high           | low    | 4      | Dynadot Inc        |
-| buy.store       | premium   | $7,812.50   | $31,250       | high           | medium | 3      | name.com           |
-| area.tienda     | available | $9.99       | —             | high           | low    | 4      | name.com           |
-| trade.online    | resell    | $718,750    | $46.99        | high           | medium | 5      | Namify Domains Inc |
-| out.store       | premium   | $781.25     | $3,125        | high           | low    | 3      | name.com           |
-| mall.bargains   | available | $21.99      | —             | high           | low    | 4      | name.com           |
-| trade.pink      | resell    | $31.48      | —             | high           | medium | 5      | GoDaddy.com, LLC   |
-| toy.shopping    | premium   | $500        | —             | high           | low    | 3      | name.com           |
-| mall.gratis     | available | $23.99      | $23.99        | high           | low    | 4      | namesilo           |
-| toy.store       | resell    | —           | —             | high           | low    | 3      | Namify Domains Inc |
-| area.store      | premium   | $781.25     | —             | high           | low    | 4      | name.com           |
-| mall.kaufen     | available | $5.99       | $26.99        | high           | low    | 4      | namesilo           |
-| mall.shoes      | resell    | —           | —             | high           | low    | 4      | Dynadot Inc        |
-| bulk.store      | premium   | $781.25     | —             | high           | low    | 4      | name.com           |
-| mall.tienda     | available | $9.99       | —             | high           | low    | 4      | name.com           |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| good.ryukyu     | available | $22.98    | —             | high           | medium | 4      | namecheap                                                 |
+| buy.city        | resell    | —         | —             | medium         | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| buy.shop        | premium   | $12,500   | —             | high           | medium | 3      | name.com                                                  |
+| goods.barcelona | available | $38.98    | —             | high           | low    | 5      | namecheap                                                 |
+| buy.coupons     | resell    | —         | —             | medium         | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| deal.shop       | premium   | $12,500   | —             | medium         | low    | 4      | name.com                                                  |
+| goods.broker    | available | $19.99    | —             | high           | low    | 5      | name.com                                                  |
+| buy.finance     | resell    | —         | —             | medium         | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| list.shop       | premium   | $3,125    | —             | high           | low    | 4      | name.com                                                  |
+| goods.desi      | available | $22.98    | —             | high           | low    | 5      | namecheap                                                 |
+| buy.house       | resell    | —         | —             | medium         | medium | 3      | Spaceship, Inc.                                           |
+| mall.shop       | premium   | $625      | —             | high           | low    | 4      | name.com                                                  |
+| goods.forex     | available | $19.99    | —             | high           | low    | 5      | name.com                                                  |
+| buy.ltd         | resell    | —         | —             | medium         | medium | 3      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)   |
+| mark.shop       | premium   | $1,250    | —             | medium         | medium | 4      | name.com                                                  |
+| goods.kiwi      | available | $35.68    | —             | high           | low    | 5      | namecheap                                                 |
+| buy.photos      | resell    | —         | —             | medium         | medium | 3      | Dynadot Inc                                               |
+| room.shop       | premium   | $3,125    | —             | high           | low    | 4      | name.com                                                  |
+| goods.new       | available | $549.99   | —             | high           | low    | 5      | name.com                                                  |
+| toy.baby        | resell    | —         | —             | high           | low    | 3      | Dynadot LLC                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
