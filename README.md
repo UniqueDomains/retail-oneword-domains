@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar          |
-| --------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------ |
-| room.management | resell    | —           | —             | high           | low    | 4      | Porkbun LLC        |
-| toy.tienda      | available | $9.99       | —             | high           | low    | 3      | name.com           |
-| room.co         | resell    | $172,371.20 | $48.99        | high           | low    | 4      | GoDaddy.com, LLC   |
-| buy.sale        | premium   | $1,875      | —             | high           | medium | 3      | name.com           |
-| area.boutique   | available | $6.99       | —             | high           | low    | 4      | name.com           |
-| room.me         | resell    | $25,286.20  | $27.99        | high           | low    | 4      | Dynadot Inc        |
-| buy.store       | premium   | $8,125      | $32,500       | medium         | medium | 3      | namecheap          |
-| area.shopping   | available | $14.99      | —             | high           | low    | 4      | name.com           |
-| trade.online    | resell    | $718,750    | $46.99        | high           | medium | 5      | Namify Domains Inc |
-| out.store       | premium   | $781.25     | $3,125        | high           | low    | 3      | name.com           |
-| area.tienda     | available | $9.99       | —             | high           | low    | 4      | name.com           |
-| trade.pink      | resell    | $31.48      | —             | high           | medium | 5      | GoDaddy.com, LLC   |
-| toy.boutique    | premium   | $242        | $242          | high           | low    | 3      | namesilo           |
-| mall.bargains   | available | $21.99      | —             | high           | low    | 4      | name.com           |
-| buy.discount    | resell    | —           | —             | medium         | medium | 3      | Dynadot Inc        |
-| toy.shopping    | premium   | $500        | —             | high           | low    | 3      | name.com           |
-| mall.gratis     | available | $23.99      | $23.99        | high           | low    | 4      | namesilo           |
-| buy.parts       | resell    | —           | —             | medium         | medium | 3      | Dynadot Inc        |
-| area.store      | premium   | $781.25     | —             | high           | low    | 4      | name.com           |
-| mall.kaufen     | available | $5.99       | $26.99        | high           | low    | 4      | namesilo           |
+| domain           | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ---------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| deal.ryukyu      | available | $22.98      | —             | medium         | low    | 4      | namecheap                                                 |
+| room.co          | resell    | $172,371.20 | $48.99        | high           | low    | 4      | GoDaddy.com, LLC                                          |
+| for.shop         | premium   | $625        | —             | high           | medium | 3      | name.com                                                  |
+| desk.new         | available | $549.99     | —             | high           | low    | 4      | name.com                                                  |
+| buy.city         | resell    | —           | —             | medium         | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| area.store       | premium   | $781.25     | —             | high           | low    | 4      | name.com                                                  |
+| room.blackfriday | available | $114.99     | $114.99       | high           | low    | 4      | namesilo                                                  |
+| buy.condos       | resell    | —           | —             | medium         | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| list.shop        | premium   | $3,125      | —             | high           | low    | 4      | name.com                                                  |
+| room.coupons     | available | $3.99       | —             | high           | low    | 4      | name.com                                                  |
+| buy.coupons      | resell    | —           | —             | medium         | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| mall.store       | premium   | $1,562.50   | —             | high           | low    | 4      | name.com                                                  |
+| room.gratis      | available | $23.99      | $23.99        | high           | low    | 4      | namesilo                                                  |
+| buy.finance      | resell    | —           | —             | medium         | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| room.bargains    | premium   | $118.80     | $118.80       | high           | low    | 4      | namesilo                                                  |
+| room.kaufen      | available | $5.99       | $26.99        | high           | low    | 4      | namesilo                                                  |
+| buy.fish         | resell    | —           | —             | medium         | medium | 3      | Dynadot Inc                                               |
+| room.deal        | premium   | $625        | —             | high           | low    | 4      | name.com                                                  |
+| room.shopping    | available | $14.99      | —             | high           | low    | 4      | name.com                                                  |
+| buy.house        | resell    | —           | —             | medium         | medium | 3      | Spaceship, Inc.                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
