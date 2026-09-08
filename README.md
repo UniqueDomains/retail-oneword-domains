@@ -14,9 +14,9 @@ This selection covers 169,571 one-word domain names associated with retail, span
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **182,681 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 182,681 domains · **Median ask:** $855.38 · **High-demand under $2,500:** 673
+**Public extract:** 1,000 rows · **Live catalog:** 182,681 domains · **Median ask:** $855.30 · **High-demand under $2,500:** 673
 
-**Last updated:** 2026-09-06
+**Last updated:** 2026-09-08
 **Canonical page:** `https://unique.domains/domains/sector/retail`
 **Best for:** founders, investors, studios
 
@@ -67,22 +67,22 @@ print(df.head())
 | deal.ryukyu      | available | $22.98      | —             | medium         | low    | 4      | namecheap                                                 |
 | room.co          | resell    | $172,371.20 | $48.99        | high           | low    | 4      | GoDaddy.com, LLC                                          |
 | for.shop         | premium   | $625        | —             | high           | medium | 3      | name.com                                                  |
-| desk.new         | available | $549.99     | —             | high           | low    | 4      | name.com                                                  |
+| room.blackfriday | available | $114.99     | $114.99       | high           | low    | 4      | namesilo                                                  |
 | buy.city         | resell    | —           | —             | medium         | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 | area.store       | premium   | $781.25     | —             | high           | low    | 4      | name.com                                                  |
-| room.blackfriday | available | $114.99     | $114.99       | high           | low    | 4      | namesilo                                                  |
+| room.coupons     | available | $3.99       | —             | high           | low    | 4      | name.com                                                  |
 | buy.condos       | resell    | —           | —             | medium         | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 | list.shop        | premium   | $3,125      | —             | high           | low    | 4      | name.com                                                  |
-| room.coupons     | available | $3.99       | —             | high           | low    | 4      | name.com                                                  |
+| room.gratis      | available | $23.99      | $23.99        | high           | low    | 4      | namesilo                                                  |
 | buy.coupons      | resell    | —           | —             | medium         | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 | mall.store       | premium   | $1,562.50   | —             | high           | low    | 4      | name.com                                                  |
-| room.gratis      | available | $23.99      | $23.99        | high           | low    | 4      | namesilo                                                  |
+| room.kaufen      | available | $5.99       | $26.99        | high           | low    | 4      | namesilo                                                  |
 | buy.finance      | resell    | —           | —             | medium         | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 | room.bargains    | premium   | $118.80     | $118.80       | high           | low    | 4      | namesilo                                                  |
-| room.kaufen      | available | $5.99       | $26.99        | high           | low    | 4      | namesilo                                                  |
+| room.shopping    | available | $14.99      | —             | high           | low    | 4      | name.com                                                  |
 | buy.fish         | resell    | —           | —             | medium         | medium | 3      | Dynadot Inc                                               |
 | room.deal        | premium   | $625        | —             | high           | low    | 4      | name.com                                                  |
-| room.shopping    | available | $14.99      | —             | high           | low    | 4      | name.com                                                  |
+| room.tienda      | available | $9.99       | —             | high           | low    | 4      | name.com                                                  |
 | buy.house        | resell    | —           | —             | medium         | medium | 3      | Spaceship, Inc.                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Retail Domain Names Across 500+ TLDs*. Version 2026-09-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Retail Domain Names Across 500+ TLDs*. Version 2026-09-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
