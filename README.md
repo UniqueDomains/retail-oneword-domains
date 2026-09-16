@@ -1,10 +1,10 @@
-# One-Word Retail Domain Names Across 500+ TLDs (191,001)
+# One-Word Retail Domain Names Across 500+ TLDs (100,286)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-191%2C001%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-100%2C286%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers 169,571 one-word domain names associated with retail, spanning 506 different TLDs. The median asking price across the list is roughly $929. Updated daily, it ranges from mainstream .com options to niche category-specific extensions.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **191,001 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **100,286 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 191,001 domains · **Median ask:** $819.35 · **High-demand under $2,500:** 663
+**Public extract:** 1,000 rows · **Live catalog:** 100,286 domains · **Median ask:** $1,005.40 · **High-demand under $2,500:** 256
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-16
 **Canonical page:** `https://unique.domains/domains/sector/retail`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| toy.yachts    | available | $1.99     | —             | high           | low    | 3      | name.com                                                  |
-| trade.online  | resell    | $718,750  | $46.99        | high           | medium | 5      | Namify Domains Inc                                        |
-| buy.sale      | premium   | $1,875    | —             | high           | medium | 3      | name.com                                                  |
-| deal.ryukyu   | available | $22.98    | —             | medium         | low    | 4      | namecheap                                                 |
-| trade.pink    | resell    | $31.48    | —             | high           | medium | 5      | GoDaddy.com, LLC                                          |
-| buy.store     | premium   | $8,125    | $32,500       | high           | medium | 3      | namecheap                                                 |
-| list.ryukyu   | available | $22.98    | —             | high           | low    | 4      | namecheap                                                 |
-| buy.condos    | resell    | —         | —             | medium         | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| for.shop      | premium   | $625      | —             | high           | medium | 3      | name.com                                                  |
-| mall.bargains | available | $21.99    | —             | high           | low    | 4      | name.com                                                  |
-| buy.discount  | resell    | —         | —             | medium         | medium | 3      | Dynadot Inc                                               |
-| toy.guru      | premium   | $242      | $242          | high           | low    | 3      | namesilo                                                  |
-| mall.gratis   | available | $23.99    | $23.99        | high           | low    | 4      | namesilo                                                  |
-| buy.fish      | resell    | —         | —             | medium         | medium | 3      | Dynadot Inc                                               |
-| area.store    | premium   | $781.25   | —             | high           | low    | 4      | name.com                                                  |
-| mall.kaufen   | available | $5.99     | $26.99        | high           | low    | 4      | namesilo                                                  |
-| buy.kids      | resell    | —         | —             | medium         | medium | 3      | Spaceship, Inc.                                           |
-| bulk.store    | premium   | $781.25   | —             | high           | low    | 4      | name.com                                                  |
-| mall.tienda   | available | $9.99     | —             | high           | low    | 4      | name.com                                                  |
-| buy.parts     | resell    | —         | —             | medium         | medium | 3      | Dynadot Inc                                               |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| shop.auto       | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo                                                  |
+| store.co        | resell    | $569,250  | $48.99        | high           | high   | 5      | Key-Systems GmbH                                          |
+| home.bio        | premium   | $3,136.56 | —             | high           | medium | 4      | Vautron Rechenzentrum AG                                  |
+| shop.car        | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo                                                  |
+| retail.info     | resell    | $4,145.75 | —             | high           | low    | 6      | Porkbun LLC                                               |
+| room.shop       | premium   | $3,125    | —             | high           | low    | 4      | name.com                                                  |
+| shop.catering   | available | $38.99    | $38.99        | high           | medium | 4      | namesilo                                                  |
+| buy.condos      | resell    | —         | —             | medium         | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| shop.accountant | premium   | $625      | —             | high           | medium | 4      | name.com                                                  |
+| shop.juegos     | available | $478.98   | —             | high           | medium | 4      | namecheap                                                 |
+| buy.fish        | resell    | —         | —             | medium         | medium | 3      | Dynadot Inc                                               |
+| shop.apartments | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo                                                  |
+| shop.protection | available | $1,999.99 | $2,049.99     | high           | medium | 4      | namesilo                                                  |
+| best.house      | resell    | —         | —             | high           | medium | 4      | Porkbun LLC                                               |
+| shop.attorney   | premium   | $3,750    | —             | high           | medium | 4      | name.com                                                  |
+| shop.security   | available | $1,999.99 | $2,049.99     | high           | medium | 4      | namesilo                                                  |
+| mall.homes      | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                           |
+| shop.auction    | premium   | $1,107    | $1,107        | high           | medium | 4      | namesilo                                                  |
+| shop.storage    | available | $509.99   | $529.99       | high           | medium | 4      | namesilo                                                  |
+| sale.plus       | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                               |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 191,001 live domains                       |
+| 1,000-row public sample | 100,286 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 663 high-demand names under $2,500         |
+| Basic exported fields   | 256 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Retail Domain Names Across 500+ TLDs*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Retail Domain Names Across 500+ TLDs*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
