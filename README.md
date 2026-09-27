@@ -1,10 +1,10 @@
-# One-Word Retail Domain Names Across 500+ TLDs (65,079)
+# One-Word Retail Domain Names Across 500+ TLDs (133,145)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-65%2C079%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-133%2C145%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers 169,571 one-word domain names associated with retail, spanning 506 different TLDs. The median asking price across the list is roughly $929. Updated daily, it ranges from mainstream .com options to niche category-specific extensions.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **65,079 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **133,145 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 65,079 domains · **Median ask:** $719.22 · **High-demand under $2,500:** 23
+**Public extract:** 1,000 rows · **Live catalog:** 133,145 domains · **Median ask:** $591.71 · **High-demand under $2,500:** 162
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/sector/retail`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| mall.apartments | available | $19.99    | —             | high           | low    | 4      | name.com                                            |
-| mall.autos      | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                     |
-| mall.berlin     | premium   | $441      | $441          | high           | low    | 4      | namecheap                                           |
-| mall.auto       | available | $1,999.99 | $2,199        | high           | low    | 4      | namesilo                                            |
-| mall.bid        | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                         |
-| mall.boston     | premium   | $500      | —             | high           | low    | 4      | name.com                                            |
-| mall.baby       | available | $17.99    | $54.99        | high           | low    | 4      | namesilo                                            |
-| mall.cash       | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| mall.business   | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                            |
-| mall.barcelona  | available | $38.98    | —             | high           | low    | 4      | namecheap                                           |
-| mall.cfd        | resell    | —         | —             | high           | low    | 4      | Global Domains International, Inc.                  |
-| mall.cloud      | premium   | $700      | $1,400        | high           | low    | 4      | namecheap                                           |
-| mall.bargains   | available | $21.99    | —             | high           | low    | 4      | name.com                                            |
-| mall.clothing   | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                     |
-| mall.coupons    | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo                                            |
-| mall.black      | available | $29.99    | —             | high           | low    | 4      | name.com                                            |
-| mall.cx         | resell    | —         | —             | high           | low    | 4      | Web Commerce Communications WebCC                   |
-| mall.cv         | premium   | $649.60   | $80.33        | high           | low    | 4      | namesilo                                            |
-| mall.broker     | available | $19.99    | —             | high           | low    | 4      | name.com                                            |
-| mall.diamonds   | resell    | —         | —             | high           | low    | 4      | eNom, LLC                                           |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar          |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------ |
+| mall.gratis     | available | $23.99    | $23.99        | high           | low    | 4      | namesilo           |
+| store.co        | resell    | $569,250  | $48.99        | high           | medium | 5      | Key-Systems GmbH   |
+| mall.ltda       | premium   | $56.64    | $33.04        | high           | low    | 4      | namesilo           |
+| mall.kaufen     | available | $5.99     | $26.99        | high           | low    | 4      | namesilo           |
+| trade.online    | resell    | $718,750  | $46.99        | high           | medium | 5      | Namify Domains Inc |
+| sale.boutique   | premium   | $500      | —             | high           | low    | 4      | name.com           |
+| mall.tienda     | available | $9.99     | —             | high           | low    | 4      | name.com           |
+| retail.info     | resell    | $4,145.75 | —             | high           | low    | 6      | Porkbun LLC        |
+| sale.market     | premium   | $1,000    | —             | high           | low    | 4      | name.com           |
+| shop.auto       | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo           |
+| mall.beauty     | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.    |
+| sale.shopping   | premium   | $500      | —             | high           | low    | 4      | name.com           |
+| shop.claims     | available | $17.99    | $64.99        | high           | medium | 4      | namesilo           |
+| sale.co         | resell    | —         | —             | high           | low    | 4      | InternetX GmbH     |
+| shop.actor      | premium   | $78.54    | $78.54        | high           | medium | 4      | namesilo           |
+| shop.desi       | available | $19.98    | $22.98        | high           | medium | 4      | namecheap          |
+| shop.ac         | resell    | —         | —             | high           | medium | 4      | Dynadot Inc        |
+| shop.apartments | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo           |
+| shop.protection | available | $1,999.99 | $2,049.99     | high           | medium | 4      | namesilo           |
+| shop.adult      | resell    | —         | —             | high           | medium | 4      | Name.com, Inc.     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 65,079 live domains                        |
+| 1,000-row public sample | 133,145 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 23 high-demand names under $2,500          |
+| Basic exported fields   | 162 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Retail Domain Names Across 500+ TLDs*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Retail Domain Names Across 500+ TLDs*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
