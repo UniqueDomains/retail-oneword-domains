@@ -1,10 +1,10 @@
-# One-Word Retail Domain Names Across 500+ TLDs (146,438)
+# One-Word Retail Domain Names Across 500+ TLDs (158,135)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-146%2C438%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-158%2C135%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection covers 169,571 one-word domain names associated with retail, spanning 506 different TLDs. The median asking price across the list is roughly $929. Updated daily, it ranges from mainstream .com options to niche category-specific extensions.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **146,438 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **158,135 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 146,438 domains · **Median ask:** $416.06 · **High-demand under $2,500:** 288
+**Public extract:** 1,000 rows · **Live catalog:** 158,135 domains · **Median ask:** $393.89 · **High-demand under $2,500:** 291
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/sector/retail`
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| shop.car        | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo                                                |
+| sale.tienda     | available | $9.99     | —             | high           | low    | 4      | name.com                                                |
 | store.co        | resell    | $569,250  | $48.99        | high           | medium | 5      | Key-Systems GmbH                                        |
-| mall.berlin     | premium   | $441      | $441          | high           | low    | 4      | namecheap                                               |
-| shop.catering   | available | $38.99    | $38.99        | high           | medium | 4      | namesilo                                                |
+| mall.forsale    | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                                |
+| shop.auto       | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo                                                |
 | retail.info     | resell    | $4,145.75 | —             | high           | low    | 6      | Porkbun LLC                                             |
-| mall.coupons    | premium   | $78.54    | $78.54        | high           | low    | 4      | namesilo                                                |
-| shop.claims     | available | $17.99    | $64.99        | high           | medium | 4      | namesilo                                                |
-| sale.company    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                             |
-| mall.dealer     | premium   | $2,170    | $2,800        | high           | low    | 4      | namecheap                                               |
-| shop.desi       | available | $19.98    | $22.98        | high           | medium | 4      | namecheap                                               |
-| shop.adult      | resell    | —         | —             | high           | medium | 4      | Name.com, Inc.                                          |
-| mall.discount   | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                                |
+| mall.free       | premium   | $1,107    | $1,107        | high           | low    | 4      | namesilo                                                |
+| shop.car        | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo                                                |
+| mall.app        | resell    | —         | —             | high           | low    | 4      | Dynadot LLC.                                            |
+| mall.locker     | premium   | $8.05     | $8.05         | high           | low    | 4      | namesilo                                                |
+| shop.catering   | available | $38.99    | $38.99        | high           | medium | 4      | namesilo                                                |
+| mall.xyz        | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd.     |
+| mall.market     | premium   | $242      | $242          | high           | low    | 4      | namesilo                                                |
 | shop.protection | available | $1,999.99 | $2,049.99     | high           | medium | 4      | namesilo                                                |
-| shop.associates | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                             |
-| mall.shop       | premium   | $625      | —             | high           | low    | 4      | name.com                                                |
+| shop.ac         | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                             |
+| mall.moda       | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo                                                |
 | shop.security   | available | $1,999.99 | $2,049.99     | high           | medium | 4      | namesilo                                                |
-| shop.beer       | resell    | —         | —             | high           | medium | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| sale.free       | premium   | $1,250    | —             | high           | low    | 4      | name.com                                                |
+| shop.associates | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                             |
+| mall.store      | premium   | $6,900    | $6,900        | high           | low    | 4      | namesilo                                                |
 | shop.storage    | available | $509.99   | $529.99       | high           | medium | 4      | namesilo                                                |
-| shop.bet        | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                             |
+| shop.beer       | resell    | —         | —             | high           | medium | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 146,438 live domains                       |
+| 1,000-row public sample | 158,135 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 288 high-demand names under $2,500         |
+| Basic exported fields   | 291 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
