@@ -9,18 +9,26 @@ b2106923-e849-40ce-a5da-360b661075ea,retail.store,premium,13800,13800,high,low,6
 aa4692ae-a7d5-4652-9005-666999fcabe9,store.melbourne,available,58,58,high,medium,5,namesilo,,,24/09/2026 16:58
 c0081d1e-ab07-4d35-b4f4-668eb7266555,store.storage,available,509.99,529.99,high,medium,5,namesilo,,,24/09/2026 16:58
 0ce5e528-7242-4ecb-931b-7c9497aae335,store.discount,premium,854,854,high,medium,5,namesilo,,,24/09/2026 16:58
+558da245-bd28-4fb2-ac48-0468d836f659,retail.gratis,available,23.99,23.99,high,low,6,namesilo,,,07/10/2026 11:29
 cb40270d-a919-4555-8195-5135b6ae2d0d,store.blackfriday,available,299.99,299.99,high,medium,5,name.com,,,24/09/2026 16:58
 f905f1f0-639e-46fe-b53e-badb4b87bbeb,store.dev,resell,,,high,medium,5,"Sav.com, LLC",26/03/2026 11:09,26/03/2027 11:09,26/09/2026 09:19
 4ec88424-ef21-42d4-8148-d23e6bed0bc1,store.bargains,premium,42.9,42.9,high,medium,5,namecheap,,,24/09/2026 16:58
 f92e597d-c1c6-44fd-bc81-05990f501385,store.motorcycles,premium,832,832,high,medium,5,namesilo,,,24/09/2026 16:58
 0e33fde9-cb37-4ece-82b7-775709c972c5,store.tech,premium,34500,34500,high,medium,5,namesilo,,,24/09/2026 16:58
+2ef1ce61-6b3a-4f46-ad53-8002a4f62f6c,store.cash,premium,250,250,high,medium,5,name.com,,,24/09/2026 16:58
+e7efba1b-0af7-4565-ac72-486ecfb5b01b,store.zip,premium,1298.7,1298.7,high,medium,5,namecheap,,,24/09/2026 16:58
+55ab5aa3-2140-4478-8d35-746775ddb04e,store.rsvp,premium,648.7,648.7,high,medium,5,namecheap,,,24/09/2026 16:58
 cf6e06a3-a2c0-4744-8308-17e6c64c3a60,retail.coupons,premium,12420,12420,high,low,6,namesilo,,,07/10/2026 11:29
 9d891403-21c2-4d90-becf-7106493f409f,shop.store,premium,3250,13000,high,medium,4,namecheap,,,24/09/2026 21:43
 80ca8632-e7a1-4578-a825-e7eec9488316,store.computer,resell,,,high,medium,5,"Spaceship, Inc.",11/12/2023 16:30,11/12/2026 16:30,26/09/2026 09:19
 e25f389d-5afe-4d11-95ca-fdbf775e04d2,store.london,premium,7307.54,31.25,high,medium,5,namesilo,,,24/09/2026 16:58
+f5a98778-98ad-4475-a764-97e36bb6355f,store.kim,resell,,,high,medium,5,Unstoppable Domains Inc,26/05/2022 17:00,26/05/2027 17:00,26/09/2026 09:19
 4a39b307-ec50-420f-a65b-4ef998f7556f,store.trade,premium,1107,116,high,medium,5,namesilo,,,24/09/2026 16:58
+40bec482-167c-4705-8c7d-24970bfe6992,store.software,premium,520,520,high,medium,5,namecheap,,,24/09/2026 16:58
+e85a8b3c-4539-4633-a07c-3080ab9cbcad,store.degree,available,52.99,52.99,high,medium,5,namesilo,,,24/09/2026 16:58
 dea01418-91a8-4ddb-b5ae-b367db3b02a6,store.properties,premium,260,260,high,medium,5,namecheap,,,24/09/2026 16:58
 5ec13cda-e034-459a-a909-e5646c2236ec,store.gmbh,available,47.98,56.98,high,medium,5,namecheap,,,24/09/2026 16:58
+ec664fe3-d61d-4090-8320-f8ac49dd0e28,store.game,premium,1690,1690,high,medium,5,namecheap,,,24/09/2026 16:58
 5cfcb8c4-db7b-4ae3-ad05-248e8fefbd93,retail.sale,premium,,,high,low,6,,,,07/10/2026 11:29
 ec1c6259-edf4-41ce-b3c6-b6c9d5fb25d4,store.miami,resell,,,high,medium,5,Dynadot Inc,18/01/2018 21:35,18/01/2027 21:35,26/09/2026 09:19
 e8038660-35ff-4590-b2b7-52299dbb6b22,store.health,resell,,,high,medium,5,"Spaceship, Inc.",24/02/2024 01:03,24/02/2027 01:03,26/09/2026 09:19
@@ -55,6 +63,7 @@ fec11f03-796a-411f-b739-18385dafc5af,retail.llc,premium,1552.7,1552.7,high,low,6
 73faa779-3536-4291-9c04-58349a33ee67,store.express,resell,,,high,medium,5,"Global Domains International, Inc. DBA DomainCostClub.com",30/12/2025 15:15,30/12/2026 15:15,26/09/2026 09:19
 2fb3c82a-3959-4212-a7f1-cdf8693a7af5,store.investments,resell,,,high,medium,5,"Spaceship, Inc.",20/07/2026 17:01,20/07/2027 17:01,26/09/2026 09:19
 d51779bf-bc6e-456e-bd86-1706ce4e5252,store.mba,resell,,,high,medium,5,"Xiamen ChinaSource Internet Service Co., Ltd",01/09/2024 15:16,01/09/2027 15:16,26/09/2026 09:20
+6b8dbec3-4a93-4034-8161-57cddcf2d8e9,retail.makeup,premium,832,832,high,low,6,namesilo,,,07/10/2026 11:29
 036a22b4-489c-4dcb-9462-dc5615ac5875,store.buzz,premium,512,116,high,medium,5,namesilo,,,24/09/2026 16:58
 b7cadeb8-9d79-40bd-a8e0-61485ead24d6,store.security,available,2070,2950,high,medium,5,namecheap,,,24/09/2026 16:58
 69ea7f1d-724c-4c94-8a1d-338ad4856326,store.plumbing,premium,512,512,high,medium,5,namesilo,,,24/09/2026 16:58
@@ -78,6 +87,7 @@ c85506cf-592e-413f-b49d-17e3eddfd170,store.eco,premium,9735.05,74.75,high,medium
 01fa6911-39c9-48d8-a902-4efc13f2dacb,store.beer,resell,,,high,medium,5,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),23/04/2021 16:00,23/04/2027 16:00,26/09/2026 09:19
 c5b7f03d-b14a-46bc-9d2d-79dee6a25819,retail.rentals,premium,68.51,68.51,high,low,6,spaceship,,,07/10/2026 11:29
 a961885b-b449-4fee-9240-48979c62417a,store.solutions,resell,,,high,medium,5,Dynadot Inc,10/05/2018 16:01,10/05/2027 16:01,26/09/2026 09:19
+5e33148d-6c28-446e-9d71-d69a3e71650c,retail.reviews,resell,,,high,low,6,"GoDaddy.com, LLC",22/07/2020 19:33,22/07/2027 19:33,07/10/2026 11:29
 6493ffdc-2a95-4024-a6b6-a55349011e03,store.dating,premium,242,242,high,medium,5,namesilo,,,24/09/2026 16:58
 dd9df680-143c-4dee-8b8b-81fc4e61a484,store.press,premium,3250,6500,high,medium,5,namecheap,,,24/09/2026 16:58
 6ee538b6-a6e1-4fcf-a9a5-82fb5e7ead3b,store.today,resell,,,high,medium,5,Squarespace Domains II LLC,15/09/2019 06:54,15/09/2027 06:54,26/09/2026 09:19
@@ -92,23 +102,31 @@ a2e713bc-dd93-4593-864c-7e8b448c20dd,retail.biz,premium,1000.5,18.83,high,low,6,
 16d9616d-a3f8-496a-9163-00976d4c5da2,store.family,premium,123.75,123.75,high,medium,5,name.com,,,24/09/2026 16:58
 94045406-472c-4299-ab3c-98f6b5860d4b,store.luxury,premium,3624.95,3624.95,high,medium,5,name.com,,,24/09/2026 16:58
 5670e2e4-dcbf-48ef-8a77-fd35360e3f6d,retail.review,premium,6500,130,high,low,6,namecheap,,,07/10/2026 11:29
+30533931-06e1-476a-88de-9f32c5ea2087,retail.insure,available,56.2,56.2,high,low,6,cloudflare,,,07/10/2026 11:29
 1c676f61-d203-4c4c-8a09-183bb1ecaf96,store.deals,resell,,,high,medium,5,Dynadot Inc,06/07/2024 15:15,06/07/2027 15:15,26/09/2026 09:19
 e688264e-6b99-4f91-8426-5ff6bfb60c36,retail.hamburg,available,69.98,73.98,high,low,6,namecheap,,,07/10/2026 11:29
 518543f1-1422-4940-8224-8345fc9d3923,store.reise,available,27.89,97.99,high,medium,5,namesilo,,,24/09/2026 16:58
 e0c52626-2769-414b-beb0-e3f876ec8c53,store.equipment,premium,85.8,85.8,high,medium,5,namecheap,,,24/09/2026 16:58
 8fe33e08-52b0-4553-b3f4-d22783973415,store.city,resell,,,high,medium,5,"Xiamen ChinaSource Internet Service Co., Ltd",14/10/2016 14:40,14/10/2027 14:40,08/10/2026 05:48
+8a62f963-e319-4421-8668-33d583911745,retail.soccer,available,20.2,20.2,high,low,6,cloudflare,,,07/10/2026 11:29
+e552f380-79ad-4713-b047-196a2fd41a40,retail.attorney,available,49.88,49.88,high,low,6,spaceship,,,07/10/2026 11:29
 a64ebf89-afe0-49cb-b6f6-de3d51c13c5f,retail.free,premium,130,130,high,low,6,namecheap,,,07/10/2026 11:29
 37343f85-b2a7-47a8-b78c-7991c47b1125,store.condos,premium,118.8,118.8,high,medium,5,namesilo,,,24/09/2026 16:58
 8ff89a37-133e-44da-9a5c-3ac83338a977,store.realty,premium,1107,1107,high,medium,5,namesilo,,,24/09/2026 16:58
+42e5826d-a218-4dc1-a67c-978810f6e4b6,retail.organic,available,17,68.49,high,low,6,unstoppable,,,07/10/2026 11:29
 5e27ee41-3ecc-4b17-8b0a-6cd23dd667d6,store.ceo,premium,510.98,510.98,high,medium,5,namesilo,,,24/09/2026 16:58
 f9f4c2b3-f219-4864-9acc-684e2ef3267d,store.immobilien,available,37.99,37.99,high,medium,5,namesilo,,,24/09/2026 16:58
+e2bc508f-9a6c-45c3-ae98-5f58af779732,retail.yoga,premium,512,29.5,high,low,6,namesilo,,,07/10/2026 11:29
+f01e74e2-d717-42d4-88a3-f5681ef71905,retail.guitars,available,93.35,103.4,high,low,6,spaceship,,,07/10/2026 11:29
 9ecaee4b-f965-4e53-a33a-8c3ca2330d65,store.technology,resell,,,high,medium,5,"Global Domains International, Inc. DBA DomainCostClub.com",12/01/2026 15:15,12/01/2027 15:15,26/09/2026 09:19
 897d9f1d-872b-4ed8-b9b9-3ee5346774b5,store.supplies,premium,854,854,high,medium,5,namesilo,,,24/09/2026 16:58
 abe438cc-5014-485f-8160-9d1535015cc2,retail.construction,available,30.2,30.2,high,low,6,cloudflare,,,07/10/2026 11:29
+851e2464-d4c5-4ea8-a27f-9827affe0416,retail.football,available,20.9,20.9,high,low,6,spaceship,,,07/10/2026 11:29
 dff1530e-bbc1-44a5-866a-070190727afb,retail.poker,premium,500.5,640,high,low,6,unstoppable,,,07/10/2026 11:29
 89335f9f-ec5f-426f-9eae-c8b1b03fd6cc,shop.kaufen,resell,,,high,medium,4,"Global Domains International, Inc. DBA DomainCostClub.com",11/03/2026 15:15,11/03/2027 15:15,26/09/2026 08:59
 073611a4-4a89-4802-ac82-8f0fdcee1d90,store.tax,resell,,,high,medium,5,"DNSPod, Inc.",19/02/2021 23:16,19/02/2027 23:16,26/09/2026 09:19
 a6c0708f-54b0-4ff5-b57d-357fba85d754,store.tickets,available,359.99,488.88,high,medium,5,namesilo,,,24/09/2026 16:58
+e25130dd-feed-411d-b885-82b1257fe0e4,retail.golf,available,7.49,64.99,high,low,6,namesilo,,,07/10/2026 11:29
 2605e7ba-82ab-469f-9fda-ebdabbeff6c7,store.viajes,available,37.99,37.99,high,medium,5,namesilo,,,24/09/2026 16:58
 c96a83a6-78b5-4482-a0f9-019a1de7c427,store.contact,resell,,,high,medium,5,Dynadot Inc,07/12/2020 02:21,07/12/2026 02:21,26/09/2026 09:19
 ca95ba91-617e-450b-82c6-fdf0c1c3614d,store.cfd,resell,,,high,medium,5,Dynadot Inc,20/04/2021 16:44,20/04/2027 23:59,26/09/2026 09:19
@@ -161,6 +179,7 @@ cd131e48-0e5d-4006-99eb-fad78f2a744a,store.land,resell,,,high,medium,5,"Spaceshi
 73cf33cb-6dab-4c88-a58c-adf37315002c,retail.fun,premium,1107,1107,high,low,6,namesilo,,,07/10/2026 11:29
 bb01f215-8bce-4a27-bf68-8a7b86af1305,store.dance,premium,128.7,128.7,high,medium,5,namecheap,,,24/09/2026 16:58
 2902f3ec-7aa5-411b-8aff-5f6b137cab9f,retail.observer,premium,1040,1040,high,low,6,namecheap,,,07/10/2026 11:29
+377886db-8b4d-4bb7-bd59-f0b94cbcd7ca,shop.ooo,premium,1380000,318.72,high,medium,4,namesilo,,,24/09/2026 21:43
 7c58500c-b500-4b9a-802b-b9a3e9e7aef4,retail.guru,resell,,,high,low,6,"GoDaddy.com, LLC",30/08/2023 18:27,30/08/2027 18:27,07/10/2026 11:29
 086eb074-3eca-4b17-8246-3d9b83b04127,store.talk,premium,640,640,high,medium,5,namesilo,,,24/09/2026 16:58
 37945ca9-db21-4cf6-8b55-ab84c105eaea,retail.food,premium,640,640,high,low,6,namesilo,,,07/10/2026 11:29
@@ -260,6 +279,7 @@ c0010c05-41a2-4c70-b13f-9425e8888650,store.moda,premium,123.75,123.75,high,mediu
 cac894ef-d02a-4c56-b62c-309d30981d6e,shop.estate,premium,78.54,78.54,high,medium,4,namesilo,,,24/09/2026 21:43
 c2a4dd5e-7559-4156-8c8e-2277fa67968f,retail.info,resell,4145.75,,high,low,6,Porkbun LLC,13/07/2002 19:30,13/07/2027 19:30,07/10/2026 11:29
 7b89f1cd-c719-4c58-88e4-235f9862efd5,retail.bargains,available,23.2,23.2,high,low,6,cloudflare,,,07/10/2026 11:29
+50409c34-ae77-4b6b-b187-4f9c96a7628c,shop.expert,resell,,,high,medium,4,"Spaceship, Inc.",17/07/2015 21:50,17/07/2027 21:50,26/09/2026 08:59
 164399f9-9c64-4e66-bfe6-9e589f884ca3,retail.lawyer,available,62.99,62.99,high,low,6,namesilo,,,07/10/2026 11:29
 b81c90c4-338c-4783-a635-d2cb5a7b6019,store.healthcare,resell,,,high,medium,5,Porkbun LLC,07/04/2024 15:15,07/04/2027 15:15,26/09/2026 09:19
 75b96655-eef5-4743-8054-24b60a96ae80,store.wiki,resell,,,high,medium,5,"Chengdu West Dimension Digital Technology Co., Ltd.",05/03/2024 00:00,05/03/2027 00:00,26/09/2026 09:19
@@ -277,6 +297,7 @@ eb91036e-a1c4-42ae-8c1d-a930a05f2e6e,store.fyi,resell,,,high,medium,5,Dynadot In
 7ffdfc3c-41a2-455f-9671-53a77d395bc8,retail.hiv,available,195.99,195.99,high,low,6,namesilo,,,07/10/2026 11:29
 de15e422-f174-4591-9818-5db14965efaf,store.diy,premium,91,130,high,medium,5,namecheap,,,24/09/2026 16:58
 e6210e3a-1fb2-479b-862a-a62fa7d35138,store.vet,premium,118.8,118.8,high,medium,5,namesilo,,,24/09/2026 16:58
+43644891-8a2c-4e87-b9bb-42df385e1294,shop.pictures,premium,242,242,high,medium,4,namesilo,,,24/09/2026 21:43
 0a980f04-726e-4ef4-810c-5d0fc967fe0e,retail.deal,premium,103.7,103.7,high,low,6,spaceship,,,07/10/2026 11:29
 37cd5bdf-f6c8-496b-a5bf-935e5bf2902a,store.you,premium,650,650,high,medium,5,namecheap,,,24/09/2026 16:58
 6b2acd5e-81b4-47f5-bdbc-50c686deec98,retail.movie,available,270.2,270.2,high,low,6,cloudflare,,,07/10/2026 11:29
@@ -306,6 +327,7 @@ b4007bb3-4d21-41cb-96d3-d726760101ef,retail.condos,available,46.78,46.78,high,lo
 5576b235-9f54-46c5-a8d7-fc5380ba1f97,retail.porn,available,53.72,101.87,high,low,6,dynadot,,,07/10/2026 11:29
 e64328b4-0723-4d92-a71a-84352326c143,store.furniture,resell,,,high,medium,5,"Sav.com, LLC",14/01/2021 08:19,14/01/2027 08:19,26/09/2026 09:19
 e96d1fc6-768a-4802-bd67-a838ff2405ec,retail.haus,available,14.99,33.99,high,low,6,namesilo,,,07/10/2026 11:29
+ecdbbc56-f653-49d0-973c-540fbc79b3e6,shop.protection,available,1999.99,2049.99,high,medium,4,namesilo,,,24/09/2026 21:43
 3576b91e-fa0a-4585-aa4e-ab1f370c7c66,shop.gives,premium,118.8,118.8,high,medium,4,namesilo,,,24/09/2026 21:43
 c92262ed-7873-444a-8d2a-3ece7e8f8789,store.maison,premium,118.8,118.8,high,medium,5,namesilo,,,24/09/2026 16:58
 0fd26c91-b58d-4ab0-b9f0-938a9895295a,store.yoga,resell,,,high,medium,5,"Spaceship, Inc.",02/03/2025 00:00,02/03/2027 00:00,26/09/2026 09:19
@@ -535,7 +557,6 @@ be098822-e98f-4681-9fbe-20ae31e0d9a3,shop.party,premium,6900,116,high,medium,4,n
 31e59a77-eaba-4a74-941c-d88ac3437166,store.car,available,1999.99,2199,high,medium,5,namesilo,,,24/09/2026 16:58
 d7abb5cb-e8fa-4763-9825-4956a5dc97d0,retail.living,premium,640,640,high,low,6,namesilo,,,07/10/2026 11:29
 a5be485d-9208-4b63-8769-49cd393c8852,retail.tires,premium,102.67,102.67,high,low,6,spaceship,,,07/10/2026 11:29
-558da245-bd28-4fb2-ac48-0468d836f659,retail.gratis,available,23.99,23.99,high,low,6,namesilo,,,07/10/2026 11:29
 c61a19cd-8015-4a5b-ac53-8af0139a5913,retail.band,premium,102.67,102.67,high,low,6,spaceship,,,07/10/2026 11:29
 a75cdc5e-e2d8-43d8-8810-5dc02488e1e9,retail.holdings,premium,207.2,207.2,high,low,6,spaceship,,,07/10/2026 11:29
 421dcff0-7263-4a00-85f2-0b694c0c28ca,shop.ventures,resell,,,high,medium,4,"Wild West Domains, LLC",24/04/2017 00:17,24/04/2027 00:17,26/09/2026 09:00
@@ -597,7 +618,6 @@ af5b6986-bac3-419c-aeac-a48a51e705db,shop.doctor,resell,,,high,medium,4,"Sav.com
 3d37511a-7fb0-47b1-8320-5526fdc4765b,retail.rehab,premium,1107,1107,high,low,6,namesilo,,,07/10/2026 11:29
 278c5eb6-9dc5-4189-9ef3-d3a23a4b73fe,retail.luxe,premium,512,17.7,high,low,6,namesilo,,,07/10/2026 11:29
 cf1663ee-86b4-407c-8e53-1fa0ce5b53b5,store.hot,premium,1107,1107,high,medium,5,namesilo,,,24/09/2026 16:58
-2ef1ce61-6b3a-4f46-ad53-8002a4f62f6c,store.cash,premium,250,250,high,medium,5,name.com,,,24/09/2026 16:58
 377e708d-05d9-437e-99a4-0fbf1240f735,retail.photo,premium,103.7,103.7,high,low,6,spaceship,,,07/10/2026 11:29
 f781ad48-11ec-4c0d-a36f-936dfc70c8bf,commerce.store,premium,3450,3450,high,low,8,namesilo,,,08/10/2026 06:17
 606c4d8b-5bee-4995-ba97-b824af4975ae,store.soy,premium,418.6,418.6,high,medium,5,namecheap,,,24/09/2026 16:58
@@ -612,10 +632,8 @@ a950238f-1a50-4ce4-be71-209e89127146,retail.ceo,premium,254.72,254.72,high,low,6
 9affbbbb-976a-4f24-82a0-e9956b205bbd,store.mov,premium,1298.7,1298.7,high,medium,5,namecheap,,,24/09/2026 16:58
 00636c7c-bbb5-4b02-a0da-921a1145cb24,shop.construction,resell,,,high,medium,4,"GoDaddy.com, LLC",23/08/2020 03:16,23/08/2027 03:16,26/09/2026 08:59
 49c46058-6c77-4850-93f8-c530e205597e,retail.study,premium,517.7,517.7,high,low,6,spaceship,,,07/10/2026 11:29
-e7efba1b-0af7-4565-ac72-486ecfb5b01b,store.zip,premium,1298.7,1298.7,high,medium,5,namecheap,,,24/09/2026 16:58
 8ba489e6-acd5-4a1d-a11f-fe8d184e3ed6,retail.schule,available,28.99,28.99,high,low,6,namesilo,,,07/10/2026 11:29
 07cd5ebf-2a14-475d-b8e5-b935af79109d,trade.store,premium,647.08,2587.7,high,medium,5,spaceship,,,08/10/2026 16:34
-55ab5aa3-2140-4478-8d35-746775ddb04e,store.rsvp,premium,648.7,648.7,high,medium,5,namecheap,,,24/09/2026 16:58
 7907f95e-a554-4e59-83c6-29daf6e038b2,shop.srl,premium,54.28,30.68,high,medium,4,namesilo,,,24/09/2026 21:43
 2ddb8ac3-2dc7-4abe-84a2-fa8262388098,store.support,resell,,,high,medium,5,"Spaceship, Inc.",23/01/2017 21:10,23/01/2027 21:10,26/09/2026 09:19
 a3b20d7d-d05a-421d-831b-1c30c9938b57,outlet.coupons,premium,207.2,207.2,high,low,6,spaceship,,,29/09/2026 17:56
@@ -638,21 +656,17 @@ c3362c26-092f-4e87-bc67-dd30ac0ff239,store.surgery,premium,118.8,118.8,high,medi
 48eaa416-be16-49ff-ae8a-a4a381175d9c,retail.ag,available,89.99,79.99,high,low,6,namesilo,,,07/10/2026 11:29
 0e96877c-afe2-43fa-949d-6495fdaa5628,retail.limo,available,54.99,54.99,high,low,6,namesilo,,,07/10/2026 11:29
 e45def37-f97d-4951-953a-c9ffd0c6f512,shop.lgbt,premium,2600,2600,high,medium,4,namecheap,,,24/09/2026 21:43
-f5a98778-98ad-4475-a764-97e36bb6355f,store.kim,resell,,,high,medium,5,Unstoppable Domains Inc,26/05/2022 17:00,26/05/2027 17:00,26/09/2026 09:19
 79eb801d-7e5a-4531-9b72-2a243a8bb17a,retail.army,available,30.2,30.2,high,low,6,cloudflare,,,07/10/2026 11:29
 446e49dd-2d91-4080-91ee-a585beb4a30f,shop.llc,premium,1300,1300,high,medium,4,namecheap,,,24/09/2026 21:43
 06578a64-8768-4c4f-b0b6-3a3576e2ef50,marketplace.store,premium,3450,3450,high,medium,11,namesilo,,,07/10/2026 15:14
 77bd7bd7-cdce-4174-879e-186fb4d60205,retail.soy,premium,164.77,164.77,high,low,6,spaceship,,,07/10/2026 11:29
-40bec482-167c-4705-8c7d-24970bfe6992,store.software,premium,520,520,high,medium,5,namecheap,,,24/09/2026 16:58
 13e4b357-ad7a-4db9-9716-3e3645b10fa8,retail.city,resell,,,high,low,6,"DNSPod, Inc.",19/01/2019 00:16,19/01/2028 00:16,07/10/2026 11:29
-e85a8b3c-4539-4633-a07c-3080ab9cbcad,store.degree,available,52.99,52.99,high,medium,5,namesilo,,,24/09/2026 16:58
 fb5bb1b5-f1c7-4689-9841-815aec1fb18a,retail.doctor,available,13.5,116.99,high,low,6,unstoppable,,,07/10/2026 11:29
 9547cc19-b364-4e7d-95b0-795a9f509dd8,retail.broker,premium,5000.5,5500,high,low,6,unstoppable,,,07/10/2026 11:29
 2a304a89-aa95-44d0-bec2-cabab2f05c93,shop.theatre,available,509.99,529.99,high,medium,4,namesilo,,,24/09/2026 21:43
 fefec1e2-3121-4bf3-8fc5-80070cb5f392,retail.software,premium,2750,2750,high,low,6,dynadot,,,07/10/2026 11:29
 c19d8b37-3eb9-4745-b5f0-62d9286248a8,retail.nexus,premium,499.2,545.26,high,low,6,unstoppable,,,07/10/2026 11:29
 3c080022-0c9c-4f1d-ba9c-98d76173c5b2,shop.gripe,premium,78.54,78.54,high,medium,4,namesilo,,,24/09/2026 21:43
-ec664fe3-d61d-4090-8320-f8ac49dd0e28,store.game,premium,1690,1690,high,medium,5,namecheap,,,24/09/2026 16:58
 872806e7-07d1-4046-a08b-1ee7d034b70f,retail.host,premium,4140,4140,high,low,6,namesilo,,,07/10/2026 11:29
 ba76a36c-d7ce-41a9-b00a-609deaa58917,retail.watch,premium,72.6,72.6,high,low,6,dynadot,,,07/10/2026 11:29
 bc157368-14e6-4e0b-8931-108749e01c01,shop.law,resell,,,high,medium,4,"GoDaddy.com, LLC",14/08/2020 08:55,14/08/2027 08:55,26/09/2026 08:59
@@ -697,6 +711,7 @@ f49a788c-762b-456b-83c7-04af6c685c04,outlet.tienda,available,62.98,74.98,high,lo
 1e2fa78b-11b2-440a-8f8e-a877cf523f42,retail.diamonds,premium,242,242,high,low,6,namesilo,,,07/10/2026 11:29
 8707cba5-2c7a-464f-a638-aa8183c0ad98,shop.mba,resell,,,high,medium,4,"Chengdu West Dimension Digital Technology Co., Ltd.",10/02/2019 04:52,10/02/2027 04:52,26/09/2026 08:59
 6a6badce-19eb-4726-b609-67283ea1f207,retail.forex,premium,1035.2,1035.2,high,low,6,spaceship,,,07/10/2026 11:29
+09c39d20-d829-4bad-8d38-8f27dd1d26c0,market.ninja,resell,,,high,medium,6,"GoDaddy.com, LLC",13/01/2020 22:12,13/01/2027 22:12,26/09/2026 07:26
 b97c702e-ae79-4359-8410-706b869ff8e2,shop.camp,resell,,,high,medium,4,Edomains LLC,19/01/2025 15:15,19/01/2027 15:15,26/09/2026 08:59
 f14c6138-66cc-425e-abd8-1e77df94f883,mall.tienda,available,46.2,46.2,high,low,4,cloudflare,,,30/09/2026 03:46
 b2f0ca9e-f128-4de7-a8d8-a7c5f48bd93e,retail.fitness,available,3.48,56.98,high,low,6,namecheap,,,07/10/2026 11:29
@@ -715,11 +730,15 @@ bc523f0a-8679-46f7-b7ae-576c9a34df0e,retail.courses,premium,640,640,high,low,6,n
 812885d9-443c-4dd1-8c2a-d771fa9c5390,outlet.co,resell,,,high,low,6,"GoDaddy.com, LLC",24/02/2010 23:26,23/02/2027 23:59,29/09/2026 17:56
 cfbbd4df-1534-403c-8e2d-17ecf8bc0b8f,shop.ac,resell,,,high,medium,4,Dynadot Inc,29/06/2019 10:14,29/06/2027 10:14,26/09/2026 08:59
 924c65ad-d8c4-4124-b571-da86832b841d,mall.kaufen,available,23.94,23.94,high,low,4,spaceship,,,30/09/2026 03:46
+b04605b9-4161-461c-9866-63bc2913f3af,commerce.loan,premium,3450,116,high,low,8,namesilo,,,08/10/2026 06:17
 e01fe2f8-3f88-4f66-9a10-c815d06718a2,retail.gripe,available,6.98,8.98,high,low,6,namecheap,,,07/10/2026 11:29
+a8e636f7-a625-4462-be15-6162246f8221,outlet.top,resell,,,high,low,6,Porkbun LLC,02/02/2016 19:21,02/02/2027 19:21,29/09/2026 17:56
 b7f0ca3d-7ab2-4731-ad80-763f7a565ed5,market.forex,premium,1300,1300,high,medium,6,namecheap,,,19/09/2026 13:41
+b947b1d2-5474-4240-9acb-d2d1a792d256,outlet.creditcard,available,129.2,129.2,high,low,6,spaceship,,,29/09/2026 17:56
 6810a077-5418-4946-a547-5d58ae2af39d,outlet.immo,available,28.15,28.15,high,low,6,spaceship,,,29/09/2026 17:56
 97c9e315-02c5-4ab4-8898-2e03aa5cd03d,outlet.fast,premium,103.7,102.67,high,low,6,spaceship,,,29/09/2026 17:56
 cd8624b4-4675-4580-94a8-49eecb387ebf,shop.date,premium,390,65,high,medium,4,namecheap,,,24/09/2026 21:43
+df1799e1-9aa0-4f14-9547-76bdef557a08,outlet.construction,available,31.25,31.25,high,low,6,spaceship,,,29/09/2026 17:56
 11121715-fa8d-4cb5-bab5-08be727b8af0,trade.cfd,premium,384,768,high,medium,5,namesilo,,,08/10/2026 16:34
 af5f6208-3966-48e2-80fc-93a8c982005e,commerce.kaufen,available,5.57,28.04,high,low,8,dynadot,,,08/10/2026 06:17
 08a259d1-1009-450f-aea8-2d1460523392,retail.plus,resell,,,high,low,6,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),08/10/2021 13:15,08/10/2027 13:15,07/10/2026 11:29
@@ -729,29 +748,35 @@ fbf14cdc-a204-4b6d-884e-96d6d8a2ea1f,outlet.bayern,premium,250.17,34.35,high,low
 eb741197-c6ff-451e-bb47-b75cf57cf9cb,outlet.direct,premium,242,242,high,low,6,namesilo,,,29/09/2026 17:56
 ff69c634-6612-4bed-b200-24dc6e1beb0c,market.website,premium,1625,3250,high,medium,6,namecheap,,,19/09/2026 13:41
 b5569c7c-536c-45b6-a04f-9239db7f2168,retail.partners,premium,118.8,118.8,high,low,6,namesilo,,,07/10/2026 11:29
+0b316595-7850-4b23-8559-f35f962d042f,outlet.tips,available,8.24,25.9,high,low,6,dynadot,,,29/09/2026 17:56
 cc9c8907-4372-4fa0-a4c3-09161cd5c177,retail.builders,premium,78.54,78.54,high,low,6,namesilo,,,07/10/2026 11:29
 b4166998-ccf1-4dbe-b5ad-c8035ba45b2d,retail.viajes,available,35.2,35.2,high,low,6,cloudflare,,,07/10/2026 11:29
 a628e6b7-7206-48cc-8b2b-c3dae9819da0,outlet.cfd,premium,328.02,655.52,high,low,6,porkbun,,,29/09/2026 17:56
 bbf59532-b790-4446-9f74-7704b7f0a4d6,outlet.villas,available,47.81,47.81,high,low,6,spaceship,,,29/09/2026 17:56
+f21f421a-26b2-47e5-b547-54b2b3753f6b,trade.loan,premium,1035.2,103.7,high,medium,5,spaceship,,,08/10/2026 16:34
+efdc7a4b-1003-40fe-aaa6-e01575000319,outlet.how,premium,111.25,,high,low,6,name.com,,,29/09/2026 17:56
 b4d86d9e-14e3-4db7-8262-df0a4496be1c,outlet.osaka,available,26.97,26.97,high,low,6,dynadot,,,29/09/2026 17:56
 658f5ed3-f9a2-445e-9e40-3ad3792cb6be,outlet.industries,available,9.58,37.67,high,low,6,dynadot,,,29/09/2026 17:56
 dc59f0fc-47b6-42a6-876f-36f03600a06c,outlet.nyc,premium,3250,32.5,high,low,6,namecheap,,,29/09/2026 17:56
 98e80884-6d7e-40c5-97c9-c6edcd5127d9,retail.toys,available,17,50.2,high,low,6,unstoppable,,,07/10/2026 11:29
 cbe0c4d9-bbd6-46f6-890b-dcbcd3032298,commerce.trade,premium,3450,116,high,low,8,namesilo,,,08/10/2026 06:17
+c7448ceb-bfab-4d33-919b-50eba9364af4,commerce.photography,available,14.49,36.49,high,low,8,namesilo,,,08/10/2026 06:17
 80bc5efe-25ba-4624-916b-a524b322d72d,retail.consulting,premium,1107,1107,high,low,6,namesilo,,,07/10/2026 11:29
 1dac76c9-c346-48be-ba52-d415027e5322,shop.sexy,premium,13000,13000,high,medium,4,namecheap,,,24/09/2026 21:43
-6b8dbec3-4a93-4034-8161-57cddcf2d8e9,retail.makeup,premium,832,832,high,low,6,namesilo,,,07/10/2026 11:29
+f73f6188-e538-465b-ac57-c80e69d89156,outlet.family,premium,1035.2,1035.2,high,low,6,spaceship,,,29/09/2026 17:56
 ee7cdefc-05ca-49f6-a4b8-36ed32b1869e,trade.tienda,available,47.81,47.81,high,medium,5,spaceship,,,08/10/2026 16:34
+067e7329-b39d-495e-b0c9-fa402a0d683b,outlet.foundation,available,21.7,21.7,high,low,6,cloudflare,,,29/09/2026 17:56
 ee7a5a54-be6e-417f-a026-1780127fee54,shop.fund,resell,,,high,medium,4,"Spaceship, Inc.",10/09/2025 15:15,10/09/2027 15:15,26/09/2026 08:59
 5da10c0c-e9a1-4c2e-ac19-068621b34c9b,shop.phd,premium,1688.7,1688.7,high,medium,4,namecheap,,,24/09/2026 21:43
 bed6ec26-b25c-449b-893b-3f55e2a6ca6c,retail.build,premium,1552.7,1552.7,high,low,6,spaceship,,,07/10/2026 11:29
 ec4eab5a-e7a5-4761-93bc-7eeba9918576,outlet.restaurant,available,20,,high,low,6,unstoppable,,,29/09/2026 17:56
 a02055f6-d2ff-4ad4-a77d-87085286d5f6,outlet.management,available,20.9,20.9,high,low,6,spaceship,,,29/09/2026 17:56
+5b8050fe-db4a-46a6-8480-0ece89d7d201,outlet.social,available,3.31,33.32,high,low,6,spaceship,,,29/09/2026 17:56
 7aec8808-bb0e-46ba-ac63-02cf1aa86436,outlet.bingo,available,8.24,44.09,high,low,6,dynadot,,,29/09/2026 17:56
 f752e1de-1948-4daa-bf50-a2953acec6ae,shop.car,available,1999.99,2199,high,medium,4,namesilo,,,24/09/2026 21:43
 bd44ca02-415f-453b-a7b0-92d9626478fe,shop.security,available,1999.99,2049.99,high,medium,4,namesilo,,,24/09/2026 21:43
 b94cb10f-9c0c-45c9-85bf-fcdc5e7e0988,outlet.science,premium,110,27.5,high,low,6,dynadot,,,29/09/2026 17:56
-0b01e648-804a-4121-877f-169709d2859e,merchandise.shop,premium,1035.2,1035.2,high,low,11,spaceship,,,05/10/2026 14:03
+0b01e648-804a-4121-877f-169709d2859e,merchandise.shop,premium,1107,1107,high,low,11,namesilo,,,09/10/2026 17:03
 8b7245dd-0142-4a1b-9a70-d48f89955c04,shop.partners,premium,78.54,78.54,high,medium,4,namesilo,,,24/09/2026 21:43
 7588917b-65fe-455d-a35e-c5d720428599,shop.locker,premium,3433.44,8.8,high,medium,4,namesilo,,,24/09/2026 21:43
 213914ca-a7d3-4dd9-a20a-4fc97532e366,retail.hockey,available,47.81,47.81,high,low,6,spaceship,,,07/10/2026 11:29
@@ -764,6 +789,7 @@ cafa0445-d0d7-45a5-b19e-b44fd346d228,retailer.tienda,available,59.99,59.99,high,
 5d8c197b-e38c-4c8a-9a2a-f735d7976405,outlet.storage,available,465.95,500.2,high,low,6,spaceship,,,29/09/2026 17:56
 44946c3e-5354-4297-9dc5-2048e7542569,retail.mov,premium,499.2,516.67,high,low,6,unstoppable,,,07/10/2026 11:29
 3d54b1fc-edbf-4ced-b2a3-b29a412d21b8,shop.fishing,premium,5520,29.5,high,medium,4,namesilo,,,24/09/2026 21:43
+504a982b-55a8-40a7-9579-6443f81f672a,market.rentals,premium,78.54,78.54,high,medium,6,namesilo,,,19/09/2026 13:41
 06e7790c-11ed-40fa-8034-8998601dc37a,outlet.holiday,available,50.2,50.2,high,low,6,cloudflare,,,29/09/2026 17:56
 8307843a-f2c9-4122-96c3-a3310aa4d531,outlet.ceo,premium,436.31,436.31,high,low,6,porkbun,,,29/09/2026 17:56
 9d595698-13a9-4f09-be1c-d77c1c22320f,outlet.country,available,2060.25,2060.25,high,low,6,porkbun,,,29/09/2026 17:56
@@ -780,13 +806,16 @@ e7949c54-4ffa-46bd-8e5a-cc7c9036310b,shop.pink,premium,1107,1107,high,medium,4,n
 828449a6-6455-45c0-bf9e-505dfa7d0d5d,shop.equipment,premium,78.54,78.54,high,medium,4,namesilo,,,24/09/2026 21:43
 aa7af664-76c9-496a-a728-306a2d67f57e,shop.storage,available,509.99,529.99,high,medium,4,namesilo,,,24/09/2026 21:43
 e1b56f8a-b2bc-4763-92b1-40925a2f9382,outlet.hosting,available,300.2,300.2,high,low,6,cloudflare,,,29/09/2026 17:56
+609c80ad-8650-43f8-a28e-7b8cf945ce82,shopping.baby,resell,,,high,low,8,"Spaceship, Inc.",07/01/2026 21:28,07/01/2027 23:59,30/09/2026 11:13
+78384d8c-aafc-4edf-bdc4-d8c19d191b37,commerce.email,resell,,,high,low,8,"Sav.com, LLC - 46",22/03/2026 15:15,22/03/2027 15:15,08/10/2026 06:17
 9cb730d7-64d5-4c5a-b625-da59f8d83f33,outlet.style,premium,36.32,72.57,high,low,6,porkbun,,,29/09/2026 17:56
 81fa427d-5718-44ce-8b96-a236afc77425,retail.racing,premium,116,116,high,low,6,namesilo,,,07/10/2026 11:29
 042cdab9-da3e-4b3f-b93a-760a7bd581a4,outlet.glass,premium,118.8,118.8,high,low,6,namesilo,,,29/09/2026 17:56
 06bd90b3-84f9-45eb-bbb1-c6835a1cfcc5,market.maison,premium,242,242,high,medium,6,namesilo,,,19/09/2026 13:41
 02292022-02f2-4491-91df-fd756225c741,commerce.condos,available,46.78,46.78,high,low,8,spaceship,,,08/10/2026 06:17
+728e2038-8e14-425d-9efd-fad0fee50f81,commerce.diy,premium,724.7,1035.2,high,low,8,spaceship,,,08/10/2026 06:17
+d399424b-3522-4dcf-a2b1-8d4345c79342,commerce.fans,premium,51.95,103.7,high,low,8,spaceship,,,08/10/2026 06:17
 6b87eef7-e74c-4e8d-98e7-a8f5e57618c3,retail.love,premium,227.5,325,high,low,6,namecheap,,,07/10/2026 11:29
-45f4009b-d4e5-4344-b3fb-643f5ae58f8e,commerce.autos,resell,,,high,low,8,"Xiamen ChinaSource Internet Service Co., Ltd",22/11/2025 08:19,22/11/2026 23:59,08/10/2026 06:17
 23a791f2-1006-4b33-b3b8-9e25e9bd25ed,shop.promo,premium,3450,3450,high,medium,4,namesilo,,,24/09/2026 21:43
 418f96a9-f25c-4467-81b1-90ffa8b0619d,shop.exchange,resell,,,high,medium,4,Dynadot Inc,27/06/2020 22:03,27/06/2027 22:03,26/09/2026 08:59
 2c8ba653-074d-415e-8fec-7f872354a52f,shop.rest,premium,6210,6210,high,medium,4,namesilo,,,24/09/2026 21:43
@@ -798,15 +827,18 @@ e802dff0-5463-4d59-bd4b-2a47492dd7b3,shop.mov,premium,1298.7,1298.7,high,medium,
 49cb4502-79aa-43a8-8b9e-1210db0b5ede,outlet.global,premium,1242.2,51.95,high,low,6,spaceship,,,29/09/2026 17:56
 afded985-8892-43cf-9856-f9e1470f90f4,outlet.spot,premium,103.7,103.7,high,low,6,spaceship,,,29/09/2026 17:56
 2652f410-37d9-4338-beb3-566a3b0331b0,outlet.surf,premium,83,26.08,high,low,6,spaceship,,,29/09/2026 17:56
+5534e7c2-6980-41b5-add6-e193896ceb27,commerce.tax,premium,207.2,207.2,high,low,8,spaceship,,,08/10/2026 06:17
+3b4c33bc-a9ef-45bf-99ea-efd890dd73d4,commerce.network,resell,,,high,low,8,Dynadot Inc,20/06/2018 12:13,20/06/2027 12:13,08/10/2026 06:17
 df3bdf7a-f549-486c-8fb4-76e8a36d514c,shop.memorial,premium,85.8,85.8,high,medium,4,namecheap,,,24/09/2026 21:43
 20560607-259e-4944-a4d3-e13ca4195447,outlet.lease,available,58.98,73.98,high,low,6,namecheap,,,29/09/2026 17:56
 5f8e7343-f00f-4c67-a5eb-007d3208a53f,shopping.market,premium,3250,3250,high,low,8,namecheap,,,30/09/2026 11:13
-5e33148d-6c28-446e-9d71-d69a3e71650c,retail.reviews,resell,,,high,low,6,"GoDaddy.com, LLC",22/07/2020 19:33,22/07/2027 19:33,07/10/2026 11:29
 716928ea-d7cb-410f-9ef1-6cc419cf5586,outlet.guitars,available,93.35,103.4,high,low,6,spaceship,,,29/09/2026 17:56
 96ec0f0f-43da-4013-987d-8c02e9c1b8e5,commerce.marketing,resell,,,high,low,8,"Sav.com, LLC - 40",30/05/2026 15:16,30/05/2027 15:16,08/10/2026 06:17
+926955d3-a43c-4a83-a1d0-179f609a253b,boutique.promo,premium,2500.5,3250,high,low,8,unstoppable,,,09/10/2026 02:49
 0a9e3e16-8a6a-4242-bac2-cffe150d8687,market.inc,premium,2015,2600,high,medium,6,namecheap,,,19/09/2026 13:41
 fc0ed486-1ba4-4a4c-8995-de8fd32be9ab,outlet.store,premium,10000.2,,high,low,6,unstoppable,,,29/09/2026 17:56
 5db149fd-59f4-445e-80a9-eec577b9cd42,retail.tours,resell,,,high,low,6,Dynadot Inc,27/07/2025 17:00,27/07/2027 17:00,07/10/2026 11:29
+9c9e66b4-764a-47b8-a1d5-725e14a0b08e,trade.storage,available,509.99,529.99,high,medium,5,namesilo,,,08/10/2026 16:34
 16d2023c-9953-43fa-89f2-8d94fce60ca2,market.villas,premium,118.8,118.8,high,medium,6,namesilo,,,19/09/2026 13:41
 7eeb1f41-0196-4b6f-95d1-8fa5448ade41,shop.gratis,premium,118.8,118.8,high,medium,4,namesilo,,,24/09/2026 21:43
 309c38c7-df65-48a4-9ba8-c389fc895c1b,trade.london,premium,1162.87,27.96,high,medium,5,dynadot,,,08/10/2026 16:34
@@ -828,7 +860,7 @@ ca13559d-6c2d-4e8e-a298-ecbfb90f786d,commerce.tours,available,5.38,49.88,high,lo
 fea5092e-7d3d-4e57-a4a7-2294f44f9815,commerce.boo,premium,249.2,257.92,high,low,8,unstoppable,,,08/10/2026 06:17
 d7511b69-4057-4c9d-acec-1f6f58b6a253,commerce.foo,premium,133.72,133.72,high,low,8,spaceship,,,08/10/2026 06:17
 916ebcb7-9d35-452e-ba3b-4b5f8b297bb4,retail.catering,available,31.25,31.25,high,low,6,spaceship,,,07/10/2026 11:29
-9711902d-8a70-4bca-8c8b-0241e8881672,sales.sale,premium,1035.2,1035.2,high,medium,5,spaceship,,,06/10/2026 13:40
+9711902d-8a70-4bca-8c8b-0241e8881672,sales.sale,premium,1035.2,1035.2,high,medium,5,spaceship,,,09/10/2026 11:44
 9e8c99d4-cc98-464d-811c-cd223a9b3a64,commerce.theater,available,51.95,51.95,high,low,8,spaceship,,,08/10/2026 06:17
 d84ab490-977b-41a6-82bb-d5ddb369cb4a,outlet.jewelry,available,10.81,52.01,high,low,6,porkbun,,,29/09/2026 17:56
 7e9d8695-368a-4b39-9fd4-8b11195d56b0,market.claims,available,17.99,64.99,high,medium,6,namesilo,,,19/09/2026 13:41
@@ -851,22 +883,24 @@ e335f1c9-f24b-426b-ab65-18986b9686af,shopping.promo,premium,3125,,high,low,8,nam
 77a6dabd-8a8a-47ff-852d-5f8bf00a302a,trade.markets,premium,,,high,medium,5,,,,08/10/2026 16:34
 28bc7a7f-ce78-4dd0-92d7-6012cc331fb9,shopping.men,premium,448,53.92,high,low,8,namesilo,,,30/09/2026 11:13
 ed987485-eb5d-4527-91af-bd1e6b2d5395,goods.deal,premium,100.5,130,high,low,5,unstoppable,,,02/10/2026 16:24
+8bdb2f4e-a249-46c2-9427-01d0dea1b5cf,market.schule,available,28.99,28.99,high,medium,6,namesilo,,,19/09/2026 13:41
 37daa8d0-bcb0-4b14-8a2f-7d7f04faf787,shop.mortgage,premium,242,242,high,medium,4,namesilo,,,24/09/2026 21:43
 130a64d5-e385-4ace-be9b-3d088b686bcd,outlet.adult,available,52.01,98.35,high,low,6,porkbun,,,29/09/2026 17:56
 793f06ec-66d1-4975-8ac9-db825cc9b592,outlet.racing,premium,103.7,103.7,high,low,6,spaceship,,,29/09/2026 17:56
 61685884-e86d-426b-8eed-0ed3627069bb,commerce.barcelona,available,44.99,44.99,high,low,8,godaddy,,,08/10/2026 06:17
+8b34a5f3-0ea8-40f6-80a3-826dc45fcdab,market.plumbing,available,72.99,72.99,high,medium,6,namesilo,,,19/09/2026 13:41
 7eef313b-6dbc-4003-be83-7788102a753a,commerce.flowers,available,93.35,103.4,high,low,8,spaceship,,,08/10/2026 06:17
 cb9f0195-5078-49a8-98ae-07928257431d,outlet.forum,premium,130,130,high,low,6,namecheap,,,29/09/2026 17:56
 c1f56477-bba3-4fdf-b546-f6fefc76278f,commerce.gay,available,2.99,38.99,high,low,8,namesilo,,,08/10/2026 06:17
 ba1c8bd1-004d-4590-b856-ab0f911971dd,shop.london,premium,7307.54,31.25,high,medium,4,namesilo,,,24/09/2026 21:43
 2c12c344-7440-4667-b8a7-5966d9065956,shopping.furniture,premium,242,242,high,low,8,namesilo,,,30/09/2026 11:13
 dba0ddaf-1437-41be-8864-e86f7d3133b7,outlet.tours,available,5.66,49.95,high,low,6,porkbun,,,29/09/2026 17:56
+1846f93b-cd64-493a-b982-929a1bb2b0e7,boutique.us,resell,,,high,low,8,"GoDaddy.com, LLC",24/04/2002 14:16,23/04/2027 23:59,09/10/2026 02:49
 ab014efd-949d-4a04-aab8-0b1d44452f9f,shop.irish,resell,,,high,medium,4,Dynadot Inc,19/05/2022 13:15,19/05/2027 13:15,26/09/2026 08:59
 fe3a22f1-bb28-430d-a611-ed50e718ea7e,shopping.deals,premium,854,854,high,low,8,namesilo,,,30/09/2026 11:13
 e97f7a43-9935-420b-897d-1eb9d3e48ad4,shopping.ninja,premium,242,242,high,low,8,namesilo,,,30/09/2026 11:13
 1909dbce-32f0-4ecc-b7ca-ede604e94ab6,commerce.london,resell,,,high,low,8,"Spaceship, Inc.",09/03/2024 21:24,09/03/2027 23:59,08/10/2026 06:17
-30533931-06e1-476a-88de-9f32c5ea2087,retail.insure,available,56.2,56.2,high,low,6,cloudflare,,,07/10/2026 11:29
-311e72b1-75b3-4bf2-b6fc-863f0592cb28,merchandise.blackfriday,available,107.22,107.22,high,low,11,dynadot,,,05/10/2026 14:03
+311e72b1-75b3-4bf2-b6fc-863f0592cb28,merchandise.blackfriday,available,114.99,114.99,high,low,11,namesilo,,,09/10/2026 17:03
 f095be00-454d-4fa1-aa90-249d81875bf6,market.deal,premium,1300,1300,high,medium,6,namecheap,,,19/09/2026 13:41
 3e81b02b-e55b-44cc-a59e-5c241dba3f54,outlet.shop,premium,12500,,high,low,6,name.com,,,29/09/2026 17:56
 14928351-b649-4dcc-aa41-fae7c29202e2,shop.bid,resell,,,high,medium,4,"Global Domains International, Inc. DBA DomainCostClub.com",26/07/2019 14:26,26/07/2030 14:26,26/09/2026 08:59
@@ -876,36 +910,38 @@ f095be00-454d-4fa1-aa90-249d81875bf6,market.deal,premium,1300,1300,high,medium,6
 300482ac-ba8f-4c13-b4c5-80262458cc3c,outlet.dance,available,10.48,36.98,high,low,6,namecheap,,,29/09/2026 17:56
 89484448-9ef1-4f48-af9b-c8dc5cb770f5,shopping.horse,premium,5000,,high,low,8,name.com,,,30/09/2026 11:13
 74952eb1-ad02-4002-90d6-cf25874ef9c2,outlet.tickets,available,326.21,388.33,high,low,6,spaceship,,,29/09/2026 17:56
+7f844f85-6966-4e27-8b6a-e01be9ad116d,market.accountants,premium,512,512,high,medium,6,namesilo,,,19/09/2026 13:41
 55102794-85a9-4abd-ac46-8ffbfa7fd6c0,market.equipment,resell,,,high,medium,6,Dynadot Inc,02/05/2025 15:15,02/05/2027 15:15,26/09/2026 07:26
 bcb13781-c3ce-4383-9f75-ca72e8591182,outlet.actor,available,8.48,35.39,high,low,6,spaceship,,,29/09/2026 17:56
 77138032-fb48-4ff8-9d5a-982f065ca55a,outlet.domains,premium,85.8,85.8,high,low,6,namecheap,,,29/09/2026 17:56
 e741db00-acce-4e20-b3fd-199bf3c629c8,outlet.holdings,available,51.95,51.95,high,low,6,spaceship,,,29/09/2026 17:56
 4b7eb608-c54d-4bfb-bb92-e359ae977f05,market.cars,available,1999.99,2199,high,medium,6,namesilo,,,19/09/2026 13:41
+274decc9-add3-4cb8-a264-24215aec85cf,market.futbol,available,7.49,17.99,high,medium,6,namesilo,,,19/09/2026 13:41
 c4a329bf-1f5e-4ab4-8d4a-ff4bdf59a584,trade.us,resell,,,high,medium,5,Porkbun,24/04/2002 14:01,23/04/2027 23:59,08/10/2026 16:34
-8a62f963-e319-4421-8668-33d583911745,retail.soccer,available,20.2,20.2,high,low,6,cloudflare,,,07/10/2026 11:29
 3ea0ac5c-2b4f-4469-93d5-2431f171f2dc,commerce.moda,available,63.99,63.99,high,low,8,godaddy,,,08/10/2026 06:17
-e552f380-79ad-4713-b047-196a2fd41a40,retail.attorney,available,49.88,49.88,high,low,6,spaceship,,,07/10/2026 11:29
+e76177e8-6ca2-4d1c-aeec-564f68e71eaa,trade.rodeo,premium,242,11.8,high,medium,5,namesilo,,,08/10/2026 16:34
+67269319-33f8-414a-9178-237b0a31b1b3,market.careers,available,34.99,71.99,high,medium,6,namesilo,,,19/09/2026 13:41
 90d58aec-aac0-4441-9af1-1db111dfef5d,shop.cricket,premium,13800,116,high,medium,4,namesilo,,,24/09/2026 21:43
-e0692f41-a88b-49ee-9614-f3828699317e,merchandise.tienda,available,5.57,49.44,high,low,11,dynadot,,,05/10/2026 14:03
-42e5826d-a218-4dc1-a67c-978810f6e4b6,retail.organic,available,17,68.49,high,low,6,unstoppable,,,07/10/2026 11:29
+e0692f41-a88b-49ee-9614-f3828699317e,merchandise.tienda,available,47.81,47.81,high,low,11,spaceship,,,09/10/2026 17:03
+114ed89c-df3c-4a9c-a949-59437062ec20,trade.webcam,premium,640,77.35,high,medium,5,namesilo,,,08/10/2026 16:34
+bb0c42d6-b32d-4341-a9ac-37f6bb17ce04,trade.consulting,premium,207.2,414.2,high,medium,5,spaceship,,,08/10/2026 16:34
 fa751e85-5ca2-4474-a1f9-ad20c34ac8e8,outlet.car,available,2070,2400,high,low,6,namecheap,,,29/09/2026 17:56
 b46199c6-da5d-4ad1-9a8d-6d86b0f252fb,commerce.deal,premium,500.5,517.7,high,low,8,unstoppable,,,08/10/2026 06:17
 83b7d2ca-ccd9-481f-aee2-7be42ef8a19b,outlet.kaufen,premium,118.8,118.8,high,low,6,namesilo,,,29/09/2026 17:56
-e2bc508f-9a6c-45c3-ae98-5f58af779732,retail.yoga,premium,512,29.5,high,low,6,namesilo,,,07/10/2026 11:29
-f01e74e2-d717-42d4-88a3-f5681ef71905,retail.guitars,available,93.35,103.4,high,low,6,spaceship,,,07/10/2026 11:29
+f02b775a-682d-4423-b17f-644af99d28a4,trade.university,resell,,,high,medium,5,"Sav.com, LLC - 15",27/08/2026 15:15,27/08/2027 15:15,08/10/2026 16:34
 60d79add-6455-43b0-a84f-da4bba89fae1,mall.trade,resell,,,high,low,4,"Spaceship, Inc.",29/07/2019 13:11,29/07/2027 13:11,30/09/2026 03:46
 c927786e-bc57-4225-9d72-c6ec7549c7b1,commerce.digital,resell,,,high,low,8,"NameCheap, Inc.",25/04/2026 15:15,25/04/2027 15:15,08/10/2026 06:17
-851e2464-d4c5-4ea8-a27f-9827affe0416,retail.football,available,20.9,20.9,high,low,6,spaceship,,,07/10/2026 11:29
 bea887d0-358d-4153-be36-fa94d878f757,shop.dating,premium,118.8,118.8,high,medium,4,namesilo,,,24/09/2026 21:43
 408128da-b2e4-44bf-9604-b371beea55c6,trade.contact,resell,,,high,medium,5,Dynadot Inc,09/08/2025 15:15,09/08/2027 15:15,08/10/2026 16:34
 c79fd569-040f-4be1-8410-935cce511f56,trade.spot,premium,2750,2750,high,medium,5,dynadot,,,08/10/2026 16:34
 245c2a93-7de1-49f0-b125-56702fe5985d,mall.sale,premium,512,512,high,low,4,namesilo,,,30/09/2026 03:46
 5935d0c6-3a7b-432d-bde5-85da6260da47,shop.codes,resell,,,high,medium,4,"Sav.com, LLC - 21",11/05/2023 15:15,11/05/2027 15:15,26/09/2026 08:59
 a9f431a3-ebf0-4ac5-9913-ea7f6b6dce94,shop.sarl,premium,38.94,38.94,high,medium,4,namesilo,,,24/09/2026 21:43
-e25130dd-feed-411d-b885-82b1257fe0e4,retail.golf,available,7.49,64.99,high,low,6,namesilo,,,07/10/2026 11:29
 a45d8a49-1560-450a-a156-a546d23490b5,commerce.holiday,available,64.99,64.99,high,low,8,namesilo,,,08/10/2026 06:17
+1e12b199-e254-487c-b1ac-2ce5e410f6b5,trade.vacations,available,31.25,31.25,high,medium,5,spaceship,,,08/10/2026 16:34
 36c9ad5f-0211-46e6-bfbd-3efa7066c9bf,buyer.blackfriday,available,103.7,103.7,high,low,5,spaceship,,,29/09/2026 05:39
 37780f50-1129-4419-8c5c-25cc1c5e5598,market.berlin,available,79.98,89.98,high,medium,6,namecheap,,,19/09/2026 13:41
+5f07549b-8d4e-426a-8f86-635d7bc517a2,mall.parts,available,10.48,45.98,high,low,4,namecheap,,,30/09/2026 03:46
 187b507d-98fb-4617-90dc-9e6f7381ad96,trade.hot,premium,517.7,517.7,high,medium,5,spaceship,,,08/10/2026 16:34
 81961761-c1ea-4b7c-ac32-cac46e6fa4f5,outlet.dating,available,12.98,86.98,high,low,6,namecheap,,,29/09/2026 17:56
 0d184672-896d-4d69-b7ef-f82f9eef6fa5,commerce.phd,premium,329.2,427.7,high,low,8,unstoppable,,,08/10/2026 06:17
@@ -920,6 +956,7 @@ af432a63-f538-4b99-a8e7-81d6e13de958,commerce.film,premium,116,116,high,low,8,na
 65795ec4-54f3-4da2-a08b-df9e20e3b448,outlet.xyz,resell,,,high,low,6,"GoDaddy.com, LLC",03/08/2021 06:22,03/08/2027 23:59,29/09/2026 17:56
 d93a022e-e7b5-4744-88ae-f4722e50eced,shopping.sucks,premium,20700,2658.67,high,low,8,namesilo,,,30/09/2026 11:13
 e89b0ef7-4032-4e54-878d-1c25b467d978,shopping.kaufen,available,5.99,26.99,high,low,8,namesilo,,,30/09/2026 11:13
+6bd859b2-6940-4963-9125-d397e9e1d51a,mall.condos,available,58.99,58.99,high,low,4,namesilo,,,30/09/2026 03:46
 0e63c53e-a23d-4e87-a246-0658316911e1,commerce.llc,premium,250.5,275,high,low,8,unstoppable,,,08/10/2026 06:17
 28d2bfa1-a5f9-4280-8316-537ecdce30a1,shopping.me,resell,,,high,low,8,Dynadot Inc,29/04/2008 18:02,29/04/2027 18:02,30/09/2026 11:13
 5a763ea1-1c6f-4c97-9555-21d05e7c0b78,outlet.sexy,available,2587.7,2587.7,high,low,6,spaceship,,,29/09/2026 17:56
@@ -930,6 +967,7 @@ d1f7a698-d975-4444-b856-40d1c52811fc,trade.software,premium,414.2,414.2,high,med
 36090bec-27e2-4c69-948a-caf690ff587c,outlet.shoes,premium,207.2,207.2,high,low,6,spaceship,,,29/09/2026 17:56
 b69481ed-7f30-458a-986b-237541293831,outlet.band,premium,118.8,118.8,high,low,6,namesilo,,,29/09/2026 17:56
 faa6ae27-ad0b-42fe-9419-5f4f4945ac22,customer.store,premium,3450,3450,high,low,8,namesilo,,,08/10/2026 01:54
+9089d54e-d177-45b8-a53e-b185099d1894,sale.supply,premium,68.51,68.51,high,low,4,spaceship,,,29/09/2026 13:09
 08326cb9-d0af-46c7-a85a-f7b9453edd1a,trade.horse,premium,828.2,26.08,high,medium,5,spaceship,,,08/10/2026 16:34
 771b2c72-6e98-4db4-aa4f-52f3352efb6a,mall.website,premium,1562.5,,high,low,4,name.com,,,30/09/2026 03:46
 880cbebd-86f2-48dc-aacb-bdafe90b794d,retailer.forsale,premium,118.8,118.8,high,low,8,namesilo,,,08/10/2026 09:26
@@ -942,6 +980,7 @@ db6b4971-3f36-4fa6-82fa-e763752d7897,goods.blackfriday,available,114.99,114.99,h
 686e159c-cdbe-44da-a68f-f6ea08656992,market.moi,premium,1107,1107,high,medium,6,namesilo,,,19/09/2026 13:41
 74429f56-181a-45b2-ae33-172e4778a788,commerce.movie,available,47.99,349.99,high,low,8,namesilo,,,08/10/2026 06:17
 cb198e73-270d-493f-8682-7f64ba988d23,outlet.talk,premium,124.4,124.4,high,low,6,spaceship,,,29/09/2026 17:56
+613a7174-df7e-4aa8-99fa-cd7e5626d046,shopping.wedding,premium,96,29.5,high,low,8,namesilo,,,30/09/2026 11:13
 a491bc36-9406-4c6f-a6bb-e9771a82c5ae,shopping.ooo,resell,,,high,low,8,Porkbun LLC,10/04/2019 11:42,10/04/2027 23:59,30/09/2026 11:13
 67367b9e-a44c-42eb-a997-2831928789c6,outlet.memorial,available,41.6,41.6,high,low,6,spaceship,,,29/09/2026 17:56
 b7f0178b-c53a-432f-a74d-8baec4ca184d,outlet.ooo,premium,55.1,22.35,high,low,6,porkbun,,,29/09/2026 17:56
@@ -951,51 +990,12 @@ c0dbe064-7812-4690-b9c6-9df74fcc2374,outlet.contractors,available,28.15,28.15,hi
 c045aed0-1e67-4f2f-b5cb-7b8d769a57bc,outlet.video,premium,220,220,high,low,6,dynadot,,,29/09/2026 17:56
 a104675c-78a6-4897-a4fd-ec63194bf8be,mall.nyc,premium,5500,26.97,high,low,4,dynadot,,,30/09/2026 03:46
 ed4cca45-c9f4-4125-bc27-2ae016bcbdcd,market.build,premium,1950,1950,high,medium,6,namecheap,,,19/09/2026 13:41
+cd5cb6c8-fbf9-4c62-ae59-ae5b63214250,goods.fashion,premium,83,26.08,high,low,5,spaceship,,,02/10/2026 16:24
+4973476f-2ae8-4149-935e-0fcafbd90efd,customer.boutique,available,5.99,32.99,high,low,8,namesilo,,,08/10/2026 01:54
 9a9bd99b-9489-41f4-9fed-18970a25dc70,commerce.nyc,premium,1035.2,26.08,high,low,8,spaceship,,,08/10/2026 06:17
 80d34933-f2a5-4e20-bf1d-7427e2fe2c63,shopping.store,premium,6900,6900,high,low,8,namesilo,,,30/09/2026 11:13
 7db38881-e77e-48e5-81d7-9ac21ff3a8a2,market.voting,available,1398,1448,high,medium,6,namecheap,,,19/09/2026 13:41
+2ea265aa-e5ec-40a5-887b-c0b48dd440ab,shopping.institute,available,21.2,21.2,high,low,8,cloudflare,,,30/09/2026 11:13
 91aae06e-d495-4e1c-81d3-be1c655f3c28,shopping.cloud,premium,2070.2,10350.2,high,low,8,spaceship,,,30/09/2026 11:13
 376afb1d-2890-470e-a954-6e7e54d30788,outlet.money,available,10.88,29.01,high,low,6,dynadot,,,29/09/2026 17:56
 2a7317c5-ffb8-4eed-bbdf-228e77ef028d,shopping.gallery,resell,,,high,low,8,,,,30/09/2026 11:13
-4db48696-f39a-46c1-b0af-db89c6264987,outlet.promo,premium,2750,2750,high,low,6,dynadot,,,29/09/2026 17:56
-27876387-4564-4ec7-95ce-bdc99b30626b,trade.cash,resell,,,high,medium,5,"Go Australia Domains, LLC",20/08/2014 16:00,20/08/2027 16:00,08/10/2026 16:34
-d5c23a1b-73e9-4f86-b9c5-e873390d53b0,market.attorney,premium,3900,3900,high,medium,6,namecheap,,,19/09/2026 13:41
-b8883d25-0b4d-4bdf-ab75-9028965e604f,trade.ninja,resell,,,high,medium,5,Dynadot Inc,07/08/2018 03:37,07/08/2027 03:37,08/10/2026 16:34
-32382509-047a-46ed-af83-e8fdeb4ad8b0,commerce.discount,available,30.99,30.99,high,low,8,namesilo,,,08/10/2026 06:17
-1f2964a1-02a4-43b3-83e5-bc087bfb9678,commerce.money,resell,,,high,low,8,Dynadot Inc,13/05/2021 16:29,13/05/2027 16:29,08/10/2026 06:17
-e11aed40-7e58-42a7-a2a8-6011dcd38c7f,market.boo,premium,648.7,648.7,high,medium,6,namecheap,,,19/09/2026 13:41
-5a8bfac0-64c9-4971-8d42-ea36dc27b603,commerce.fun,premium,258.95,1035.2,high,low,8,spaceship,,,08/10/2026 06:17
-1e8368ed-bd4f-4cf2-9113-d493d04c65ed,market.healthcare,premium,512,512,high,medium,6,namesilo,,,19/09/2026 13:41
-860f677a-afb1-41b9-a773-3ac13a9396bd,trade.deal,premium,517.7,517.7,high,medium,5,spaceship,,,08/10/2026 16:34
-891ac144-093c-4c11-818b-a350b205acca,outlet.insure,available,76.98,91.98,high,low,6,namecheap,,,29/09/2026 17:56
-14a65bad-c39c-42e5-9bb3-d6f4ed3b3cc0,outlet.movie,available,270.2,270.2,high,low,6,cloudflare,,,29/09/2026 17:56
-fa911ada-a90f-48d9-a956-3347cff1037e,mall.deal,premium,116,116,high,low,4,namesilo,,,30/09/2026 03:46
-a194a003-6543-4034-8854-f5c172432a58,mall.furniture,available,80.2,80.2,high,low,4,cloudflare,,,30/09/2026 03:46
-87b9a33e-524f-4cc7-a231-9864fc39cbc2,outlet.pw,resell,,,high,low,6,,,,29/09/2026 17:56
-2649dbc0-1455-4f7d-8b65-6a8f1d68a111,trade.cleaning,available,75.49,75.49,high,medium,5,namesilo,,,08/10/2026 16:34
-76d4c129-657a-476b-bf75-7b318e717e23,commerce.markets,available,7,15.73,high,low,8,unstoppable,,,08/10/2026 06:17
-a6270ce5-e268-4c82-968d-9fabf47ea240,shop.earth,resell,,,high,medium,4,Porkbun,22/12/2023 00:00,22/12/2026 00:00,26/09/2026 08:59
-c24c129f-4143-4fe1-9832-81aac8415fd6,trade.skin,premium,715,715,high,medium,5,dynadot,,,08/10/2026 16:34
-50389e09-453d-435d-8337-66b677cbda5f,market.car,available,2070,2400,high,medium,6,namecheap,,,19/09/2026 13:41
-bef02dbf-f1a7-46e3-8e78-40b7581ce979,shop.catering,available,38.99,38.99,high,medium,4,namesilo,,,24/09/2026 21:43
-4fc82638-feda-4e34-825c-5ca3f4464ed8,market.health,premium,9750,78,high,medium,6,namecheap,,,19/09/2026 13:41
-c182c22e-327e-4109-af78-0744edd1247c,boutique.forsale,premium,99.5,118.8,high,low,8,unstoppable,,,09/10/2026 02:49
-99003bd3-4edf-466a-a1df-c1b9a3d2fcc5,market.yoga,resell,,,high,medium,6,Nameslink (Hong Kong) Private Limited,03/10/2026 22:07,03/10/2027 22:07,05/10/2026 04:38
-bccb96f7-ed9a-4a64-af0a-88b976ff2228,commerce.promo,available,14.49,24.99,high,low,8,namesilo,,,08/10/2026 06:17
-15a7df9c-463e-4a9c-a63f-2395b93403c0,mall.ryukyu,available,17.98,22.98,high,low,4,namecheap,,,30/09/2026 03:46
-ce4eabdb-1f0a-4dde-9049-8be9d7f6bdf1,commerce.beauty,resell,,,high,low,8,Dynadot Inc,05/06/2026 14:55,05/06/2027 23:59,08/10/2026 06:17
-2f59db20-66c3-47ae-97d5-a11cc03ef62a,trade.host,premium,550,1100,high,medium,5,dynadot,,,08/10/2026 16:34
-591053aa-4d08-46b7-ae6b-fe3ebca62f55,shopping.mobile,premium,1035.2,1035.2,high,low,8,spaceship,,,30/09/2026 11:13
-377a34fa-5c9b-4c11-a0ff-a19d9ea9843e,shopping.icu,resell,,,high,low,8,united-domains GmbH,01/12/2024 08:48,01/12/2026 23:59,30/09/2026 11:13
-50b3f032-a6c8-4f0f-b359-98616ec1c642,commerce.gift,premium,153.6,153.6,high,low,8,namesilo,,,08/10/2026 06:17
-9c1c1042-bf63-469b-8bb7-263458f6fd7c,market.consulting,premium,512,512,high,medium,6,namesilo,,,19/09/2026 13:41
-48108e56-73a4-4fc3-8364-2acebd86203e,outlet.free,premium,517.7,517.7,high,low,6,spaceship,,,29/09/2026 17:56
-5aa09f66-9120-4a77-ba35-133a0151eb4b,trade.glass,resell,,,high,medium,5,Porkbun LLC,27/05/2015 11:19,27/05/2027 11:19,08/10/2026 16:34
-31c19fbf-995d-493c-94d5-5e0270125a9c,market.adult,resell,,,high,medium,6,"Name.com, Inc.",09/06/2017 14:30,09/06/2027 14:30,26/09/2026 07:26
-03515645-8c54-48da-a45c-2a441712aee3,outlet.theatre,available,465.95,500.18,high,low,6,spaceship,,,29/09/2026 17:56
-4a56d342-1c95-4a98-9d9a-cc205b3be44f,market.review,premium,13800,116,high,medium,6,namesilo,,,19/09/2026 13:41
-bc1b9efe-25b1-4074-afc0-941354b7a0d6,shopping.buzz,premium,414.2,103.7,high,low,8,spaceship,,,30/09/2026 11:13
-637de663-7d8e-496e-9f0c-641946534bc9,outlet.realty,available,88.18,289.16,high,low,6,spaceship,,,29/09/2026 17:56
-9e8f21f8-f8d3-4bb7-ac8b-5fefba2a81a1,market.site,premium,13800,13800,high,medium,6,namesilo,,,19/09/2026 13:41
-c1bb8fb9-7122-4796-b11f-6e26ba08fd13,commerce.credit,available,80.2,80.2,high,low,8,cloudflare,,,08/10/2026 06:17
-71c59f41-a278-47c3-9057-80c819b0efff,shop.you,premium,6900,6900,high,medium,4,namesilo,,,24/09/2026 21:43

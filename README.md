@@ -1,10 +1,10 @@
-# One-Word Retail Domain Names Across 500+ TLDs (204,323)
+# One-Word Retail Domain Names Across 500+ TLDs (207,061)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-204%2C323%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-207%2C061%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers 169,571 one-word domain names associated with retail, spanning 506 different TLDs. The median asking price across the list is roughly $929. Updated daily, it ranges from mainstream .com options to niche category-specific extensions.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **204,323 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **207,061 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 204,323 domains · **Median ask:** $310.61 · **High-demand under $2,500:** 230
+**Public extract:** 1,000 rows · **Live catalog:** 207,061 domains · **Median ask:** $307.54 · **High-demand under $2,500:** 231
 
-**Last updated:** 2026-10-08
+**Last updated:** 2026-10-10
 **Canonical page:** `https://unique.domains/domains/sector/retail`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| mall.furniture | available | $80.20    | $80.20        | high           | low    | 4      | cloudflare                                                |
-| store.co       | resell    | $569,250  | $48.99        | high           | medium | 5      | Key-Systems GmbH                                          |
-| mall.deal      | premium   | $116      | $116          | high           | low    | 4      | namesilo                                                  |
-| mall.kaufen    | available | $23.94    | $23.94        | high           | low    | 4      | spaceship                                                 |
-| retail.info    | resell    | $4,145.75 | —             | high           | low    | 6      | Porkbun LLC                                               |
-| mall.nyc       | premium   | $5,500    | $26.97        | high           | low    | 4      | dynadot                                                   |
-| mall.ryukyu    | available | $17.98    | $22.98        | high           | low    | 4      | namecheap                                                 |
-| mall.trade     | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                           |
-| mall.online    | premium   | $13,800   | $13,800       | high           | low    | 4      | namesilo                                                  |
-| mall.tienda    | available | $46.20    | $46.20        | high           | low    | 4      | cloudflare                                                |
-| shop.ac        | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                               |
-| mall.promo     | premium   | $3,125    | —             | high           | low    | 4      | name.com                                                  |
-| shop.auto      | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo                                                  |
-| shop.adult     | resell    | —         | —             | high           | medium | 4      | Name.com, Inc.                                            |
-| mall.sale      | premium   | $512      | $512          | high           | low    | 4      | namesilo                                                  |
-| shop.car       | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo                                                  |
-| shop.bid       | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| mall.website   | premium   | $1,562.50 | —             | high           | low    | 4      | name.com                                                  |
-| shop.catering  | available | $38.99    | $38.99        | high           | medium | 4      | namesilo                                                  |
-| shop.biz       | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                                          |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| mall.condos  | available | $58.99    | $58.99        | high           | low    | 4      | namesilo                                                  |
+| store.co     | resell    | $569,250  | $48.99        | high           | medium | 5      | Key-Systems GmbH                                          |
+| mall.nyc     | premium   | $5,500    | $26.97        | high           | low    | 4      | dynadot                                                   |
+| mall.kaufen  | available | $23.94    | $23.94        | high           | low    | 4      | spaceship                                                 |
+| retail.info  | resell    | $4,145.75 | —             | high           | low    | 6      | Porkbun LLC                                               |
+| mall.online  | premium   | $13,800   | $13,800       | high           | low    | 4      | namesilo                                                  |
+| mall.parts   | available | $10.48    | $45.98        | high           | low    | 4      | namecheap                                                 |
+| mall.trade   | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                           |
+| mall.promo   | premium   | $3,125    | —             | high           | low    | 4      | name.com                                                  |
+| mall.tienda  | available | $46.20    | $46.20        | high           | low    | 4      | cloudflare                                                |
+| shop.ac      | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                               |
+| mall.sale    | premium   | $512      | $512          | high           | low    | 4      | namesilo                                                  |
+| shop.auto    | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo                                                  |
+| shop.adult   | resell    | —         | —             | high           | medium | 4      | Name.com, Inc.                                            |
+| mall.website | premium   | $1,562.50 | —             | high           | low    | 4      | name.com                                                  |
+| shop.car     | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo                                                  |
+| shop.bid     | resell    | —         | —             | high           | medium | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
+| sale.supply  | premium   | $68.51    | $68.51        | high           | low    | 4      | spaceship                                                 |
+| shop.claims  | available | $17.99    | $64.99        | high           | medium | 4      | namesilo                                                  |
+| shop.biz     | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 204,323 live domains                                 |
+| 1,000-row public sample | 207,061 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 230 high-demand names under $2,500                   |
+| Basic exported fields   | 231 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Retail Domain Names Across 500+ TLDs*. Version 2026-10-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Retail Domain Names Across 500+ TLDs*. Version 2026-10-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
