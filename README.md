@@ -1,10 +1,10 @@
-# One-Word Retail Domain Names Across 500+ TLDs (210,258)
+# One-Word Retail Domain Names Across 500+ TLDs (210,232)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-210%2C258%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-210%2C232%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers 169,571 one-word domain names associated with retail, spanning 506 different TLDs. The median asking price across the list is roughly $929. Updated daily, it ranges from mainstream .com options to niche category-specific extensions.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **210,258 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **210,232 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 210,258 domains · **Median ask:** $294.75 · **High-demand under $2,500:** 4,953
+**Public extract:** 1,000 rows · **Live catalog:** 210,232 domains · **Median ask:** $294.55 · **High-demand under $2,500:** 4,956
 
-**Last updated:** 2026-10-29
+**Last updated:** 2026-10-30
 **Canonical page:** `https://unique.domains/domains/sector/retail`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| mall.barcelona  | available | $25.04    | $25.04        | high           | low    | 4      | spaceship                                               |
-| outlet.network  | resell    | $7.99     | —             | high           | low    | 6      | name.com                                                |
-| mall.store      | premium   | $1,293.95 | $5,175.20     | high           | low    | 4      | spaceship                                               |
-| mall.hamburg    | available | $69.98    | $73.98        | high           | low    | 4      | namecheap                                               |
-| retail.info     | resell    | $4,145.75 | —             | high           | medium | 6      | Porkbun LLC                                             |
-| sale.store      | premium   | $6,900    | $6,900        | high           | low    | 4      | namesilo                                                |
-| mall.storage    | available | $509.99   | $529.99       | high           | low    | 4      | namesilo                                                |
-| mall.im         | resell    | —         | —             | high           | low    | 4      | —                                                       |
-| shop.accountant | premium   | $640      | $77.35        | high           | medium | 4      | namesilo                                                |
-| sale.tienda     | available | $59.99    | $59.99        | high           | low    | 4      | namesilo                                                |
-| sale.coupons    | resell    | —         | —             | high           | low    | 4      | —                                                       |
-| shop.actor      | premium   | $78.54    | $78.54        | high           | medium | 4      | namesilo                                                |
-| shop.auto       | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo                                                |
-| shop.ac         | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                             |
-| shop.apartments | premium   | $118.80   | $118.80       | high           | medium | 4      | namesilo                                                |
-| shop.car        | available | $1,999.99 | $2,199        | high           | medium | 4      | namesilo                                                |
-| shop.associates | resell    | —         | —             | high           | medium | 4      | Dynadot Inc                                             |
-| shop.attorney   | premium   | $4,140    | $4,140        | high           | medium | 4      | namesilo                                                |
-| shop.catering   | available | $38.99    | $38.99        | high           | medium | 4      | namesilo                                                |
-| shop.beer       | resell    | —         | —             | high           | medium | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| domain          | status    | ask_price   | renewal_price | attractiveness | demand | length | registrar                                               |
+| --------------- | --------- | ----------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| mall.kaufen     | available | $23.94      | $23.94        | high           | low    | 4      | spaceship                                               |
+| retail.info     | resell    | $4,145.75   | —             | high           | medium | 6      | Porkbun LLC                                             |
+| mall.ooo        | premium   | $137,998.62 | $119.99       | high           | low    | 4      | namesilo                                                |
+| mall.tienda     | available | $46.20      | $46.20        | high           | low    | 4      | cloudflare                                              |
+| mall.sh         | resell    | —           | —             | high           | low    | 4      | www.Names.plus                                          |
+| shop.actor      | premium   | $78.54      | $78.54        | high           | medium | 4      | namesilo                                                |
+| shop.auto       | available | $1,999.99   | $2,199        | high           | medium | 4      | namesilo                                                |
+| sale.xyz        | resell    | —           | —             | high           | low    | 4      | Porkbun LLC                                             |
+| shop.apartments | premium   | $118.80     | $118.80       | high           | medium | 4      | namesilo                                                |
+| shop.car        | available | $1,999.99   | $2,199        | high           | medium | 4      | namesilo                                                |
+| shop.ac         | resell    | —           | —             | high           | medium | 4      | Dynadot Inc                                             |
+| shop.attorney   | premium   | $4,140      | $4,140        | high           | medium | 4      | namesilo                                                |
+| shop.claims     | available | $17.99      | $64.99        | high           | medium | 4      | namesilo                                                |
+| shop.adult      | resell    | —           | —             | high           | medium | 4      | Name.com, Inc.                                          |
+| shop.auction    | premium   | $1,107      | $1,107        | high           | medium | 4      | namesilo                                                |
+| shop.desi       | available | $19.98      | $22.98        | high           | medium | 4      | namecheap                                               |
+| shop.associates | resell    | —           | —             | high           | medium | 4      | Dynadot Inc                                             |
+| shop.autos      | premium   | $832        | $832          | high           | medium | 4      | namesilo                                                |
+| shop.protection | available | $1,999.99   | $2,049.99     | high           | medium | 4      | namesilo                                                |
+| shop.beer       | resell    | —           | —             | high           | medium | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 210,258 live domains                                 |
+| 1,000-row public sample | 210,232 live domains                                 |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 4,953 high-demand names under $2,500                 |
+| Basic exported fields   | 4,956 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Retail Domain Names Across 500+ TLDs*. Version 2026-10-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *One-Word Retail Domain Names Across 500+ TLDs*. Version 2026-10-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
